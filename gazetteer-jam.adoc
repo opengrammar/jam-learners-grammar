@@ -1,0 +1,180 @@
+= A Gazeteer of Placenames in Jamaican
+// settings
+:doctype: book
+:toc: left
+
+== A
+
+* *Aafwe Chrii* /aːfwetʃɹiː/, _Half Way Tree (Jamaica)_
+* *Aajentiina* /aːdʒentiːna/, _Argentina_
+* *Afrika* /afɹika/, _Africa_
+* *Airilan* /aɪɹilan/, _Ireland_
+* *Amtan* /amtan/, _Hampton_
+* *Antiiga ahn Baabyuuda* /antiːga ã baːbjuːda/, _Antigua and Barbuda_
+* *Anuova* /anuova/, _Hanover (Jamaica)_
+* *Anuova Parish* /anuova paɹiʃ/, _Hanover Parish (Jamaica)_
+* *Aschrielia* /astʃɹɪɛlja/, _Australia_
+* *Atlantik Uoshan* /atlantik uoʃan/, _Atlantic Ocean_
+
+== B
+
+* *Ba'aamaz* /ba'aːmaz/, _Bahamas_
+* *Baabiedoz* /baːbɪɛdoz/, _Barbados_
+* *Blak Riva* /blakɹiva/, _Black River (Jamaica)_
+* *Brazil* /bɹazil/, _Brazil_
+* *Britn* /bɹitn/, _Britain_
+
+== C
+
+* *Chaina* /tʃaɪna/, _China_
+* *Chrilaani* /tʃɹilaːni/, _Trelawny (Jamaica)_
+* *Chrinidad ahn Tubiego* /tʃɹinidad ã tubɪɛgo/, _Trinidad and Tobago_
+
+== D
+
+* *Daminiika* /daminiːka/, _Dominica_
+* *Daminikan Ripoblik* /daminikan ɹipoblik/, _Dominican Republic_
+* *Di Piiplz Ripoblik a Chaina* /di piːplz ɹipoblik a tʃaɪna/, _People's Republic of China_
+* *di Wes Indiiz* /diwesindiːz/, _the West Indies_
+* *Diskovri Bie* /diskovɹibɪɛ/, _Discovery Bay (Jamaica)_
+
+== F
+
+* *Falmot* /falmot/, _Falmouth (Jamaica)_
+* *Filipiinz* /filipiːnz/, _Philippines_
+* *Frans* /fɹans/, _France_
+
+== G
+
+* *Griis* /gɹiːs/, _Greece_
+* *Grinieda* /gɹinɪɛda/, _Grenada_
+
+== H
+
+* *hIeja* /hɪɛdʒa/, _Asia_
+
+== I
+
+* *Ieti* /ɪɛti/, _Haiti_
+* *Iezha* /ɪɛʒa/, _Asia_
+* *Iijip* /iːdʒip/, _Egypt_
+* *Ingglan* /iŋglan/, _England_
+* *Itali* /itali/, _Italy_
+
+== J
+
+* *Japan* /dʒapan/, _Japan_
+* *Jormani* /joɹmani/, _Germany_
+* *Jumieka* /dʒumɪɛka/, _Jamaica_
+
+== K
+
+* *Kaanwal Kounti* /kaːnwal kounti/, _Cornwall County (Jamaica)_
+* *Kasta Riika* /kastaɹiːka/, _Costa Rica_
+* *Kianada* /kjanada/, _Canada_
+* *Kiaribiyan* /kjaɹibijan/, _Caribbean_
+* *Kinston* /kinston/, _Kingston (Jamaica)_
+* *Klaax Tong* /klaːkstoŋ/, _Clark's Town (Jamaica)_
+* *Klarindan* /klaɹindan/, _Clarendon (Jamaica)_
+* *Kliermont* /klɪɛɹmont/, _Claremont (Jamaica)_
+* *Kyuuba* /kjuːba/, _Cuba_
+
+== L
+
+* *Landan* /landan/, _London_
+* *Luusi* /luːsi/, _Lucea (Jamaica)_
+
+== M
+
+* *Manchesta* /mantʃesta/, _Manchester (Jamaica)_
+* *Mandivl* /mandivl̩/, _Mandeville (Jamaica)_
+* *Mantiga Bie* /mantiga bɪɛ/, _Montego Bay (Jamaica)_
+* *Maruun Tong* /maɹuːntoŋ/, _Maroon Town (Jamaica)_
+* *Mexiko* /meksiko/, _Mexico_
+* *Mie Pen* /mɪɛpen/, _May Pen (Jamaica)_
+* *Migl Iis* /migl̩ iːs/, _Middle East_
+* *Miglsex Kounti* /migl̩seks kounti/, _Middlesex County (Jamaica)_
+* *Mobie* /mɔbɪɛ/, _Mobay (Jamaica)_
+* *Morant Bie* /moɹantbɪɛ/, _Morant Bay (Jamaica)_
+
+== N
+
+* *Naat Afrika* /naːt afɹika/, _North Africa_
+* *Naat Amerika* /naːt amɛɹɪka/, _North America_
+* *Naijiiria* /naɪdʒiːɹja/, _Nigeria_
+* *Nedalanz* /nedalanz/, _Netherlands_
+* *Nigril* /nigɹil/, _Negril (Jamaica)_
+* *Nyuu Yaak* /njuːjaːk/, _New York_
+* *Nyuu Yaak Siti* /njuːjaːk siti/, _New York City_
+
+== P
+
+* *Pakistan* /pakistan/, _Pakistan_
+* *Panish Tong* /paniʃtoŋ/, _Spanish Town (Jamaica)_
+* *Puot Antuoni* /puɔt antuɔni/, _Port Antonio (Jamaica)_
+* *Puot Maraya* /puotmaɹaja/, _Port Maria (Jamaica)_
+* *Puotlan* /puɔtlan/, _Portland (Jamaica)_
+* *Puotmuor* /puotmuoɹ/, _Portmore (Jamaica)_
+
+== R
+
+* *Raki Paint* /ɹakipaɪnt/, _Rocky Point (Jamaica)_
+* *Raya Byuuno* /ɹajabjuːno/, _Rio Bueno (Jamaica)_
+* *Ripoblik a Airilan* /ɹipoblik a aɪɹilan/, _Republic of Ireland_
+* *Ripoblik a Chaina* /ɹipoblik a tʃaɪna/, _Republic of China_
+* *Rivazdiel* /ɹivazdɪɛl/, _Riversdale (Jamaica)_
+* *Ronawe Bie* /ɹonawebɪɛ/, _Runaway Bay (Jamaica)_
+* *Rosha* /ɹoʃa/, _Russia_
+
+== S
+
+* *Saadi Ariebia* /saːdi aɹɪɛbja/, _Saudi Arabia_
+* *Santa Kruuz* /santakɹuːz/, _Santa Cruz (Jamaica)_
+* *Savlamaar* /savlamaːɹ/, _Savanna-la-Mar (Jamaica)_
+* *Senchral hIeja* /sentʃɹalhɪɛdʒa/, _Central Asia_
+* *Sin Jiemz* /sindʒɪɛmz/, _Saint James (Jamaica)_
+* *Sin Kiachrin* /sinkjatʃɹin/, _Saint Catherine (Jamaica)_
+* *Sin Kits ahn Niivis* /sinkits ã niːvis/, _Saint Kitts and Nevis_
+* *Sin Luusha* /sinluːʃa/, _Saint Lucia_
+* *Sin Mieri* /sinmɪɛɹi/, _Saint Mary (Jamaica)_
+* *Sin Tamas* /sintamas/, _Saint Thomas (Jamaica)_
+* *Sin Vinsn ahn di Grenidiinz* /sinvinsn̩ ã di gɹenidiːnz/, _Saint Vincent and the Grenadines_
+* *Singgapuor* /siŋgapuoɹ/, _Singapore_
+* *Sint An* /sintan/, _        Saint Ann (Jamaica)_
+* *Sint Anju* /sintandʒu/, _Saint Andrew (Jamaica)_
+* *Sint Anz Bie* /sintanzbɪɛ/, _Saint Ann's Bay (Jamaica)_
+* *Sint Ilizibet* /sintilizibet/, _Saint Elizabeth (Jamaica)_
+* *Sori Kounti* /soɹi kounti/, _Surrey County (Jamaica)_
+* *Sout Afrika* /sout afɹika/, __
+* *Sout Koria* /sout koɹia/, _South Korea_
+* *Soutiis Ieja* /soutiːsɪɛdʒa/, _Southeast Asia_
+* *Spien* /spɪɛn/, _Spain_
+* *Suitsalan* /suitsalan/, _Switzerland_
+* *Suoviet Yuunian* /suovɪɛt juːnjan/, _Soviet Union_
+* *Swiidn* /swiːdn̩/, _Sweden_
+
+== T
+
+* *Tailan* /taɪlan/, _Thailand_
+* *Torki* /Toɹki/, _Turkey_
+
+== U
+
+* *Uochi Rayas* /uotʃiɹajas/, _Ocho Rios (Jamaica)_
+
+== V
+
+* *Vietnam* /vɪɛtnam/, _Vietnam_
+
+== W
+
+* *Wes Afrika* /wes afɹika/, _West African_
+* *Wesmolan* /wesmolan/, _Westmoreland (Jamaica)_
+* *Westan Yuurop* /wɛstan juːɹop/, _Western Europe_
+
+== Y
+
+* *Yunaitid Kindom* /junaɪtid kindom/, _United Kingdom_
+* *Yunaitid Stiet* /junaɪtid stɪɛt/, _United States_
+* *Yuukrien* /juːkɹɪɛn/, _Ukraine_
+* *Yuurop* /juːɹop/, _Europe_

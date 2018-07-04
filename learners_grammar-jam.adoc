@@ -1,0 +1,2980 @@
+= A Learner's Grammar of Jamaican: Part of the Open Grammar Project
+// settings
+:doctype: book
+:toc: macro
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+:figure-caption!:
+:icons: font
+:chapter-label: 
+
+toc::[]
+
+== Introduction
+
+=== The Open Grammar Project
+
+This volume is part of a series of learner's grammars by the Open Grammar Project. Like the other entries in the series, it is first and foremost an ongoing _synthesis_ of available linguistic information, which has been compiled, organized, and annotated so as to be maximally useful to *learners* rather than (just) *linguists*. It is assumed that the reader is interested in making the journey _from_ the source language _to_ the target language, and provides succinct advice on a range of relevant topics to make that journey easier. It also takes for granted that the learner is seeking to speak and write (as well as read and understand) a _living_ language of practical rather than just scholarly interest.
+
+In this task we are indebted to the source works listed in the bibliography section at the end of each volume. Many of the sources consulted are the work of linguistic experts, and those interested in learning more about the workings of a particular language are encouraged to seek out these source materials to read more deeply on the subject. The concept of a _learner grammar_ as used here, however, differs in both purpose and form from traditional linguistic grammars: it has most significantly a _didactic_ rather than simply _descriptive_ goal, and is further organized broadly under headings and topics according to the _source_ rather than _target_ grammar to make it easier for the learner to find the information they are looking for using familiar terms and categories.
+
+There are a number of other unique features of this book. The content and source code of the book is open licensed and has been designed specifically to allow for easy machine as well as human parsing of the information within. The project is also "open" in the sense that additions, changes, corrections, and other contributions are welcome from anyone interested in improving the quality of the material.
+
+More detailed information about the Open Grammar Project and the Learner's Grammar series can be found on the project home page:
+
+https://opengrammar.github.io/
+
+It is intended that this series be a complement rather than an alternative to both linguistic grammars and classroom textbooks, and it is hoped that it may serve as a useful reference for both new learners and those wishing to improve or maintain their language skills.
+
+=== Source
+
+The source code for this book can be found in the https://github.com/opengrammar/learners-grammar-jam[project repository on GitHub].
+
+The PDF version is available https://opengrammar.github.io/[here].
+
+This book also comes with a number of appendices:
+
+* https://opengrammar.github.io/jam/gazetteer/[A Gazeteer of Placenames in Jamaican] (https://opengrammar.github.io/jam/gazetteer/gazetteer-jam.pdf[PDF])
+* https://opengrammar.github.io/jam/glossary/[A Learner's Glossary of Jamaican] (https://opengrammar.github.io/jam/gazetteer/glossary-jam.pdf[PDF])
+
+=== Jamaican
+
+==== Name
+
+The Jamaican language goes by a variety of names in different contexts: *Patwa* (_Patois_), Jamaican Patwa, Creole, Jamaican Creole, Afro-Jamaican, JamC, JC, AfroJam, or simply *Jamiekan* (_Jamaican_), with the most common among Jamaican speakers themselves being *Patwa*.
+
+Although Jamaican is the native and first language of almost the entire population of Jamaica, it takes a number of different forms that fall along a continuum stretching from the _basilect_ (furthest distance from Standard Jamaican English) to the _acrolect_ (closest distance from Standard Jamaican English). Forms all along the middle of this continuum are common in Jamaica, while the extremes (basilectal and acrolectal forms) are relatively rare.
+
+Following the example of most published linguistic grammars, this text will tend towards an idealized basilectal form which for simplicity's sake will be referred to as _Jamaican_.
+
+== Writing system
+
+=== Alphabet
+
+The Jamaican alphabet consists of 25 letters, including one letter -- *c* -- which is sometimes (as here) considered a digraph, since it only appears in the form *ch*
+
+* lowercase letters: *a*, *b*, *ch*, *d*, *e*, *f*, *g*, *h*, *i*, *j*, *k*, *l*, *m*, *n*, *o*, *p*, *r*, *s*, *t*, *u*, *v*, *w*, *x*, *y*, *z*
+* uppercase letters: *A*, *B*, *Ch*, *D*, *E*, *F*, *G*, *H*, *I*, *J*, *K*, *L*, *M*, *N*, *O*, *P*, *R*, *S*, *T*, *U*, *V*, *W*, *X*, *Y*, *Z*
+
+==== Overview of Jamaican alphabet
+
+|===
+|Uppercase |Lowercase |Name |Pronunciation (IPA) |Notes
+
+|A |a |ie |/a/ |
+|B |b |bii |/b/ |
+|Ch |ch |chii |/tʃ/ |
+|D |d |dii |/d/ |
+|E |e |hii |/e/ |
+|F |f |hef |/f/ |
+|G |g |jii |/g/ |
+|H |h |iech |/h/ |the pronunciation (or absence) of *h* depends on dialect
+|I |i |hai |/i/ |
+|J |j |jie |/dʒ/ |
+|K |k |kie |/k/ |
+|L |l |hel |/l/ |
+|M |m |hem |/m/ |
+|N |n |hen |/n/ |
+|O |o |uo |/o/ |
+|P |p |pii |/p/ |
+|R |r |haar |/ɹ/ |
+|S |s |hes |/s/ |
+|T |t |tii |/t/ |
+|U |u |yuu |/u/ |
+|V |v |vii |/v/ |
+|W |w |doblyu |/w/ |
+|X |x |ex |/ks/ |
+|Y |y |wai |/j/ |
+|Z |z |zed |/z/ |
+|===
+
+=== Special Characters
+
+Jamaican in the orthography presented here (based on the Cassidy-JLU System) does not require any special characters or diacritics to write.
+
+=== Punctuation
+
+==== Basic punctuation
+
+Punctuation in Jamaican generally follows the same conventions as Standard Jamaican English and UK English more generally
+
+Some writers may use an apostrophe to separate two words that should be read together
+
+* *no av* -> *na'av* (_not have_)
+
+Sometimes an apostrophe may be used to indicate sound change when two words are merged
+
+* *du it* -> *dwi'it* (_do it_)
+
+It may also be used to avoid difficult to pronounce strings of letters in the merged word
+
+* *gi iin* -> *gi'iin* (_give in_)
+
+
+== Pronunciation
+
+=== Vowels
+
+There are five short vowels, three long vowels, and four diphthongs in Jamaican
+
+* short vowels: *a*, *e*, *i*, *o*, *u*
+* long vowels: *aa*, *ii*, *uu*
+* diphthongs: *ai*, *ie*, *uo*, *ou*
+
+==== Vowel length
+
+Vowels in Jamaican can be either short or long
+
+* short vowels: *a*, *e*, *i*, *o*, *u*
+* long vowels: *aa*, *ii*, *uu*
+
+===== Short vowels
+
+There are five short vowels in Jamaican
+
+* short vowels: *a*, *e*, *i*, *o*, *u*
+
+The short vowel *a* is pronounced /a/, as the "a" in _father_
+
+* *aliv* /aliv/, _olive_
+* *ban* /ban/, _band_
+* *wan* /wan/, _one_
+* *dala* /dala/, _dollar_
+* *bada* /bada/, _bother_
+
+The short vowel *e* is pronounced /e/, as the "e" in _bed_
+
+* *ded* /ded/, _dead_
+* *bel* /bel/, _bell_
+* *breda* /bɹeda/, _brother / friend_
+
+The short vowel *i* is pronounced /ɪ/, as the "i" in _thin_
+
+* *sik* /sɪk/, _sick_
+* *migl* /mɪgl/, _middle_
+* *bita* /bɪta/, _bitter_
+
+The short vowel *o* is pronounced /o/, as the "o" in _@_
+
+* *kot* /kot/, _cut_
+* *ogli* /oglɪ/, _ugly_
+
+The short vowel *u* is pronounced /u/ (recognized as /ʊ/ by some authors), as the "u" in _@_
+
+* *dukunu* /dukunu/, (a kind of pudding)
+* *kuk* /kuk/, _cook_
+* *butu* /butu/
+
+===== Long vowels
+
+The long vowels are pronounced by doubling the length of the corresponding short vowels
+
+* long vowels: *aa*, *ii*, *uu*
+
+====== *aa*
+The long vowel *aa* is pronounced /a:/, as the _@_ in _@_
+
+* *aad* /a:d/, _hard_
+* *aaf* /a:f/, _half_
+* *aaks* /a:ks/, _ask_
+* *baal* /ba:l/, _ball_
+* *baat* /ba:t/, _bath_
+* *baaba* /ba:ba/, _barber_
+* *saaf* /sa:f/, _soft_
+* *Naat Amerika* /na:t ameɹɪka/, _North America_
+* *kwaat* /kwa:t/, _quart_
+* *yaad* /ja:d/, _yard_
+* *aad iez* /a:d iez/, _disobedient_
+* *plaan* /pla:n/, _plant_
+* *kaan* /ka:n/, _corn_
+* *taak* /ta:k/, _talk_
+* *waata* /wa:ta/, _water_
+
+====== *ii*
+The long vowel *ii* is pronounced /i:/, as the "@" in_@_
+
+* *iit* /i:t/, _eat_
+* *tii* /ti:/, _tea_
+* *miin* /mi:n/, _mean_
+* *siin* /si:n/, _agreed, OK_ (affirmative particle)
+* *tiich* /ti:tʃ/, _teach_
+* *biini* /bi:ni/, _tiny_
+* *paliis* /pali:s/, _police_
+
+====== *uu*
+The long vowel *uu* is pronounced /u:/, as the "@" in_@_
+
+* *buut* /bu:t/, _booth / boot_
+* *shuut* /ʃu:t/, _shoot_
+* *byuuti* /bju:tɪ/, _beauty_
+* *skuul* /sku:l/, _school_
+* *dailuut* /daɪlu:t/, _dilute_
+* *uu* /u:/, _who_
+* *mangguus* /maŋgu:s/, _mongoose_
+* *Yuukrien* /ju:kɹɪɛn/, _Ukraine_
+* *Kyuuba* /kju:ba/, _Cuba_
+* *Yuurop* /ju:ɹop/, _Europe_
+* *yuut* /ju:t/, _youngster_
+* *myuuzik* /mju:zɪk/, _music_
+* *kuul* /ku:l/, _cool_
+* *pyuuriti* /pju:ɹɪtɪ/, _purity_
+* *fuud* /fu:d/, _food_
+* *fyuu* /fju:/, _few_
+* *ruut* /ɹu:t/, _root_
+* *hatityuud* /hatɪtju:d/, _attitude_
+* *nyuu* /nju:/, _new_
+* *chruu* /tʃɹu:/, _through_
+* *chuun* /tʃu:n/, _tune_
+* *chuut* /tʃu:t/, _truth_
+
+==== Diphthongs
+
+There are four diphthongs in Jamaican
+
+* diphthongs: *ai*, *ie*, *uo*, *ou*
+
+===== *ai*
+
+The diphthong *ai* is pronounced /aɪ/, as the "igh" in _sigh_ or the "y" in _try_
+
+* *baik* /baɪk/, _bike_
+* *chrai* /tʃɹaɪ/, _try_
+* *rait* /ɹaɪt/, _write_
+* *taim* /taɪm/, _time_
+* *fain* /faɪn/, _find_
+* *hAirish* /haɪɹiʃ/ or /aɪɹiʃ/, _Irish_
+* *dairek* /daɪɹek/, _direct_
+* *ail* /aɪl/, _oil_
+* *bwai* /bwaɪ/, _boy_
+* *bait* /baɪt/, _bite_
+* *bwail* /bwaɪl/, _boil_
+* *paint* /paɪnt/, _point_
+* *pwail* /pwaɪl/, _spoil_
+* *sait* /saɪt/, _sight / site_
+* *madifai* /madifaɪ/, _modify_
+* *yai* /jaɪ/, _eye_
+
+===== *ie*
+
+The diphthong *ie* is pronounced /ɪɛ/, as the "@" in _@_ or the "@" in _@_
+
+* *kiek* /kɪɛk/, _cake_
+* *biek* /bɪɛk/, _bake_
+* *mien* /mɪɛn/, _main_
+* *aalzwie* /a:lzwɪɛ/, _always_
+* *aatiek* /a:tɪɛk/, _heartache_
+* *badarieshan* /badaɹɪɛʃan/, _hassle / inconvenience_
+* *bied* /bɪɛd/, _bathe / beard_
+* *biefies* /bɪɛfɪɛs/, _bare-faced / blatant_
+* *biev* /bɪɛv/, _to behave_
+* *chriet* /tʃɹɪɛt/, _straight_
+* *exkiep* /ekskɪɛp/, _to escape_
+* *fiet* /fɪɛt/, _fate / faith_
+* *iel* /ɪɛl/, _to greet_
+* *ier* /ɪɛɹ/, _year / hair / hear_
+* *iez* /ɪɛz/, _ear_
+* *sitieshan* /sitɪɛʃan/, _situation_
+* *hiet* /hɪɛt/, _eight_
+* *die* /dɪɛ/, _day_
+* *Mie* /mɪɛ/, _May_
+* *liedi* /lɪɛdi/, _lady_
+* *liet* /lɪɛt/, _late_
+* *rien* /ɹɪɛn/, _rain_
+* *ies* /ɪɛs/, _haste, hurry_
+* *tieta* /tɪɛta/, _theatre_
+* *Mantiga Bie* /mantiga bɪɛ/, _Montego Bay_
+* *Mobie* /mɔbɪɛ/, _Mobay_
+* *jiel* /jɪɛl/, _jail_
+* *biebi* /bɪɛbi/, _baby_
+* *jinarieshan* /dʒinaɹɪɛʃan/, _relatives_
+* *nieshan* /nɪɛʃan/, _nation_
+* *miebi* /mɪɛbi/, _maybe_
+* *fies* /fɪɛs/, _face_
+* *niel* /nɪɛl/, _nail_
+* *tiel* /tɪɛl/, _tail_
+* *pitieta* /pitɪɛta/, _potato_
+* *pliet* /plɪɛt/, _plate_
+* *pier* /pɪɛɹ/, _avocado_
+* *siem* /sɪɛm/, _same_
+* *shiem* /ʃɪɛm/, _shame_
+* *spies* /spɪɛs/, _space_
+* *chienj* /tʃɪɛndʒ/, _change_
+* *Mieri* /mɪɛɹi/, _Mary_
+* *tiebl* /tɪɛbl/, _table_
+* *wie* /wɪɛ/, _way_
+* *niem* /nɪɛm/, _name_
+* *sieka* /sɪɛka/, _because_
+* *ieti* /ɪɛti/, _eighty_
+
+NOTE: This diphthong is sometimes written as *ia* with the corresponding pronunciation /iɐ/
+
+===== *uo*
+
+The diphthong *uo* is pronounced /uɔ/, as the "@" in _@_ or the "@" in _@_
+
+* *gruo* /gɹuɔ/, _grow_
+* *uol* /uɔl/, _hole / whole / old_
+* *kuoknat* /kuɔknat/, _coconut_
+* *suos* /suɔs/, _source_
+* *huoliip* /huɔli:p/, _many / a lot_
+* *luokal* /luɔkal/, _local_
+* *guol* /guɔl/, _goal / gold_
+* *guot* /guɔt/, _goat_
+* *nuoz* /nuɔz/, _nose_
+* *puos* /puɔs/, _post_
+* *shuo* /ʃuɔ/, _show_
+* *uona* /uɔna/, _owner_
+* *fuo* /fuɔ/, _four_
+* *kuol* /kuɔl/, _cold_
+* *uoba* /uɔba/, _over_
+* *kuos* /kuɔs/, _coast_
+* *ruod* /ɹuɔd/, _road_
+* *raktuon* /ɹaktuɔn/, _stone_
+* *puosi* /puɔsi/, _postman_
+* *shuolda* /ʃuɔlda/, _shoulder_
+* *tuo* /tuɔ/, _toe_
+* *ruos* /ɹuɔs/, _roasted_
+* *nuo* /nuɔ/, _know_
+* *puo* /puɔ/, _poor_
+* *buot* /buɔt/, _boat_
+* *tuori* /tuɔɹi/, _story_
+* *muo* /muɔ/ or *muor* /muɔɹ/, _more_
+* *nuot* /nuɔt/, _note_
+* *muos* /muɔs/, _most_
+* *uom* /uɔm/, _home_
+* *duo* /duɔ/, _door_
+* *suop* /suɔp/, _soap_
+* *puot* /puɔt/, _sports_
+* *suos* /suɔs/, _source_
+* *papishuo* /papiʃuɔ/, _foolishness_ (exclamation of surprise)
+* *juok* /dʒuɔk/, _joke_
+* *stuon* /stuɔn/, _stone_
+
+NOTE: This diphthong is sometimes written as *ua* with the corresponding pronunciation /ʊɐ/
+
+When *uo* is at the beginning of a word, it may sometimes be pronounced (and written) with either an *h* or a *w* in front of it, depending on the speaker
+
+* *uol* (_hole / whole / old_) -> *huol* -> *wuol*
+
+This applies to derivative terms as well
+
+* *uoliip* -> *huoliip* -> *wuoliip* (_many / a lot / large group_)
+* *uol-taima* -> *huol-taima* -> *wuol-taima* (_old-timer_)
+* *di uol a dem* -> *di huol a dem* -> *di wuol a dem* (_all of them / everyone_)
+
+
+===== *ou*
+
+The diphthong *ou* is pronounced /ɔu/, as the "@" in _@_ or the "@" in _@_
+
+* *kou* /kɔu/, _cow_
+* *toun* /tɔun/, _town_
+
+NOTE: This diphthong is sometimes written as *au* with the corresponding pronunciation /ɔʊ/
+
+==== Nasal Vowels
+
+There are five nasal vowels in Jamaican, corresponding to the five short vowels listed above
+
+* Nasal vowels: *ahn*, *ehn*, *ihn*, *ohn*, *uhn*
+* Nasal vowel sounds: /ã/, /ɛ̃/, /ĩ/, /õ/, /ũ/
+
+As seen above, the letters *­hn* are added after a vowel to indicate that it is a nasal vowel:
+
+* *ahn* /ã/, _and_
+
+Long vowels can also be nasalized with *hn*
+
+* *kyaahn* /kjã:/, _can't_
+* *iihn* /ĩ:/, _isn't it?_
+
+The nasal vowel *ahn* is pronounced /ã/, as in the "anc" in French _blanc_
+
+* *pahn* /pã/ _on, upon_
+* *frahn* /fɹã/, _from_
+* *ahn* /ã/, _and_
+* *kiahn* /kjã/, _can_
+* *wahn* /wã/, _want_
+* *kyaahn* /kjã:/, _cannot_
+
+The nasal vowel *ehn* is pronounced /ɛ̃/, as the "in" in French _vin_
+
+* *wehn* /wɛ̃/, (anterior marker)
+* *dehn* /dɛ̃/, _they_
+
+The nasal vowel *ihn* is pronounced /ĩ/, as the "@" in _@_
+
+* *ihn* /ĩ/, _he / she_
+
+The nasal vowel *ohn* is pronounced /õ/, as the "on" in French _bon_
+
+NOTE: this sound should be represented by /ɔ̃/, which is a precomposed character ɔ combined with a tilde [~]; for convenience, /õ/ is used here in its place)
+
+* *sohn* /sõ/, _some_
+* *duohn* /duõ/, _don't_
+
+The nasal vowel *uhn* is pronounced /ũ/, as the "un" in French _un_
+
+* *suhn* /sũ/, _soon_
+
+==== Table of vowels and diphthongs
+
+|===
+|Vowel |Pronunciation |Length |Example |Notes
+
+|*a* |/a/ |short |*wan* |as the "a" in _father_
+|*e* |/e/ |short |*bel* |as the "e" in _bed_
+|*i* |/ɪ/ |short |*migl* |as the "i" in _thin_
+|*o* |/o/ |short |*kot* |
+|*u* |/u/ |short |*kuk* |as the "oo" in _cool_
+|*aa* |/a:/ |long |*baal* |
+|*ii* |/i:/ |long |*siin* |
+|*uu* |/u:/ |long |*yuut* |
+|*ahn* |/ã/ |short, nasal |*pahn* |as in the "anc" in French _blanc_
+|*ehn* |/ɛ̃/ |short, nasal |*wehn* |as the "in" in French _vin_
+|*ihn* |/ĩ/ |short, nasal |*ihn* |
+|*ohn* |/õ/ |short, nasal |*sohn* |as the "on" in French _bon_
+|*uhn* |/ũ/ |short, nasal |*suhn* |as the "un" in French _un_
+|*ai* |/aɪ/ |diphthong |*baik* |as the "igh" in _sigh_ or the "y" in _try_
+|*ie* |/ɪɛ/ |diphthong |*kiek* |
+|*uo* |/uɔ/ |diphthong |*ruod* |
+|*ou* |/ɔu/ |diphthong |*kou* |
+|===
+
+==== Sounds to note
+
+===== *ya* (*ia*)
+
+The sound *ya* /ja/ is equivalent to, and sometimes written as, *ia*:
+
+* *nyam* (*niam*) /ɲam/, _eat_
+* *gyal* (*gial*), _girl_
+
+===== *yaa* (*iaa*)
+
+Likewise, the lengthened version *yaa* /ja:/ is equivalent to, and sometimes written as, *iaa*:
+
+* *kyaahn* (*kiaahn*) /kjã:/, _cannot, can't_
+* *gyaadn* (*giaadn*) /gja:dn̩/, _garden_
+* *kyaar* (*kiaar*) /kja:r/, _car_
+* *gyaad* (*giaad*) /gja:d/, _guard_
+* *kyaahn* or *kyaan* (*kiaahn* or *kiaan*) /kjã:/ or /kja:n/, _cannot, can't_
+* *pyaahn-pyaahn* (*piaahn-piaahn*) /pjã:pjã:/, _weak_
+
+
+=== Consonants
+
+There are 23 consonants in Jamaican
+
+* Consonants: *b*, *d*, *ch*, *f*, *g*, *h*, *j*, *k*, *l*, *m*, *n*, *ng*, *p*, *r*, *s*, *sh*, *t*, *v*, *w*, *x*, *y*, *z*, *zh*
+
+The consonant *b* is pronounced /b/, as the "b" in _book_
+
+* *bami* /bamɪ/, _bammy_ (a traditional cassava flatbread)
+* *botn* /botn/, _button_
+* *biek* /bɪɛk/, _bake_
+* *bigop* /bɪgop/, _praise, commend_
+
+The consonant *d* is pronounced /d/, as the "d" in _door_
+
+* *dopi* /dopɪ/, _ghost_
+* *daag* /da:g/, _dog_
+
+The consonant *ch* is pronounced /tʃ/, as the "ch" in _chair_
+
+* *choch* /tʃotʃ/, _church_
+* *chruu* /tʃɹu:/, _through_
+* *chuun* /tʃu:n/, _tune_
+* *chuut* /tʃu:t/, _truth_
+* *chrikifai* /tʃɹikifai/, _cunning_
+
+The consonant *f* is pronounced /f/, as the "f" in _four_
+
+* *feda* /feda/, _feather_
+* *fuud* /fu:d/, _food_
+* *fyuu* /fju:/, _few_
+* *falara* /falaɹa/, _follower_
+
+The consonant *g* is pronounced /f/, as the "f" in _four_
+
+* *goli* /golɪ/, _gully_
+* *guot* /guot/, _goat_
+
+The consonant *h* can be silent, or depending on the speaker, dialect, and emphasis it may be pronounced /h/, as the "h" in _happy_
+
+* *hit* /hɪt/ or /ɪt/, _to hit_
+* *hen* /hen/ or /en/, _hen_
+* *hAirish* /haɪɹiʃ/ or /aɪɹiʃ/, _Irish_
+
+The consonant *j* is pronounced /dʒ/, as the "j" in _jump_
+
+* *mieja* /mɪɛdʒa/, _measure_
+* *joj* /dʒodʒ/, _judge_
+* *vijan* /vɪdʒan/, _vision_
+
+The consonant *k* is pronounced /k/, as the "c" in _cut_
+
+* *kait* /kaɪt/, _kite_
+* *kalij* /kalɪdʒ/, _college_
+* *kisaada* /kisa:da/, _cassava_
+* *klaat* /kla:t/, _cloth_
+* *kolcha* /koltʃa/, _culture_
+* *konchri* /kontʃɹi/, _country_
+* *kom* /kom/, _come_
+* *kot* /kot/, _cut_
+
+The consonant *l* is pronounced /l/, as the "l" in _left_
+
+* *laiyad* /laɪjad/, _liar_
+* *laiyan* /laɪjan/, _lion_
+* *liin* /li:n/, _lean_
+
+The consonant *m* is pronounced /m/, as the "m" in _map_
+
+* *magij* /magɪdʒ/, _maggot_
+* *man* /man/, _man_
+
+The consonant *n* is pronounced /n/, as the "n" in _new_
+
+* *nomba* /nomba/, _number_
+* *nais* /naɪs/, _nice_
+
+The consonant *ng* is pronounced /ŋ/, as the "ng" in _wing_
+
+* *sang* /saŋ/, _song_
+* *sing* /sɪŋ/, _sing_
+* *grong* /gɹoŋ/, _ground_
+
+The consonant *p* is pronounced /p/, as the "p" in _pear_
+
+* *picha* /pitʃa/, _picture_
+* *piil* /pi:l/, _peel_
+* *pudn* /pudn/, _pudding_
+* *pus* /pus/, _cat_
+
+The consonant *r* is pronounced /ɹ/, as the "r" in _red_
+
+* *redi* /ɹedɪ/, _ready_
+* *ron* /ɹon/, _run_
+* *rait* /ɹaɪt/, _write_
+
+The consonant *s* is pronounced /s/, as the "s" in _sin_
+
+* *sinieli* /sɪnɪɛli/, _snail_
+* *sik* /sɪk/, _sick_
+
+The consonant *sh* is pronounced /ʃ/, as the "sh" in _shoe_
+
+* *shuo* /ʃuo/, _show_
+* *shap* /ʃap/, _shop_
+* *shout* /ʃout/, _shout_
+* *sheda* /ʃeda/, _shadow_
+* *shaat* /ʃa:t/, _short_
+* *shuga* /ʃuga/, _sugar_
+* *shuolda* /ʃuolda/, _shoulder_
+* *shaachij* /ʃa:tʃɪdʒ/, _shortage_
+* *disepshos* /dɪsepʃos/, _deceitful_
+* *sofarieshan* /sofarɪɛʃan/, _suffering_
+
+The consonant *t* is pronounced /t/, as the "t" in _tin_
+
+* *tiks* /tɪks/, _a tick_
+* *tuu* /tu:/, _two; too_
+* *toti* /totɪ/, _thirty_
+
+The consonant *v* is pronounced /v/, as the "v" in _very_
+
+* *van* /van/, _van_
+* *vuot* /vuot/, _vote_
+
+NOTE: In the acrolect, *v* may be replaced with *b*, e.g.: *lob* -> *lov* (_love_).
+
+The consonant *w* is pronounced /w/, as the "w" in _well_
+
+* *wala* /wala/, _wallow_
+* *wail* /waɪl/, _wild_
+
+The consonant *x* is pronounced /ks/, as the "x" in _exercise_
+
+* *aax* /aːks/, _ask_
+* *mongx* /moŋks/, _among; amongst_
+
+NOTE: In some orthographies, *x* may be written as *ks*, e.g.: *aaks*, *mongks*, etc.
+
+The consonant *y* is pronounced /j/, as the "y" in _you_
+
+* *yampi* /jampi/, _yampi_ (a small variety of yam)
+* *yong* /joŋ/, _young_
+* *yai* /jaɪ/, _eye_
+* *yaad* /ja:d/, _yard_
+
+The consonant *z* is pronounced /z/, as the "z" in _zoo_
+
+* *zela* /zela/, (a wake for the dead)
+* *zuu* /zu:/, _zoo_
+
+The consonant *zh* is only used in loanwords; it is pronounced /ʒ/, as the "s" in _illusion_
+
+* *plezha* /pleʒa/, _pleasure_
+* *vorzhan* /voɹʒan/, _version_
+* *chrezha* /chɹeʒa/, _treasure_
+* *divizhan* /diviʒan/, _division_
+
+NOTE: In the acrolect, *zh* may be replaced by *j* /dʒ/, for example: *pleja*, *vorjan*, *chreja*, *divijan*, etc.
+
+==== Overview of Consonant Sounds
+
+|===
+|Consonant |Pronunciation |Example |Notes
+
+|*b* |/b/ |*bami* |as the "b" in _book_
+|*d* |/d/ |*dopi* |as the "d" in _door_
+|*ch* |/tʃ/ |*choch* |as the "ch" in _chair_
+|*f* |/f/ |*feda* |as the "f" in _four_
+|*g* |/f/ |*goli* |as the "f" in _four_
+|*h* |/h/ |*hit* |as the "h" in _happy_; may be silent depending on the speaker and dialect
+|*j* |/dʒ/ |*joj* |as the "j" in _jump_
+|*k* |/k/ |*kalij* |as the "c" in _cut_
+|*l* |/l/ |*laiyad* |as the "l" in _left_
+|*m* |/m/ |*man* |as the "m" in _map_
+|*n* |/n/ |*nomba* |as the "n" in _new_
+|*ng* |/ŋ/ |*sang* |as the "ng" in _wing_
+|*p* |/p/ |*pudn* |as the "p" in _pear_
+|*r* |/ɹ/ |*redi* |as the "r" in _red_
+|*s* |/s/ |*sinieli* |as the "s" in _sin_
+|*sh* |/ʃ/ |*shuo* |as the "sh" in _shoe_
+|*t* |/t/ |*toti* |as the "t" in _tin_
+|*v* |/v/ |*vuot* |as the "v" in _very_
+|*w* |/w/ |*wail* |as the "w" in _well_
+|*y* |/j/ |*yaad* |as the "y" in _you_
+|*z* |/z/ |*zela* |as the "z" in _zoo_
+|*zh* |/ʒ/ |*plezha* |as the "s" in _illusion_; only used in loanwords
+|===
+
+==== Consonant Combinations
+
+*ny*, *gy*, *ky*
+
+In some loanwords from West African languages, *ny* is pronounced (/ɲ/) as in the "ñ" in Spanish _enseñar_
+
+* *nyam* /ɲam/, _eat_
+
+The combination *ky* is pronounced /kj/, as in @ (this sound is written with the symbol /c/ in IPA, but for clarity we have written it phonemically as /kj/):
+
+* *kyaahn* /kjãː/, _can't; cannot_
+
+Similarly, *gy* is pronounced /gj/ (or more accurately /ɟ/) as in @:
+
+* *gyaadn* /ɟaːdn̩/, _garden_
+
+NOTE: Some people may write *niam* instead of *nyam*, and *kiaan* for *kyaan*, *gial* for *gyal*, et cetera
+
+
+*chr*
+
+* *chrabl* /tʃɹabl̩/, _travel_
+* *chrai* /tʃɹaɪ/, _try_
+* *chrang* /tʃɹaŋ/, _strong_
+* *chrent* /tʃɹent/, _strength_
+* *chriet* /tʃɹɪɛt/, _straight_
+* *chrii* /tʃɹi:/, _tree, three_
+* *chriit* /tʃɹi:t/, _treat_
+* *chrik* /tʃɹik/, _trick_
+* *chrikifai* /tʃɹikifai/, _cunning_
+* *chrech* /tʃɹetʃ/, _stretch_
+* *chrecha* /tʃɹetʃa/, _stretcha_
+* *chrangga* /tʃɹaŋga/, _stronger_
+
+*jr*
+
+* *jraafut* /dʒɹa:fut/, _lame_
+* *jred* /dʒɹed/, _Rastafarian_
+* *jresbak* /dʒɹesbak/, _reverse_
+* *jresdong* /dʒɹesdoŋ/, _shift position_
+* *jriepop* /dʒɹɪɛpop/, _accost_
+* *jraadong* /dʒɹa:doŋ/, _reduced_
+* *jraaz* /dʒɹa:z/, _drawers_
+* *jraa* /dʒɹa:/, _draw_
+* *jrap* /dʒɹap/, _drop_
+* *jringk* /dʒɹiŋk/, _drink_
+* *jrai* /dʒɹaɪ/, _dry_
+* *jres* /dʒɹes/, _dress_
+* *jrom* /dʒɹom/, _drum_
+* *brejrin* /bɹedʒɹin/, _friend_
+* *onjrid* /ondʒɹid/, _hundred_
+
+*xk*
+
+* *exkiep* /ekskɪɛp/, _to escape_
+
+==== Sounds to note
+
+===== Syllabic *n*
+
+Syllabic *n* is pronounced /n̩/, and can occur following *b*, *d*, *s*, *t*, or *z*
+
+* *notn* /notn̩/, _nothing_
+* *sebn* /sebn̩/, _seven_
+* *kudn* /kudn̩/, _could not_
+* *ebn* /ebn̩/, _heaven_
+* *gyaadn* /gja:dn̩/, _garden_
+* *iibn* /i:bn̩/, _even_
+* *sitn* /sitn̩/, _something_
+* *wapn-bapn* /wapn̩bapn̩/, _poorly constructed, thrown together_
+* *touzn* /touzn̩/, _thousand_
+* *mountn* /mountn̩/, _mountain_
+* *kriebn* /kɹɪɛbn̩/, _gluttonous_
+* *pudn* /pudn̩/, _pudding_
+* *fraitn* /fɹaɪtn̩/, _frighten_
+* *paadn* /pa:dn̩/, _pardon_
+* *katn* /katn̩/, _cotton_
+* *Swiidn* /swi:dn̩/, _Sweden_
+* *riizn* /ɹi:zn̩/, _reason_
+* *lisn* /lisn̩/, _listen_
+* *paasn* /pa:sn̩/, _preacher_
+* *kozn* /ko:zn̩/, _cousin_
+
+===== Syllabic *l*
+
+* *haxesobl* /haksesobl̩/, _accessible_
+* *anmigl* /anmigl̩/, _palm_
+* *bringgl* /bɹiŋgl̩/, _agitated_
+* *iejobl* /ɪɛdʒobl̩/, _mature, as in person_
+* *manazebl* /manazebl̩/, _polite_
+* *onggl* /oŋgl̩/, _only_
+* *sensobl* /sensobl̩/, _sensible_
+* *sipl* /sipl̩/, _slippery_
+* *migl* /migl̩/, _middle_
+* *Mandivl* /mandivl̩/, _Mandeville_
+* *piipl* /pi:pl̩/, _people_
+* *chobl* /tʃobl̩/, _trouble_
+* *ombl* /ombl̩/, _humble_
+* *kianggl* /kjaŋgl̩/, _̩candle_
+* *rigl* /ɹigl̩/, _riddle_
+* *chrabl* /tʃɹabl̩/, _travel_
+* *taikl* /taɪkl̩/, _title_
+* *haatikl* /ha:tikl̩/, _article_
+* *likl* /likl̩/, _little_
+* *torkl* /toɹkl̩/, _turtle_
+
+===== Syllabic *m*
+
+* *lebm* /lebm̩/, _eleven_
+* *apm* /apm̩/, _happen_
+* *sopm* /sopm̩/, _something_
+* *waapm* /wa:pm̩/, _what's happening / what's up (greeting)_
+* *uopm* /uɔpm̩/, _open_
+
+==== Silent Letters
+
+The letters *h* and *r* are often added or omitted at the beginning and end of words, respectively, depending on the speaker
+
+* *aatikl* -> *haatikl* (_article_)
+* *fuo* -> *fuor* (_four_)
+
+See <<h>> for more details on pronunciation of *h*
+
+==== Elided Sounds
+
+Certain consonant combinations tend to be avoided at the beginning of a word, for example /sk/, /sp/ and /st/
+
+* *kuul* /ku:l/, _school_ (also *skuul*)
+* *krichoul* /kɹitʃoul/, _owl_
+* *kraani* /kɹa:ni/, _skinny_
+* *chrang* /tʃɹaŋ/, _strong_
+* *chrent* /tʃɹent/, _strength_
+* *chriet* /tʃɹɪɛt/, _straight_
+* *tap* /tap/, _stop_
+* *plit* /plit/, _split_
+
+=== Accent
+
+== Morphology
+
+=== Nouns
+
+==== Basic Form of Nouns
+
+
+==== Plural of nouns
+
+To form the plural of a given _definite_ noun, use the article *di* and add the plural marker *-dem* to the end of the word
+
+* *di pikni-dem*, _the children_
+* *di nieba-dem*, _the neighbours_
+* *di buk-dem*, _the books_
+* *di pus-dem*, _the cats_
+* *di daag-dem*, _the dogs_
+* *di pat-dem*, _the pots_
+* *di man-dem*, _the men_
+* *di uman-dem*, _the women_
+* *di bwai-dem*, _the boys_
+* *di piipl-dem*, _the people_
+* *di faama-dem*, _the farmers_
+* *di hat-dem*, _the hats_
+* *mi iez-dem*, _my ears_
+
+It is not necessary to add the plural marker *-dem* if it follows a cardinal number
+
+* *di faiv buk*, _the five books_
+
+If the plural noun is _indefinite_ it is also not necessary to use the *-dem* marker
+
+* *Buk de pan di tiebl*, _Books are on the table_
+* *Mango swiit*, _Mangoes are sweet_
+* *Im a sel yam a maakit*, _He is selling yams in the market_
+
+Examples of using plural nouns:
+
+* *Di pikni-dem laas di piepa*, _The children lost the paper_
+* *Di buk-dem de pan di tiebl*, _The books are on the table_
+* *Di pus-dem av nof pikni*, _The cats have many kittens_
+* *Ruoz tel im se a Klaris mash di pat-dem*, _Rose told her that it was Claris that broke the pots_
+* *Di man-dem dig di uol ahn di uman-dem plaant di kaan*, _The men dug the holes and the women planted the corn_
+* *Si yu buk-dem ya*, _Here are your books_
+
+NOTE: Many linguists have noted that *-dem* is not strictly speaking a plural marker: plural nouns (for example, indefinite nouns and inanimate objects) can be expressed without it, and there are several restrictions on its use. Generally speaking, it is used more often for human beings than for animals, and more often for animals than for inanimate objects.
+(For more details, see Stewart, 2011.)
+
+===== Plural Reduplication
+
+In rare cases it is possible to create a plural noun by repeating it:
+
+* *buk-buk* _(several) books_
+
+NOTE: However this can only be used with mono-syllabic nouns and only when referring to groups of more than two
+
+In other cases, a reduplicated noun can indicate affection or intimacy:
+
+* *gal-gal*, _daughter (affectionate appellation)_
+
+
+===== Associative Plural
+
+If the plural suffix *-dem* is attached to the end of a proper name, it means _(person named) and the others_
+
+* *Jan-dem*, _John and the others_
+
+Examples:
+
+* *Ruoz-dem tel im se a Klaris mash di pat*, _Rose and the others told her that it was Claris that broke the pot_
+
+==== Measure Words
+
+==== Case
+
+===== Nominative Case
+
+
+===== Accusative Case
+
+===== Genitive Case
+
+Use the pattern *x y* to express a possessive relationship between two nouns, such as _the x of y_ or the _the x's y_
+
+* *di nieba-dem ous*, _the neighbours' house_
+* *Mieri son*, _Mary's son_
+* *Piita daata*, _Peter's daughter_
+* *Maak buk*, _Mark's book_
+* *Sanja bag*, _Sandra's bag_
+* *Sanja buk ahn Piita bag de pan di grong*, _Sandra's book and Peter's bag are on the floor_
+
+==== Proper Nouns
+
+===== Personal Names
+
+Given names (also known as *Kristiyan niem*, _Christian names_) follow the same rules of phonology as other words (including loan words) in Jamaican. So _George_ becomes *Jaaj* (pronounced /dʒa:dʒ/), Mary becomes *Mieri* (pronounced /mɪɛɹi/), and so on.
+
+It is important to note that in many social contexts, nicknames may be used in preference to given names (see <<nicknames,Nicknames>> and <<yard-names,Yard Names>> below).
+
+====== Female Names
+
+Some examples of common female given names in Jamaica:
+
+* *Darati* /daɹati/, _Dorothy_
+* *Ieda* /ɪɛda/, _Ada_
+* *Iemi* /ɪɛmi/, _Amy_
+* *Jien* /dʒɪɛn/, _Jane_
+* *Kiet* /kɪɛt/, _Kate_
+* *Klier* /klɪɛɹ/, _Claire_
+* *Kyari* /kjaɹi/, _Carrie_
+* *Luwiiz* /luwi:z/, _Louise_
+* *Mieri* /mɪɛɹi/, _Mary_
+* *Nansi* /nansi/, _Nancy_
+* *Puosha* /puɔʃa/, _Portia_
+* *Sanja* /sandʒa/, _Sandra_
+* *Siera* /sɪɛra/, _Sarah_
+* *Silvia* /silvia/, _Sylvia_
+* *Yuuna* /yuːna/, _Una_
+
+====== Male Names
+
+Some examples of common male given names in Jamaica:
+
+* *Aizak* /aɪzak/, _Isaac_
+* *Aligzanda* /aligzanda/, _Alexander_
+* *Anju* /andʒu/, _Andrew_
+* *Bruus* /bɹuːs/, _Bruce_
+* *Chaali* /tʃaːli/, _Charlie_
+* *Danal* /danal/, _Donald_
+* *Derik* /deɹik/, _Derek_
+* *Dievid* /dɪɛvid/, _David_
+* *Edwad* /edwad/, _Edward_
+* *Eliat* /eliat/, _Eliot_
+* *Jaaj* /dʒaːdʒ/, _George_
+* *Jan* /dʒan/, _John_
+* *Jiemz* /dʒɪɛmz/, _James_
+* *Juo* /dʒuɔ/, _Joe_
+* *Kenet* /kenet/, _Kenneth_
+* *Klifod* /klifod/, _Clifford_
+* *Larans* /laɹans/, _Laurence_
+* *Luwi* /luwi/, _Louis_
+* *Maak* /maːk/, _Mark_
+* *Maakos* /maːkos/, _Marcus_
+* *Maikal* /maɪkal/, _Michael_
+* *Matyu* /matju/, _Matthew_
+* *Naaman* /naːman/, _Norman_
+* *Orbort* /oɹbort/, _Herbert_
+* *Owad* /owad/, _Howard_
+* *Paal* /paːl/, _Paul_
+* *Pachrik* /patʃɹik/, _Patrick_
+* *Piita* /piːta/, _Peter_
+* *Saiman* /saɪman/, _Simon_
+* *Salaman* /salaman/, _Solomon_
+* *Samyuel* /samjuel/, _Samuel_
+* *Stiibm* /stiːbm̩/, _Stephen_
+* *Tamas* /tamas/, _Thomas_
+* *Vik* /vik/, _Vic_
+* *Yuu* /juː/, _Hugh_
+
+===== Nicknames
+
+In practice, many people may be only rarely referred to by their given name. A rich system of nickaming exists in Jamaican and nicknames are frequently based on characteristics or appearance rather than the given name of the person in question.
+
+These nicknames are also known as *yaad niem* (_yard names_), and are generally used by friends, family, and others for most purposes other than formal occasions (such as by teachers in school, or accessing government or other institutional services).
+
+Impromptu nicknames may also be given to strangers, for example, when calling out to someone on the street if their name is not known. Like yard names, these are generally based on easily recognizable physical characteristics and other descriptors such as occupation.
+
+====== Yard Names
+
+The vast majority of yard names are descriptive or have some sort of story that explains their origin. However, occasionally, a yard name may be based on the actual given name of the person concerned. For example, "Nicholas" or "Nick" might be known as:
+
+* *Neki* ("Necky")
+* *Niki* ("Nicky")
+* *Niko* ("Nico")
+
+Similarly, someone whose name begins with the letter _V_ might be known as:
+
+* *Vii* ("Vee")
+
+The two principles (descriptor and element based on given name) can also be combined:
+
+* *Likl Dii* ("Little D", e.g. a person of short stature whose given name begins with the letter "D")
+* *Hevi Dii* ("Heavy D",  e.g. a large person whose given name begins with the letter "D")
+
+Sometimes yard names are otherwise completely conventional names that nevertheless have nothing to do with the person's given name:
+
+* *Alisha* ("Alicia", given name e.g. _Kelly_)
+* *Anji* ("Angie", given name e.g. _Celia_)
+* *Chrisha* ("Tricia", given name e.g. _Louise_)
+* *Chrudi* ("Trudy", given name e.g. _Sandra_)
+* *Doreen* ("Doreen", given name e.g. _Mary_)
+* *Pachrik* ("Patrick", given name e.g. _Mark_)
+* *Tam* ("Tom", given name e.g. _James_)
+* *Tuoni* ("Tony", given name e.g. _Edward_)
+
+====== Identifiers
+
+The prefix *Mis* or *Misiz* is often added to some other name or characteristic to make a female yard name:
+
+* *Miss Opie*
+* *Miss Vyel*
+* *Misiz Steps* ("Mrs. Steps")
+
+NOTE: In combination with a surname, *Mis* and *Misiz* can also be used to form an honorific address (see further below).
+
+Names can be based on work:
+
+* *Tiich* ("Teach")
+* *Tiicha* ("Teacher")
+* *Nars* ("Nurse")
+
+For merchants or employees of particular stores, apart from general occupational descriptions, yard names may be based on the specific product they sell:
+
+* *Kriimi* ("Creamy", someone who sells icecream)
+* *Notsi* ("Nutsy", someone who sells nuts)
+* *Juusi* ("Juicy", sells juice)
+
+A male merchant may often be referred to as "_product_-man" depending on what they sell:
+
+* *Manggo-man* ("Mango-man", a man who sells mangoes)
+* *Gliina-man* ("Gleaner-man", a man who sells the _The Gleaner_ newspaper)
+* *Juus-man* ("Juice-man", a man who sells juice)
+
+On the other hand, the yard name may be based on the place where the product is sold:
+
+* *Shaka* ("Shakka", works at a juice shack)
+
+From the above it can be seen that someone who sells juice might have any of the following yard names:
+
+* *Juicy* (male or female)
+* *Juice-man* (male only)
+* *Shakka* (male or female)
+
+
+===== Honorifics
+
+There are several standard honorific titles which are used in Jamaican, either independently, or in combination with a surname:
+
+* *Mista*, _Mr._
+* *Mis*, _Miss_
+* *Misiz*, _Mrs._
+* *Ma*, _Ma'am_
+* *Sa*, _Sir_
+* *Mas*, _Master_
+
+The following are some respectful forms of address for women:
+
+* *Empress*
+* *Princess*
+* *Baby*
+* *Mommy*
+* *Aunty*
+* *Miss*
+
+The following are some respectful forms of address for men:
+
+* *Boss*
+* *Bossman*
+* *Bossy*
+* *Bredren*
+* *General*
+* *Prince*
+* *Sar*
+* *Uncle*
+
+Formal introductions usually involve a greeting (e.g., *Gud maaning*, *Gud aftanuun*, *Gud iivning*) plus an honorific title (*Mista*, *Mis*, *Misiz*) and the person's surname:
+
+* *Gud maanin, Mista Jansn*, _Good morning, Mr. Johnson_
+* *Gud aftanuun, Mis Yuuz*, _Good afternoon, Miss Hughes_
+* *Gud iivning, Misiz Juonz*, _Good evening, Mrs. Jones_
+
+Children usually refer to adults who are not relatives or friends as *Sa*, *Mista*, or *Mis*.
+
+Respected family member or elders may be referred to using the honorific title *Maas* (_Master_) followed by their given name:
+
+* *Maas Aizak* (_Master Isaac_)
+
+===== List of yard names
+
+The following names have been reported by various people as being examples of yard names in use in Jamaican communities:
+
+* *Apl* ("Apple")
+* *Apl Jie* ("Apple J.")
+* *Baba* ("Babba")
+* *Badis* ("Baddis", _Baddest_)
+* *Bala* ("Balla")
+* *Bambi* ("Bambi")
+* *Big Ed* ("Big Head")
+* *Biga* ("Bigga")
+* *Blaka* ("Blacka")
+* *Blaki* ("Blackie")
+* *Blaks* ("Blacks")
+* *Blosom* ("Blossom")
+* *Bob Stiil* ("Bob Steel")
+* *Bodi* ("Birdie")
+* *Boizi* ("Boysie")
+* *Breda* ("Bredda")
+* *Bruk Fut* ("Bruk Foot")
+* *Bublz* ("Bubbles")
+* *Bula* ("Bulla")
+* *Buubzi* ("Boobsy")
+* *Buudi* ("Boody")
+* *Cheri* ("Cherry")
+* *Ches-Man* ("Chess Man")
+* *Chiiz* ("Cheese")
+* *Chiki* ("Chickie")
+* *Chikin* ("Chicken")
+* *China* ("Chinna")
+* *Daimon* ("Diamond")
+* *Debi* ("Debbie")
+* *Devil* ("Devil")
+* *Dogart* ("Dogheart")
+* *Dogi* ("Doggie")
+* *Don Don* ("Dun Dun")
+* *Donkiman* ("Donkeyman")
+* *Doti Moni* ("Dutty Money")
+* *Duki* ("Ducky")
+* *Enjil* ("Angel")
+* *Faiyaman* ("Fireman")
+* *Faini* ("Finey")
+* *Fasi* ("Fassy")
+* *Fati* ("Fatty")
+* *Frigen* ("Frigen")
+* *Frogi* ("Froggy")
+* *Futa* ("Foota")
+* *Glamati* ("Glamatty")
+* *Goli Bangx* ("Gully Banks")
+* *Goli* ("Gully")
+* *Gon Keli* ("Gun Kelly")
+* *Haip-Op* ("Hype-Up")
+* *Hedz* ("Headz")
+* *Jan Jan* ("Jon Jon")
+* *Jan Tom* ("John Tom")
+* *Jani* ("Jonny")
+* *Juju* ("Juju")
+* *Junjo* ("Junjo")
+* *Junya* ("Junior")
+* *Kanak* ("Canuck")
+* *Keidi* ("Kady")
+* *Klarki* ("Clarky")
+* *Kori-Kat* ("Curry-Cat")
+* *Korli Loks* ("Curly Locks")
+* *Kuu-Kuu* ("Coo-Coo")
+* *Kuuli-Man* ("Coolie man")
+* *Kyuti* ("Qutie")
+* *Lengki* ("Lenky")
+* *Likl Man* ("Little Man")
+* *Likl Mis* ("Little Miss")
+* *Likl* ("Likkle")
+* *Maas Juo* ("Maas Joe")
+* *Mama* ("Mama")
+* *Man A Man* ("Man a man")
+* *Mankiman* ("Monkeyman")
+* *Menshan* ("Mention")
+* *Merleisha* ("Merleisha")
+* *Monchi* ("Munchie")
+* *Monsta Pii* ("Monsta P")
+* *Murda* ("Murda")
+* *Muudi* ("Moodie")
+* *Nachral* ("Natural")
+* *Nalij* ("Knowledge")
+* *Nando* ("Nando")
+* *Ogli Man* ("Ugly Man")
+* *Pem Pem* ("Pem Pem")
+* *Pensil Man* ("Pencil Man")
+* *Pet* ("Pet")
+* *Piichiz* ("Peaches")
+* *Pingki* ("Pinky")
+* *Plomi* ("Plummie")
+* *Ponchi* ("Punchie")
+* *Ponsi* ("Puncie")
+* *Posela* ("Pussella")
+* *Pou* ("Pow")
+* *Preshas* ("Precious")
+* *Prinses* ("Princess")
+* *Priti* ("Pretty")
+* *Puuchi* ("Poochie")
+* *Puuki* ("Pookie")
+* *Rambo* ("Rambo")
+* *Rati* ("Ratty")
+* *Rieni* ("Rainy")
+* *Rinegied* ("Renegade")
+* *Ruudi* ("Rudie")
+* *Shan Shan* ("Shan Shan")
+* *Sheli* ("Shelly")
+* *Shodee* ("Shodee")
+* *Shottis* ("Shottis")
+* *Shuga* ("Suga", "Sugar")
+* *Ska* ("Ska")
+* *Skata Shot* ("Scatta Shot")
+* *Skoli Ed* ("Scully Head")
+* *Skwidi* ("Squidy")
+* *Sliipi* ("Sleepy")
+* *Smaili* ("Smiley")
+* *Smuuchi* ("Smuchie")
+* *Son Son* ("Sun Sun")
+* *Sopent* ("Serpent")
+* *Splash* ("Splash")
+* *Splinta* ("Splinter")
+* *Staa* ("Star")
+* *Stiki* ("Sticky")
+* *Tii-Shot* ("T-Shirt")
+* *Twinie* ("Twinie")
+* *Wet Daag* ("Wet Dog")
+* *Wich Flieva* ("Which Flavour")
+* *Winji* ("Winjy")
+* *Witi* ("Witty")
+* *Yaga* ("Yagga")
+* *Yangki* ("Yankee")
+
+===== Place Names
+
+See the accompanying _Gazeteer of Placenames in Jamaican_ for a list of common placenames and their pronunciation.
+
+==== Diminuitives
+
+(In progress)
+
+==== Pronouns
+
+===== Personal Pronouns
+
+There are six basic personal pronouns in Jamaican: *mi*, *yu*, *im*, *wi*, *unu*, *dem*
+
+* *mi*, _I_ (first person singular)
+* *yu*, _you_ (second person singular)
+* *im* / *ihn*, _he / she_ (third person singular)
+** also: *shi* / *ar*, _she_
+** also: *i* / *it*, _it_
+* *wi*, _we_ (first person plural)
+* *unu*, _you_ (second person plural)
+* *dem* / *dehn*, _they_ (third person plural)
+
+In some cases, the subject pronouns *im* and *dem* can be pronounced *ihn* and *dehn*
+
+* *Ihn tel lai pahn mi*, _He told a lie about me_
+* *Dehn a go iit aaf aal di raip plom ahn gwaava af di chrii*, _They are going to eat up all the ripe plums and guavas from the tree_
+
+No special conjugation is needed when using different personal pronouns in a sentence
+
+* *Mi nuo di man*, _I know the man_
+* *Im nuo di man*, _He knows the man_
+* *Yu nuo di man*, _You know the man_
+* *Dem nuo di man*, _They know the man_
+
+There are no gender distinctions in personal pronouns in the Jamaican acrolect
+
+* *Im gi im im*, _She gave it to him_
+
+However in the mesolect, there is a distinction between *im* (_he_) and *shi* (_she_)
+
+* *Im a di liida*, _He is the leader_
+* *Shi a di liida*, _She is the leader_
+
+There is also frequently a distinction between *im* (_he_) and *i* (_it_)
+
+* *I hebi kyaan-don*, _It is extremely heavy_
+
+The pronoun *wi* (_we_) can mean _we_ as in including the speaker and the listener, or as the speaker and others (not including the listener)
+
+* *Wi de go a Tong*, _We are going to town_
+* *Wi nuo di man*, _We know the man_
+* *Wi ahn Mieri kech liet*, _We and Mary arrived late_
+
+===== Object pronouns
+
+Object pronouns are the same as subject pronouns in Jamaican
+
+* *Dem kaal mi fi kohn elp dem*, _They asked me to help them_
+* *Im a laaf afta wi*, _He is laughing at us_
+
+===== Possessive pronouns
+
+* *mi*, _my_
+* *yu*, _your_
+* *im*, _his_
+* *shi*, _her_
+* *wi*, _our_
+* *unu*, _your (pl.)_
+* *dem*, _their_
+
+* *fi mi*, _mine_
+* *fi yu*, _yours_
+* *fi im*, _his_
+* *fi shi*, _hers_
+* *fi wi*, _ours_
+* *fi dem*, _theirs_
+* *uufa* _whose_
+
+
+*mi*
+
+* *Mi pensl ahn yu buk ina dem ous*, _My pencil and your book are in their house_
+* *Mi fuud ina di pat*, _My food is in the pot_
+
+*yu*
+
+* *yu niem*, _your name_
+* *yu frak*, _your dress_
+* *yu buk-dem*, _your books_
+
+*im*
+
+* *im sista Mieri*, _his sister Mary_
+* *im daata*, _his daughter_
+* *im niem*, _his name_
+* *im ous*, _his house_
+
+*fi mi*, _mine_
+
+* *Di fuud ina di pat a fi mi*, _The food in the pot is mine_
+
+*fi yu*, _yours_
+
+* *A wish wan a dem a fi yu?*, _Which one of them is yours?_
+
+*uufa*, _whose_
+
+* *A uufa picha dis?*, _Whose picture is this?_
+
+
+===== Reflexive Pronouns
+
+* *miself*, _myself_
+* *unuself* or *yuself*, _yourself_
+* *demself*, _themselves_
+
+NOTE: *-self* in the above pronouns may sometimes be pronounced (and written) as *-sef*.
+
+===== Demonstrative Pronouns
+
+There are two kinds of demonstratives in Jamaican: simple and compound
+
+* simple demonstratives: *dis*, *dat*, *ya*, *de*
+* compound demonstratives: *dis-ya*, *dat-de*, *dem-ya*, *dem-de*
+
+There are four simple demonstratives
+
+* *dis*, _this_
+* *dat* or *daa*, _that_
+* *ya*, _here_
+* *de*, _there_
+
+The simple demonstratives come before the noun they refer to
+
+* *dis uman*, _this woman_
+
+There are four compound demonstratives
+
+* *dis-ya*, _this here_
+* *dat-de*, _that there_
+* *dem-ya*, _these here_
+* *dem-de*, _those there_
+
+There are also two additional demonstratives with the suffix *-so* for emphasis
+
+* *yaso* /jaso/, _right here_
+* *deso* /deso/, _right there_
+
+When used together with a noun, the first part of the compound demonstrative comes before the noun and the second part comes after it
+
+* *dis man ya*, _this man here_
+* *da man de*, _that man there_
+
+Examples of demonstrative pronouns:
+
+* *Dis bwai a go mek mi sin miself*, _This boy is going to make me lose my cool_
+* *Dis-ya buk swiit no hel*, _This book is extremely enjoyable_
+* *Im laas dat-de wan*, _He lost that one_
+* *Dat-de buk laas*, _He lost that book_
+* *Im laas dat-de*, _He lost that one_
+* *Dis-ya pen naa rait gud*, _This pen is not writing properly_
+* *Dat-de pen naa rait gut*, _That pen is not writing properly_
+* *Di bwai mek mi staat kos badwod*, _The boy caused me to start swearing_
+* *Jan sidong de a laaf*, _John sat there laughing_
+* *Tiicha no kech ya yeti*, _Teacher hasn't reached here yet_
+* *Mi nuo se im de ya*, _I know that he/she is here_
+* *Mi si im doun ya yeside*, _I saw him/her down here yesterday_
+
+To express the prepositional sense of _here_ (as in French _voilà_), use *si*
+
+* *Si yu buk-dem ya*, _Here are your books_
+* *Si mi hat ya*, _Here is my hat_
+* *Si mi ya*, _Here I am_
+* *Si im ya*, _Here he is_
+* *Si Jan ya*, _Here is John_
+* *Si wan neks wan ya*, _Here is another one_
+
+===== Indefinite Pronouns
+
+The words *smadi* (_someone_) and *sitn* (_something_) are used to represent indefinite things
+
+* *Smadi uu sing kaal singa*, _Someone who sings is called a singer_
+* *Dem gi smadi di mechiz fi gi mi*, _They gave someone the message to give to me_
+* *Dem tek di ogli sitn gi di pikni*, _They took the ugly thing and gave it to the child_
+* *Evribadi iit wen dem fiil laik, dem no wiet pan nobadi*, _Everybody ate when they felt like it; they didn't wait for anyone_
+* *No mek nobadi luk dong pan im ar chriit im laka se im a notn*, _Don't let anyone look down on him or treat him like nothing_
+
+* *smadi* or *sumadi*, _somebody / someone_
+* *nobadi*, _nobody / no one_
+* *enibadi*, _anybody / anyone_
+* *ebribadi*, _everybody / everyone_
+* *sitn* or *sinting* or *sopm*, _something_
+* *sopm* /sopm̩/, _something_
+* *notn*, _nothing_
+* *ebriting*, _everything_
+* *somwe*, _somewhere_
+* *nowe*, _nowhere_
+* *ebriwe*, _everywhere_
+
+NOTE: The *ebri-* in *ebribadi*, *ebriting*, and *ebriwe* may be pronounced as *evri-* in the mesolect.
+
+==== Articles
+
+===== Definite Article
+
+The definite article *di* _the_ is used in a similar way to English
+
+* *di fuud*, _the food_
+* *di man*, _the man_
+* *di pikni*, _the child_
+* *di ous*, _the house_
+* *di moni*, _the money_
+* *di pikni-dem*, _the children_
+* *di tiebl*, _the table_
+* *di paati*, _the party_
+* *di mechiz*, _the message_
+
+===== Indefinite Article
+
+The indefinite article *wahn* _a/an_ is pronounced with a nasalized vowel (similar to the French _an_)
+
+* *wahn uman*, _a woman_
+* *wahn man*, _a man_
+* *wahn dopi*, _a man_
+
+Examples:
+
+* *Wahn uman gi Piita di loki lato nomba fi plie*, _A woman gave Peter the lucky lottery number to play_
+* *Wahn dopi lik wahn man*, _A ghost hit a man_
+* *Piita pik wan apl ahn Mieri pik tuu*, _Peter picked one apple and Mary picked two_
+
+NOTE: the indefinite article *wahn* is distinct from the numeral *wan* _one_
+
+=== Adjectives
+
+Adjectives in Jamaican are not marked for gender or number. In other words, they do not change depending on the gender of the noun they describe, or whether the noun is plural or singular.
+
+==== Order of Adjectives and Nouns
+
+Adjectives precede the nouns they describe, as in English
+
+* *taal ier*, _long hair_
+
+==== Comparison of Adjectives
+
+===== Degree Words
+
+* *tuu*, _too_
+* *bad*, _very_
+
+Most degree words come before the adjective they describe
+
+* *tuu bad*, _too rude_
+
+However, when used as a degree word, *bad* always comes after the adjective it describes
+
+* *hat bad*, _very hot_
+* *Di fuud hat bad*, _The food is very hot_
+
+* *It tuu kris*, _It's too stiff_
+* *Im fala dem bot no tuu kluos*, _He followed them, but not too close_
+
+===== Comparatives
+
+The comparative form of adjectives is created by adding the suffix *-a* to the end of the word
+
+* *big*, _big_ -> *biga*, _bigger_
+* *rich*, _rich_ -> *richa*, _richer_
+
+Adjectives can be compared using the word *dan* (*dahn*) together with the comparative form of the adjective
+
+* *Mieri richa dan Piita*, _Mary is richer than Peter_
+* *Jan biga dan im sista Mieri*, _John is older than his sister Mary_
+
+===== Superlatives
+
+The superlative form of adjectives is created by adding the suffix *-is* to the end of the word
+
+* *smaalis*, _smallest_
+* *bigis*, _biggest_
+* *waizis*, _wisest_
+
+Superlatives can also be formed using *di muos* + A
+
+*di muos*, _the most_
+
+* *Wich wan a di muos impuotant wan?*, _Which one is the most important?_
+* *It a di muos impuotant wan*, _It's the most important one_
+
+*muos a unu*, _most of you_
+
+
+==== Adjective Reduplication
+
+Adjectives can be reduplicated to give a meaning similar to the suffix _-ish_ in English
+
+* *chaka-chaka*, _untidy / disorderly / in disarray_
+* *fool-fool*, _foolish_
+* *friedi-friedi*, _frightened / cowardly_
+* *ful-ful*, _very full_
+* *gud-gud*, _really good / quite good_
+* *juki-juki*, _prickly or needle-like_
+* *kluos-kluos*, _very close / intimate_
+* *laafi-laafi*, _inclined to laughter_
+* *likl-likl*, _quite small_
+* *maaga-maaga*, _very skinny_
+* *naasi-naasi*, _having nasty, filthy characteristics_
+* *ogli-ogli*, _very ugly_
+* *plenti-plenti*, _plentiful_
+* *sluo-sluo*, _very slow_
+* *swiit-swiit*, _very sweet_
+* *taaki-taaki*, _talkative_
+* *taal-taal*, _very tall / very high_
+* *yala-yala*, _yellowish, yellow-spotted_
+* *susu-susu*, _whispering_
+* *blenop-blenop*, _blended together_
+
+* *wan taal-taal mountn*, _a very high mountain_
+* *som likl-likl ous*, _some rather small houses_
+
+
+=== Verbs
+
+==== Tense of Verbs
+
+===== Present Tense
+
+Stative verbs can be used alone without change in the present tense
+
+* *Mi honggri*, _I'm hungry_
+* *Im sik*, _He is sick_
+* *Jan fuul*, _John is foolish_
+* *Im ded*, _He is dead_
+* *Mi niem Jan*, _My name is John_
+* *Mi laik manggo*, _I like mangoes_
+* *Jan sik ahn im daata nuo*, _John is sick and his daughter knows_
+* *Wi fried a siniek*, _We are afraid of snakes_
+* *Hou yu du?*, _How are you doing?_
+
+===== Present Progressive Tense
+
+If an action is ongoing, use the progressive marker *de* or *a* before the verb to indicate the present progressive tense
+
+* *Rien de faal*, _It is raining_
+* *Mi ed de hat mi*, _My head is hurting_
+* *Mi de kom*, _I am coming_
+* *Mi de nyam di fuud*, _I am eating the food_
+* *Mi de go a Tong*, _I am going to Town_
+* *Mi a go a maakit*, _I'm going to the market_
+* *Mi a go a mi yaad*, _I'm going home_
+* *Jan de kuk, Mieri de riid ahn Piita a chap ud*, _John is cooking, Mary is reading, and Peter is chopping wood_
+* *Di piipl-dem de kos di govament*, _The people are cursing the government_
+* *Im a plaan kaan*, _He is planting corn_
+* *Im a rait wan leta*, _He is writing a letter_
+
+Some "adjectives" are actually stative verbs and can also be used with *de* to indicate current state
+
+* *Di bwai de bad*, _The boy is being bad_
+* *Im de taiyad*, _He is becoming tired_
+
+===== Habitual Present Tense
+
+The habitual marker *a* is used before the verb to indicate the habitual present tense
+
+* *wan plies we dem a plie haki mach*, _a place where they play hockey matches_
+
+===== Negative Plain Present Tense
+
+The negative present-tense marker *no*
+
+* *Mi no nuo we fi se*, _I don't know what to say_
+* *Mi no nuo we fi du*, _I don't know what to do_
+* *Mi no nuo we im de*, _I don't where he is_
+* *Mi no nuo we im niem*, _I don't know what his name is_
+* *Mi no nuo we im a go*, _I don't where he is going_
+* *Mi no fraitn fi di huol jing bang a unu*, _I'm not scared of any of you lot_
+* *Im no nuo se yu de a yaad*, _He doesn't know that you are at home_
+
+===== Negative Present Progressive Tense
+
+The negative present-progressive marker *naa*
+
+* *Mi naa du notn*, _I am not doing anything_
+* *Di pikni-dem naa du dem lesn*, _The children are not doing their lessons_
+* *Jais naa fiks yu frak*, _Joyce is not going to fix your dress_
+* *Mi naa gi yu non*, _I won't give you any_
+
+===== Past Tense
+
+Dynamic verbs can be used alone without any changes in the past perfective tense
+
+* *Mieri kuk di fuud*, _Mary cooked the food_
+* *Di man nyam di manggo*, _The man ate the mango_
+* *Wahn dopi lik wahn man*, _A ghost hit a man_
+* *Dem tiif di faiv buk outa di shap*, _They stole the five books from the store_
+* *Mi gi di uman di flowaz*, _I gave the woman the flowers_
+* *Di daag bait mi*, _The dog bit me_
+* *Di uman gi di bwai di fuud*, _The woman gave the boy the food_
+* *Im kot di pitieta*, _He cut the potato_
+* *Mieri tek di naif kot di bred*, _Mary cut the bread with the knife_
+* *A wa Jan bai wid di moni?*, _What did John buy with the money?_
+* *Kom wid mi!*, _Come with me!_
+* *Piita kot di bred wid di naif*, _Peter cut the bread with the knife_
+* *Bab sing wid Piita*, _Bob sang with Peter_
+* *Mieri an Jan go a paati laas nait*, _Mary and John went to a party last night_
+* *Di kyaar lik di chrii*, _The car hit the tree_
+* *Di ship krash pan wan ailan*, _The ship crashed on an island_
+* *Jan kot di pitieta*, _John cut the potato_
+* *Mi no ier notn bout dat-de*, _I didn't hear anything about that_
+* *Jan ahn Mieri kuk ahn nyam di bikl*, _John and Mary cooked and ate the food_
+* *Dem chrai fi kyari im iina di ous*, _They tried to carry him into the house_
+* *Im waan unu nof taim, bot unu naa lisn*, _He warned you many times, but you didn't listen_
+* *Di man ahn di uman wash di kluoz ahn kliin di ous*, _The man and the woman washed the clothes and cleaned the house_
+* *Im si di kroud ahn aks dem a wa a gwaan*, _He saw the crowd and asked them what was going on_
+
+====== Past Progressive Tense
+
+The past-tense marker *wehn* indicates that an action in the past was ongoing
+
+* *Dis-ya pikni wehn aalwiez ogli*, _This child was always ugly_
+* *Jan wehn de nyam di kiek*, _John was eating the cake_
+* *Jan wehn de bil di ous*, _John was building the house_
+* *Di pikni wehn de kil di flowaz*, _The child was killing the flowers_
+* *Di piipl-dem wehn de kos di govament*, _The people were cursing the government_
+
+====== Past Perfect Tense
+
+The anterior marker *did* can sometimes indicate that some action or condition occurred in the past (in the mesolect)
+
+* *Im did wel rich*, _He was very rich_
+* *Shi pie muo dan wa shi did pie di fos taim*, _She paid more than she had paid the first time_
+
+====== Negative Past
+
+The negative past-tense marker *nehn*
+
+* *Jan nehn de bil di ous*, _John was not building the house_
+
+===== Future Tense
+
+The future tense is formed using the markers *a go*, *gwain*, *gwai*, or *de go*
+
+* *This man a go ton tiicha tu*, _This man is going to became a teacher as well_
+* *Dehn a go iit aaf aal di raip plom ahn gwaava af di chrii*, _They are going to eat up all the ripe plums and guavas from the tree_
+* *Im de go dwiit*, _He's going to do it_
+* *Mi de go a Tong tumaro*, _I am / will be going to Town tomorrow_
+* *Uu de go merid yu?*, _Who is going to marry you?_
+* *Yu beli gwai bi yu dounfal!*, _Your stomach is going to be your downfall!_
+
+*a go* and *de go* are sometimes written with a hyphen as *a-go* and *de-go* respectively, to distinguish between the progressive present and the future tense
+
+* *We im a go*, _Where is he going?_
+* *We im a-go iit?*, _Where is he going to eat?_
+
+
+==== Mood of Verbs
+
+===== Potential Mood
+
+*kyahn* + V
+
+* *Maas Jan se im kyahn kom tumaro*, _Mr. John said he is able to come tomorrow_
+
+===== Passive
+
+* *Di raip plaantn-dem don ruos yet?*, _Have the ripe plaintains been roasted yet?_
+
+==== Verb Complements
+
+*op*, *aaf* etc.
+
+* *tan op*, _stand up_
+* *git op*, _get up_
+* *klaim op*, _climb up_
+* *wiek op*, _wake up_
+* *uopm op*, _open up_
+* *bon op*, _burn up_
+* *gyada op*, _gather up_
+* *tingk chriet*, _think straight_
+* *siniik roun*, _sneak around_
+* *twis roun*, _twist around_
+* *iit aaf*, _eat up_
+* *laaf afta*, _laugh at_
+
+
+==== Verb Chaining
+
+There is no infinitive form of verbs in Jamaican as in the English _to run_ or _to eat_
+
+Bare verbs -- that is, verbs without any prefixes or suffixes -- can be used instead to string together a chain of actions in sequence
+
+* *An den dem git op ahn staat daans*, _And then they got up and started to dance_
+
+If there is an object after one or both of the verbs, they can likewise be strung together without any other changes
+
+* *Im tek di moni gi puo piipl*, _He took the money to give to poor people_
+
+==== Verb Reduplication
+
+Verbs can be reduplicated to repetition or continuous action
+
+* *tiif-tiif*, _steal repeatedly_
+
+=== Adverbs
+
+In Jamaican adjectives can be used as adverbs to describe verbs without further modification
+
+* *Di daag a baak loud*, _The dog is barking loudly_
+* *Tan op chrang*, _Stand up strong__
+
+In some cases, such as with *suun* (_soon_) adverbs may come before the verbs they describe
+
+* *Soma suun kom*, _Summer is coming soon_
+
+
+==== Reduplication
+
+Just like adjectives, adverbs can be reduplicated to intensify their meaning
+
+* *aad aad*, _extremely hard / as hard as possible_
+** *tingk aad aad*, _wrack one's brains / think hard_
+** *bluo aad aad*, _blow as hard as one can_
+
+* *loud-loud*, _very loudly_
+** *Dem did a ala ahn baal loud loud*, _They hollered and cried loudly_
+
+==== also
+
+The meaning of _also_, _too_, _as well_ is expressed in Jamaican using the adverb *tu*
+
+* *Mi a go de tu*, _I am going there too_
+* *Mi waan sliip tu*, _I want to sleep too_
+* *Jien se im waan sliip tu*, _Jane says she wants to sleep too_
+* *Mi wuda laik si im tu*, _I'd like to see him too_
+* *Fi mi bak a hat mi tu*, _My back hurts too_
+* *Di pikni-dem gaan a puos tu*, _The children have gone to the post office too_
+
+==== more
+
+The equivalent word to _more_ in Jamaican can be pronounced *muo* /muɔ/ or *muor* /muɔɹ/ depending on the speaker
+
+* *Dem tingk se dem wuda get muo moni*, _They thought they would get more money_
+
+To make a comparison, use *muo dan* or *muor dan*
+
+* *muo dan dat*, _more than that_
+* *muo dan eniting els*, _more than anything else_
+* *muo dan sebn big gruup a dem*, _more than seven big groups of them_
+* *no muo dan dat*, _no more than that_
+
+* *Im muo dan redi fi help*, _He's more than ready to help_
+* *Mi av nof muo sitn fi se tu unu*, _I have many more things to tell you_
+* *Ef yu gi sumadi sopm, it mek yu muo api dan ef sumadi gi yu sopm*, _If you give somebody something, it makes you more happy than if somebody give you something_
+
+There are a number of other expressions using *muo*, which are listed below
+
+===== the more..., the more...
+
+*di muo ..., a di muo ...*
+
+* *Di muo im bluo, a di muo di man rap di jakit rong im*, _The more he blew, the more the man wrapped his cloak around him_
+* *Di muo dem nyam manggo, a di muo manggo dem waahn fi nyam*, _The more mangos they ate, the more mangos they wanted to eat_
+
+===== more and more
+
+*muo ahn muo*
+
+* *Bot dem kudn kip kwaiyat, dem pred it muo ahn muo*, _But they couldn't keep quiet, and they spread it more and more_
+* *Di gruup a piipl we kom a maakit did a gruo muo ahn muo*, _The group of people who came to the market grew more and more_
+* *Dat miin se unu fi dipen pan im muo ahn muo ahn du wa im tel unu fi du*, _That means that you have to depend on him more and more and do what he tells you to do_
+
+
+===== anymore
+
+*no ... no muor*, _not ... anymore_
+
+* *Dem no kier bout we rait ar rang no muo*, _They don't care anymore about what is right or wrong_
+* *Piipl a-go staat tingk se di edikieshan no wot notn no muor*, _People will start to think that education isn't worth anything anymore_
+
+==== Adverbial phrases
+
+* *aal uova*, _all over_
+* *aal uova di worl*, _all over the world_
+
+==== Intensifiers
+
+There are several adverbial intensifiers or emphatic modifiers in Jamaican that can be used to express such things as _indeed_, _surely_, _extremely_, _truly_, _very, very_ and so on
+
+*fi-chruu*, _indeed / surely / extremely_
+
+* *Mis Bek nyuu ous big fi-chruu*, _Miss Beck's new house is big indeed_
+* *Dem-ya tamrin sowa, sa -- dem sowa fi-chruu*, _These tamarinds are sour, sir -- they are sour indeed_
+* *Laad, misis, yu koward fi-chruu*, _Lord, Miss, you are a coward indeed_
+* *Dat-de daag maaga fi-chruu -- wa mek yu no fiid im?*, _That dog is so thin -- why don't you feed him?_
+* *Jan sista en beks fi-chruu*, _John's sister was exceedingly angry_
+* *Dis-ya bwai fat fi-chruu*, _This boy is very, very fat_
+
+*kyaan-don*, _exceptionally / exceedingly_
+
+* *Di arinj-dem aafa dis-ya chrii swiit kyaan-don*, _The oranges from this tree are very, very sweet_
+* *A suoso kuoknatiina di bag -- i hebi kyaan-don*, _There are only coconuts in the bag -- it is exceedingly heavy_
+* *Mi kluoz-dem wetop kyaan-don iina di rien*, _My clothes got very, very wet in the rain_
+* *Bra Jaaj en fraitn kyaan-don*, _Brother George was exceedingly frightened_
+* *Mis Bek biebi ogli kyaan-don*, _Miss Beck's baby is very, very ugly_
+* *A wan dego bambie manggo im gi mi, bot i swiit kyaan-don*, _She only gave me one Bombay mango, but it was very, very sweet_
+* *Sami en grojful kyaan-don*, _Sammy was exceedingly grudgeful_
+
+*nontaal*, _at all / even a little_
+
+* *Mi no grii wid dis nontaal*, _I don't agree with this at all_
+
+==== Time and frequency
+
+* *yeside* _yesterday_
+* *tide* _today_
+* *tumaro* _tomorrow_
+
+* *Yeside mi go a Darati yaad*, _Yesterday I went to Dorothy's house_
+
+* *Wi spen kopl wiik wid dem*, _We spent a couple of weeks with them_
+
+* *maanin*, _morning_
+* *aftanuun*, _afternoon_
+* *iivning*, _evening_
+* *nait*, _night_
+
+* *fi tuu wiik*, _for two weeks_
+* *ebri wiik*, _every week_
+
+* *neks ier*, _next year_
+* *laas ier*, _last year_
+
+
+===== always
+
+*aalwiez*
+
+* *Dis-ya pikni wehn aalwiez ogli*, _This child was always ugly_
+
+===== never
+
+*neba*
+
+* *Im neba gi mi notn*, _He didn't give me anything_
+
+===== every
+
+(In progress)
+
+===== often
+
+Frequency adverbs like *aaftin* (_often_) come after the subject and object of the sentence
+
+* *Di pikni nyam manggo aaftin*, _The child eats mangoes often_
+
+*muotaim*, _often / frequently_
+
+* *Lionaado muotaim diskraib az di aakitaip a di Renesans man*, _Leonardo is often described as the archetype of the Renaissance man_
+* *Singin muotaim du ina gruup a ada myuuzishan*, _Singing is often done in a group of other musicians_
+* *Okiejanali, suoshal muuvment eh-invalv ina dimokrataizin nieshan, bot muotaim dehn florish afta dimokratizieshan*, _Occasionally, social movements are involved in democratizing the nation, but frequently they flourish after democratization_
+* *Alminak azwel a fizikal rekaad, muotaim piepa, a soch sistim*, _An almanac is also a physical record, frequently on paper, of such a system_
+
+*noftaim*, _often / frequently_
+
+* *Di torm chrajidi noftaim refa tu wahn spisifik chradishan a jraama*, _The term tragedy frequently refers to one specific tradition of drama_
+* *Demya divijan no myuuchali exkluusiv, ahn signifikant uovalap noftaim prezant*, _These divisions are not mutually exclusive, and significant overlap is frequently present_
+* *Ousomeba, di friez noftaim kanfyuuz wid madan filasafi*, _However, the phrase is often confused with modern philosophy_
+* *Yuuman aktiviti noftaim kansida laka difrahn kyatigori frahn adaels nachral finamina*, _Human activity is frequently considered to be in a different category from other kinds of natural phenomena_
+* *noftaim aalso refa tu az navl* _often also referred to as "novels"_
+
+===== sometimes
+
+*somtaim*
+
+* *De waizis man iz somtaim fuul*, _The wisest man is sometimes a fool_
+
+===== Duration
+
+* *Mi naa rait im tel neks wiik*, _I won't write her till next week_
+
+===== Other Time Words
+
+====== Months
+
+|===
+|Jamaican |English
+
+|*Janiweri* |_January_
+|*Febiweri* |_February_
+|*Maach* |_March_
+|*Iepril* |_April_
+|*Mie* |_May_
+|*Juun* |_June_
+|*Julai* |_July_
+|*Aagas* |_August_
+|*Septemba* |_September_
+|*Aktuoba* |_October_
+|*Novemba* |_November_
+|*Disemba* |_December_
+|===
+
+
+
+==== Prepositions
+
+===== Location
+
+Locative prepositions are used to describe the position or location of an object
+
+* *pan* or *pahn*, _on_
+* *anda* or *aanda*, _under / below_
+* *uoba* or *uova*, _over_
+* *ina* or *iina* or *iin*, _in / into_
+* *pan tap a*, _on top of_
+* *baka*, _behind_
+* *infronta*, _in front of_
+* *saida*, _beside / next to_
+* *outsaid*, _outside_
+* *outsaida*, _outside of_
+* *nier*, _near_
+* *mongks*, _among / amongst_
+
+
+*outsaida*
+
+* *outsaida di siti*, _outside of the city_
+* *outsaida di kyamp*, _outside of the camp_
+* *outsaida yu duor*, _outside of your door_
+
+*nier*
+
+* *nier di giet*, _near the gate_
+
+*roun*
+
+* *Pupa gaan roun de*, _My father has gone round there_
+* *Sta Kiet roun de*, _Sister Kate is around there_
+
+*op*
+
+* *Im klaim op de*, _He/she climbed up there_
+* *Sta Kiet op de a baal*, _Sister Kate is up there crying_
+
+*uoba*
+
+* *Sta Kiet no uoba ya*, _Sister Kate is not over here_
+
+*aanda*
+
+* *anda di tiebl*, _under the table_
+* *anda di fig chrii*, _under the fig tree_
+* *Pupa aanda de*, _My father is under there_
+* *Di buk aanda de*, _The book is under there_
+* *Di daag gaan aanda de*, _The dog has gone under there_
+* *"We di daag de?" "Di daag de aanda tiebl ya"*, _"Where is the dog?" "The dog is here under the table"_
+
+*baka*
+
+* *Shi kom op baka im*, _She came up behind him_
+* *Shi go baka im*, _She went behind him_
+* *Mi ier wan vais baka mi*, _I heard a voice behind me_
+* *Wan bag a piipl fala baka im*, _A huge crowd of people followed behind him_
+
+*ina* / *iin*
+
+* *ina di ous*, _in the house_
+* *ina di bos*, _in the bus_
+* *yu buk ina im ous*, _your book is in his house_
+* *Mi fuud ina di pat*, _My food is in the pot_
+* *"We di pikni-dem de?" "Di pikni-dem ina skuul ya"*, _"Where are the children?" "The children are here in school"_
+
+* *Som a dem iin ya*, _Some of them are here_
+* *Di buk iin de*, _The book is in there_
+* *Di biebi iin de a sliip*, _The baby is in there sleeping_
+* *Mi breda iin a bush de*, _My brother is there in the bush_
+* *Di daag gaan iin de*, _The dog has gone in there_
+
+*iina*
+
+* *iina di ous*, _into the house_
+* *Shi a put di ail iina di pat*, _She put the oil into the pot_
+* *Dem komplien wen di goli klag op, bot dem naa tap dash dem robish iina i*, _They complain when the gully gets clogged up, but they don't stop throwing their garbage in it_
+
+
+*pan*
+
+* *Mi pudong di baaskit pan di step*, _I put the basket down on the step_
+
+*pan tap a*
+
+* *pan tap a di tiebl*, _on top of the table_
+* *pan tap a di leda*, _on top of the ladder_
+* *pan tap a kichin dresa*, _on top of the kitchen dresser_
+* *A klier pan tap a kichin dresa mi en put i, yunuo?*, _It's way on top of the kitchen dresser I had put it, you know?_
+
+*saida*
+
+* *Maak a eks saida di niem*, _Mark an "x" beside the name_
+
+*outsaid*
+
+* *Dem kom tan op outsaid*, _They came and stood outside_
+* *Im go outsaid ahn im baal*, _He went outside and cried_
+
+
+
+===== Direction
+
+
+====== to
+
+*a*
+
+* *go a Tong*, _go to Town_
+
+====== from
+
+*fram*
+
+
+====== Relative Directions
+
+* *rait*, _right_
+* *lef*, _left_
+
+* *rait an said*, _right side / right hand side_
+* *lef an said*, _left side / left hand side_
+
+* *Unu lef an no nuo wa unu rait an a du*, _Your left hand doesn't know what your right hand is doing_
+
+* *op*, _up_
+* *dong*, _down_
+
+* *faawod*, _forward_
+* *bakwod*, _backward_
+
+* *kom faawod*, _come forward_
+* *luk faawod tu* or *luk faawod fi*, _look forward to_
+
+* *Shi kom faawod ahn tel im di prablem shi av wid dem*, _She came forward and told him the problem she had with them_
+* *Im luk faawod fi di die wen im kyahn ritaiya*, _He's looking forward to the day when he can retire_
+* *Wi a luk faawod fi di nyuuz*, _We look forward to the news_
+
+====== Cardinal Directions
+
+* *naat*, _north_
+* *iis*, _east_
+* *sout*, _south_
+* *wes*, _west_
+
+====== Intercardinal Directions
+
+* *naatiis*, _north east_
+* *naatwes*, _north west_
+* *soutiis*, _south east_
+* *soutwes*, _south west_
+
+
+=== Clauses
+
+==== Relative Clauses
+
+The question word *we* can also be used as a relative pronoun similar to _what_, _which_, _that_, or _where_
+
+Relative clauses are formed using the connector-word *we* to link both parts of the sentence
+
+* *Wi fain di moni we Jan laas*, _We found the money that John lost_
+* *Gi wi di fuud we wi niid*, _Give us the food that we need_
+* *Mi no nuo we fi se*, _I don't know what to say_
+* *Mi no nuo we fi du*, _I don't know what to do_
+* *Mi no nuo we im niem*, _I don't know what his name is_
+* *Mi no nuo we im de*, _I don't where he is_
+* *Mi no nuo we im a go*, _I don't where he is going_
+* *Mi a-go tel unu sitn we nobadi no nuo bout*, _I'm going to tell you all something that nobody knows about_
+* *du we im du*, _do what he does_
+
+=== Existential verbs
+
+* *a*, _there is / there are_
+* *yu gat*, _there is / there are_
+
+* *A tuu apruoch tu Ort sayans*, _There are two approaches to Earth science_
+* *A suoso kuoknatiina di bag*, _There are only coconuts in the bag_
+
+
+=== Conjunctions
+
+==== like / as
+
+*laka*
+
+* *sinting laka dat*, _something like that / a thing like that_
+
+*laka se* _as if / like_
+
+* *Im ron laka se dem set daag afta im*, _He ran as if they had set dogs after im_
+* *It luk laka se im ago kil im wid lik*, _It appears that he is going to beat him to death_
+* *Yuuman aktiviti noftaim kansida laka difrahn kiatigori frahn adaels nachral finamina*, _Human activity is often considered to be in a different category from other natural phenomena
+* *No mek nobadi luk dong pan im ar chriit im laka se im a notn*, _Don't let anyone look down on him or treat him like nothing_
+
+
+==== Coordinating Conjunctions
+
+===== and
+
+Two nouns, adjectives, verbs, or clauses can be connected with the word *ahn* (also written as *an*)
+
+* *Jan ahn Mieri*, _John and Mary_
+
+Nouns: N + *ahn* + N
+
+* *arinj ahn manggo*, _oranges and mangos_
+
+Verbs: S + V + (O) + *ahn* + V + (O)
+
+* *baal ahn muon*, _cry and moan_
+
+* *Piipl a-go a baal ahn a grain dem tiit*, _People will cry and gnash their teeth_
+* *Smadi fain i ahn aid i agen*, _Somebody found it and hid it again_
+* *Shi a-go elp unu ahn tek kier a unu*, _She'll help you and take care of you_
+* *Im sel evriting we im uon ahn go bai i*, _He sold everything he had and bought it_
+
+
+===== with
+
+*wid*
+
+* *Kom wid mi!*, _Come with me!_
+* *Bab sing wid Piita*, _Bob sang with Peter_
+* *Piita kot di bred wid di naif*, _Peter cut the bread with the knife_
+* *Mi no grii wid dis nontaal*, _I don't agree with this at all_
+* *A wa Jan bai wid di moni?*, _What did John buy with the money?_
+
+===== together
+
+*tugeda*
+
+* *Wi chat Patwa tugeda*, _We speak to each other in Jamaican_
+
+===== but
+
+*bot*
+
+* *Wi chat nof Patwa, bot wi no rait i, dat a wi prablem*, _We speak a lot of Patois, but we don't write it, and that's our problem_
+* *Mi likl, bot mi talawa*, _I may be small, but I am strong-and fearless_
+* *Mi no riili laik manggo bot dis-ya manggo swiit mi*, _I don't really like mangoes but I find this one delicious/to be pleasing_
+* *Bot dat no pruuv se wa mi a du rait*, _But that doesn't prove that what I am doing is right_
+
+
+===== for
+
+*fi*
+
+* *Shi aks im fi du sitn fi ar*, _She asked him to do something for her_
+
+NOTE: The first *fi* in the above example is equivalent to English _to_, while the second corresponds to _for_.
+
+===== so
+
+(In progress)
+
+===== or
+
+*ar*
+
+* *mi neva yuuz no big wod ar chrai fi soun waiz*, _I never used big words or tried to sound wise_
+
+
+===== as well as
+
+(In progress)
+
+===== in order to
+
+*fi*
+
+* *Mi a go a shap fi bai milk*, _I am going to the shop to buy milk_
+* *Jien gaan a shap fi bai bred*, _Jane has gone to the shop to buy bread_
+* *Dem gi smadi di mechiz fi gi mi*, _They gave someone the message to give to me_
+* *Wahn uman gi Piita di loki lato nomba fi plie*, _A woman gave Peter the lucky lottery number to play_
+* *Mi sen im op a ruod fi miit di bos*, _I sent him up to the road to meet the bus_
+* *Kozn Kyari wash di pat fi bwail di yam*, _Cousin Carrie washed the pot to boil the yam_
+* *Mi son gaan a kalij fi ton dakta*, _My son has gone to college to become a doctor_
+* *Mi a go de fi miit di bos*, _I am going there to meet the bus_
+* *Di piipl dem sidong fi nyam ahn jringk*, _The people sat down to eat and drink_
+
+===== provided that
+
+(In progress)
+
+
+==== Correlative Conjunctions
+
+===== either...or
+
+(In progress)
+
+===== not only...but also
+
+(In progress)
+
+===== neither...nor
+
+(In progress)
+
+===== both...and
+
+(In progress)
+
+===== whether...or
+
+(In progress)
+
+===== just as... so
+
+*siem laik*
+
+*jos laik*
+
+*laik wan*
+
+* *laik wan onggri-beli laiyan*, _like a hungry lion_
+
+===== the... the
+
+(In progress)
+
+===== as...as
+
+(In progress)
+
+===== no sooner... than
+
+(In progress)
+
+===== rather... than
+
+(In progress)
+
+==== Subordinating Conjunctions
+
+===== after
+
+*afta*, _after_
+
+* *Afta dat mi a-go bak*, _After that I'll go back_
+
+*fram dat*, _afterwards / after that / from then on_
+
+* *Fram dat dem fried fi aks im no muo kwestiyan*, _After that they were afraid to ask him any more questions_
+
+
+===== although
+
+(In progress)
+
+===== as
+
+*hou* / *ou* / *siem wie hou*
+
+* *Siem wie hou mi tel yu, a so i go*, _It happened exactly as I told you_
+
+===== as far as
+
+* *Az faar az mi nuo, mi no du notn rang*, _As far as I know, I haven't done anything wrong_
+
+===== as if
+
+(In progress)
+
+===== as long as
+
+(In progress)
+
+===== as soon as
+
+(In progress)
+
+===== as though
+
+(In progress)
+
+===== because
+
+There are a number of different ways of expressing _because_ in Jamaican:
+
+* *kaa*
+* *kaaz*
+* *kaazn*
+* *bekaa*
+* *sieka*
+
+
+===== before
+
+(In progress)
+
+===== however
+
+*ousomeba*
+
+* *Ousomeba, di friez noftaim kanfyuuz wid madan filasafi*, _However, the phrase is often confused with modern philosophy_
+
+
+===== if
+
+*ef*
+
+===== in order that
+
+(In progress)
+
+===== since
+
+*sens*
+
+* *sens di advent a sayans*, _since the advent of science_
+
+*fram*
+
+* *fram mi a likl bwai*, _since I was a little boy_
+
+===== so
+
+(In progress)
+
+===== so that
+
+(In progress)
+
+===== that
+
+* *mek shuor se*, _make sure that_
+
+* *Mek shuor se yu no tel nobadi*, _Make sure that you don't tell anyone_
+* *Mek shuor se nobadi no nuo bout dis*, _Make sure that nobody knows about this_
+* *Mek shuor se unu no get iina no chobl*, _Make sure that you don't get in any trouble_
+
+===== than
+
+*dan*
+
+===== though
+
+(In progress)
+
+===== unless
+
+(In progress)
+
+===== until
+
+(In progress)
+
+===== when
+
+*wen*
+
+* *wen mi kech a di skuul*, _when I arrived at the school_
+
+*siem taim*, _when / at the same time that_
+
+
+===== whenever
+
+(In progress)
+
+===== where
+
+(In progress)
+
+===== whereas
+
+(In progress)
+
+===== wherever
+
+*eniwe*
+
+* *Eniwe im de, sniek duon lef far*, _Wherever he is, a snake is not far off_
+* *Eniwe yu de wi kaal yu!*, _Wherever you are, we'll call you_
+
+===== while
+
+(In progress)
+
+=== Particles
+
+==== Interrogative particles
+
+* *iihn* /ĩː/, _isn't it? (interrogative particle)_
+* *siin* /siːn/, _agreed, OK_ (affirmative particle)
+* *no?* / *na?* /no/, /na/, _isn't that so? / don't you agree? / right? / eh?_
+* *ya* / *yaa*, _eh?_
+
+
+==== Mood particles
+
+*ya* / *yaa* (emphasis / imperative etc)
+
+
+=== Numbers
+
+==== Cardinal Numerals
+
+|===
+|Number |Jamaican |English
+
+|*1* |*wan* |_one_
+|*2* |*tuu* |_two_
+|*3* |*chrii* |_three_
+|*4* |*fuo* or *fuor* |_four_
+|*5* |*faib* or *faiv* |_five_
+|*6* |*siks* |_six_
+|*7* |*sebn* or *sevn* |_seven_
+|*8* |*iet* or *hiet* |_eight_
+|*9* |*nain* |_nine_
+|*10* |*ten* |_ten_
+|*11* |*lebm* |_eleven_
+|*12* |*twelb* |_twelve_
+|*13* |*tertiin* |_thirteen_
+|*14* |*fuotiin* |_fourteen_
+|*15* |*fiftiin* |_fifteen_
+|*16* |*sixtiin* |_sixteen_
+|*17* |*sebntiin* |_seventeen_
+|*18* |*ietiin* or *hietiin* |_eighteen_
+|*19* |*naintiin* |_nineteen_
+|*20* |*twenti* |_twenty_
+|*30* |*toti* |_thirty_
+|*40* |*faati* |_forty_
+|*50* |*fifti* |_fifty_
+|*60* |*siksti* |_sixty_
+|*70* |*sebnti* or *sevnti* |_seventy_
+|*80* |*ieti* |_eighty_
+|*90* |*nainti* |_ninety_
+|*100* |*onjrid* |_hundred_
+|*300* |*chrii onjrid* |_three hundred_
+|*500* |*faib onjrid* |_five hundred_
+|*1000* |*touzn* |_thousand_
+|*1000000* |*miliyan* |_million_
+|===
+
+* *sevnti-tuu*, _seventy-two (72)_
+* *ieti-fuo*, _eighty-four (84)_
+* *nainti-nain*, _ninety-nine (99)_
+
+Examples:
+
+* *Di bwai-dem tek wan manngo ahn tuu apl*, _The boys took one mango and two apples_
+
+==== Ordinal Numerals
+
+|===
+|Number |Jamaican |English
+
+|*1s* |*fos* |_first_
+|*2n* |*sekan* |_second_
+|*3d* |*tod* |_third_
+|*4t* |*fuot* |_fourth_
+|*5f* |*fif* |_fifth_
+|*6s* |*siks* |_sixth_
+|*7n* |*sebn* |_seventh_
+|*8t* |*iet* |_eighth_
+|*9t* |*naint* |_ninth_
+|*10t* |*tent* |_tenth_
+|===
+
+* *di 16t (sixtiint) senchri*, _the 16th century_
+* *di 20t (twentiet) senchri*, _the 20th century_
+* *di 21s (twenti-fos) senchri*, _the 21st century_
+
+Examples:
+
+* *Di fos manggo di bwai-dem tiif pwail*, _The first mango the boys stole spoiled_
+
+==== Reduplicated Numerals
+
+Monosyllabic numerals can be reduplicated to mean _(number) at a time)_ or _(number) by (number)_
+
+* *wan-wan*, _one by one_ / _one at a time_
+* *tuu-tuu*, _two by two_ / _two at a time_
+* *chrii-chrii*, _three by three_ / _three at a time_
+* *fuor-fuor*, _four by four_ / _four at a time_
+
+Examples of reduplicated numerals:
+
+* *Dem tek wan-wan buod bil i ous*, _They built the house one piece of board at a time_
+
+=== Sentences
+
+==== Word Order
+
+Basic Jamaican sentences are S-V-O, that is to say, they follow the order _subject-verb-object_
+
+* *Mangguus nyam foul*, _Mongooses eat chickens_
+
+The subject, verb, and object may take the form of phrases rather than a single word, but the basic sentence order is the same
+
+* *Di man chrech out im an*, _The man stretched out his hand_
+
+In the example above, *di man* is the subject of the sentence, *chrech out* is the verb (verb phrase) or action that the subject is performing, and *im an* is the object, or recipient of the action
+
+==== Parts of a sentence
+
+(In progress)
+
+===== Subject
+
+(In progress)
+
+===== Predicate
+
+(In progress)
+
+===== Object
+
+(In progress)
+
+===== Copula
+
+The copula *a* (_is_) is always used when equating two nouns or noun phrases
+
+* *Jan a obya-man*, _John is a ritual specialist_
+* *Mi a sia-man*, _I am a seer_
+
+However, the copula is never used to connect nouns and adjectives
+
+* *Di rich man miin*, _The rich man is stingy_
+
+In the above example, the noun phrase "rich man" and the adjective "miin" are connected without needing to use *a*
+
+Use of the copula with prepositions is variable -- some prepositions need it and others do not
+
+* *Yu shuda ina di ous*, _You should have been in the house_
+* *Dem wehn ina di bos*, _They were in the bus_
+
+*de* -> copula + locative
+
+* *Di shot we yu waahn ina ous*, _The shirt which you want is inside the house_
+* *Di shot we yu waahn de ina ous*, _The shirt which you want is inside the house_
+* *Juoziv de (ina) Mie Pen*, _Joseph is in May Pen_
+
+===== Complements
+
+==== Questions
+
+===== Question words
+
+There are several main question words, or interrogative pronouns that are used to ask questions in Jamaican
+
+* *wa*, _what_
+* *uu* or *huu*, _who_
+* *wa-taim*, _when_
+* *wich-wie*, _how_
+* *we* or *wich-paat* or *wichapaat* or *wepaat*, _where_
+* *wa mek* or *a wa mek*, *mek*, _why_
+* *uufa*, _whose_
+* *wich* or *wish*, _which_
+* *umoch*, _how much / how many_
+
+These question words usually come at the beginning of a sentence
+
+====== what
+
+*wa*
+
+* *Wa yu niem?*, _What is your name?_
+* *Wa di tiicha niem?*, _What is the teacher's name?_
+* *Wa di biebi niem?*, _What is the baby's name?_
+* *Wa yu a du?*, _What are you doing?_
+* *Wa Jan a du?*, _What is John doing?_
+* *Wa unu a du?*, _What are you (pl.) doing?_
+* *Wa tiicha a du?*, _What is the teacher doing?_
+* *Wa yu se?*, _What did you say?_
+* *Wa dakta se?*, _What did the doctor say?_
+* *Wa dem se?*, _What did they say?_
+
+====== who
+
+*uu* / *huu*
+
+* *A uu yu?*, _Who are you?_
+* *Uu tel yu se yu no gat no sens?*, _Who told you that you have no sense?_
+
+====== when
+
+*wa-taim*
+
+* *Wa-taim yu kum uom yeside?*, _When did you come home yesterday?_
+
+====== how
+
+*wich-wie*
+
+* *Wich-wie yu waahn mi fi dwiit?*, _How do you want me to do it?_
+
+====== where
+
+*we* / *wich-paat* / *wichapaat* / *wepaat*
+
+* *We yu a go?*, _Where are you going?_
+* *We yu de?*, _Where are you?_
+* *We im de?*, _Where is he?_
+* *We dem de?*, _Where are they?_
+* *Wich-paat yu kom fram?*, _Where are you from?_
+* *Wepaat yu faada de?*, _Where is your father?_
+* *We Jan-dem a go?*, _Where are John and his friends going?_
+* *Wich-paat yu waak gu dong de?*, _Where do you walk to get down there?_
+
+====== why
+
+*wa mek*
+
+* *Wa mek yu neba kom?*, _Why didn't you come?_
+* *Wa mek yu tel im we mi se?*, _Why did you tell him what I said?_
+* *Wa mek dem ron-we go a bush?*, _Why did they run away to the bushes?_
+* *Wa mek Mis Bek a baal so?*, _Why is Miss Beck crying so much?_
+* *Wa mek dem a baal ahn gwaan so?*, _Why are they crying and carrying on this way?_
+* *Wa mek yu tan so lang?*, _Why did you stay so long?_
+* *Wa mek yu neba go?*, _Why didn't you go?_
+* *Wa mek yu a gwaan so?*, _Why are you behaving like that?_
+* *Wa mek unu a baal so?*, _Why are you all crying this way?_
+* *Wa mek dem gwaan aal dem wie de?*, _Why do they behave in that manner?_
+* *A wa mek som smadi fain-faal so?*, _Why are some people so hard to please?_
+* *Wa mek unu kip dis-ya ruum so chaka-chaka?*, _Why do you keep this room so untidy?_
+
+====== which
+
+*wich*
+
+*A wish wan a dem a fi yu?*, _Which one of them is yours?_
+
+====== how much / how many
+
+The word *umoch* can be used to express both _how much_ and _how many_ in questions
+
+* *Umoch bred unu av?*, _How much bread do you have?_
+* *Umoch buk unu av?*, _How many books do you have?_
+
+* *umoch taim*, _how many times?_
+
+* *Laif no jos bout umoch sitn wi uon*, _Life isn't just about how many things we own_
+* *Yu fi sidong fos ahn chek out umoch it a-go kaas yu*, _You should sit down first and figure out how much it's going to cost you_
+* *Dem kount op umoch di buk dem wot*, _They counted up how much the books were worth_
+
+*wat*, _how much (specifically for prices)_
+
+* *Wat a kwaat da milk?*, _How much a quart is the milk?_
+
+
+====== how long / how far etc
+
+The word *ou* can be combined with adjectives to create questions about extent / degree / length of time, etc.
+
+*ou lang*, _how long_
+
+* *Ou lang yu a-go wiet?*, _How long are you going to wait?_
+* *Ou lang yu plan fi kip tingz fram wi?*, _How long are you planning to keep things from us?_
+
+*ou faar*, _how far_
+
+*ou big*, _how big_
+
+* *Im shuo dem ou big ahn powaful im bi*, _He showed them how big and powerful he was_
+
+*ou aad*, _how hard_
+
+* *Shi nuo ou aad unu a wok*, _She knows how hard you work_
+* *Mi shuor se unu memba ou aad wi did afi wok*, _I'm sure you remember how hard we had to work_
+
+*ou diip*, _how deep_
+
+* *Chek ou diip di waata bi*, _Check how deep the water is_
+
+
+====== Question words in non-interrogative sentences
+
+Question words can also be used in sentences that are not strictly questions, for example, in conjunction with *wanda*
+
+* *A wanda wa mek Bucha Juonz so maaga ahn kraani*, _I wonder why Butcher Jones is so thin and skinny_
+* *A wanda we yu a go*, _I wonder where you are going_
+* *A wanda wa di biebi niem?*, _I wonder what the baby's name is_
+* *A wanda huu tel yu se yu no gat no sens?*, _I wonder who told you that you have no sense_
+* *A wanda wa-taim yu kum uom yeside?*, _I wonder when you came home yesterday_
+* *A wanda wich-wie yu waahn mi fi dwiit?*, _I wonder how you want me to do it_
+
+===== Inversion
+
+Statements can be made into questions by adding a rising intonation (or in writing, a question mark) at the end of the sentence, without the need for inversion
+
+* *Im av kyaar?*, _Does he have a car?_
+
+===== Question Particles
+
+In some cases, the initial question particle *a* may come at the beginning of the sentence to indicate that it is a question
+
+* *A wa Jan bai wid di moni?*, _What did John buy with the money?_
+* *A yu kyar di baaskit go gi im?* _Are you the one who carried the basket to him?_
+* *A uu yu a luk fa?*, _Who are you looking for?_
+
+===== Confirmation
+
+Emphatic agreement or confirmation is expressed with *iihn*, _isn't it?_
+
+* *Da blebi de kyan gwaan fenke-fenke, iihn?*, _That baby is ratber finicky, isn't it?_
+* *Jan kyan wok haad, iihn?*, _John can work hard though, can't he?_
+* *Mis Jien gat moni, iihn?*, _Miss Jane is rich, isn't she?_
+* *Ruut a baal, iihn?*, _Ruth is crying, isn't she?_
+* *Di kansrt gwaan gud, iihn?*, _The concert went well, didn't it?_
+* *Dem gyal spaitful, duo, iihn?*, _Those girls are vindictive, though, aren't they?_
+* *Dem kwik fi kos wi aaf, iihn?*, _They are ready to curse us, aren't they?_
+* *Yu wuda en mos hafi tel Juo, iihn?*, _You would have had to tell Joe, wouldn't you?_
+* *Mis Mati ton smadi nou, iihn?*, _Miss Matty is somebody to be reckoned with now, isn't she?_
+
+==== Commands
+
+===== Imperative
+
+* *Kom ya!*, _Come here!_
+* *Kom wid mi!*, _Come with me!_
+* *Muuv yu han!*, _Move your hand!_
+* *Go a yu yaad*, _Go home!_
+* *Chrech out yu an!*, _Stretch out your hand!_
+
+
+===== Negative commands
+
+To tell someone _not_ to do something, use the negator *no* followed by the imperative form
+
+* *No kaal mi niem ina no miksop*, _Don't mention my name in any scandals_
+* *No tel mi fi tap i naiz!*, _Don't tell me to hush up!_
+* *No du wa im tel unu fi du*, _Don't do what he tells you to do!_
+
+The word *duohn* (_don't_) can also be used
+
+* *Duohn figat!*, _Don't forget!_
+
+
+===== Table of command forms
+
+|===
+|Imperative form |Example
+|bare verb |*kom ya*
+|*no* + bare verb |*no tel mi*
+|*duohn* + bare verb |*duohn figat*
+|===
+
+
+==== Quoted speech
+
+===== Direct quotation
+
+The quoted speech should be placed between quotation marks, and can be introduced with *se*
+
+* *Im ax im se, "Yu waahn get beta?"*, _He asked him, "Do you want to get better?"_
+
+===== Indirect quotation
+
+One way to quote someone's thoughts or opinions indirectly is to use a verb (e.g., *tingk*, _think_, or *ax*, _ask_) along with *se*, followed by the full original quote without modification
+
+* *Im tingk se it bes fi wi no put no muo presha pan unu*, _He thinks that it would be best to not put any more pressure on you_
+
+== Contextual Language
+
+=== Register
+
+==== High Register
+
+===== Markers
+
+(In progress)
+
+===== Honorifics
+
+(In progress)
+
+==== Low Register
+
+===== Markers
+
+(In progress)
+
+===== Idioms
+
+* *dem lov fi big op demself*, _they like to boast_
+* *dat a chuu*, _indeed / yes / truly_
+
+===== Slang
+
+=== Non-verbal cues
+
+==== Onomatopoeia
+
+* *susu*, _whisper_
+* *susu-susu*, _whispering_
+* *tip tip*, _drip drip / drip drop_
+
+* *Mi ier di paip a liik tip tip uol nait*, _I heard the pipe leaking "drip drip" all night_
+
+==== Interjections
+
+Interjections can be used to express such things as surprise, hesitancy, pain, frustration, approval, or disapproval
+
+*kistiit*
+
+The interjections *kistiit* or *kis-tiit* (_kiss teeth_) and *sok-tiit* (_suck teeth_) are used to indicate annoyance or scorn
+
+*cho*
+
+The interjection *cho* is used to indicate scorn, impatience, annoyance, disagreement, or expostulation
+
+* *Cho, yu tu nyami-nyami, yu beli gwai bi yu dounfal*, _Hmph, you're too greedy and you're stomach is going to be your downfall!_
+
+*ku!*
+
+The interjection *ku!* (_look!_) can be used in a variety of situations to call attention to something nearby
+
+* *Ku de!*, _Look there!_
+* *Ku ya!*, _Look here!_
+* *Ku Kozn Ruut a baal!*, _Look! There's Cousin Ruth crying!_
+* *Ku Mis Bek breda!*, _Look! There's Miss Becky's brother!_
+* *Ku hou im doti ahn ragidi!*, _Look how dirty and ragged he is!_
+
+==== Gestures
+
+===== List of common gestures
+
+(In progress)
+
+=== Gambits
+
+==== List of commonly-used gambits
+
+(In progress)
+
+=== Proverbs
+
+* *Di griet fuul iz praud az daag wid tuu tiel*, _The great fool is as proud as a dog with two tails_
+* *De waizis man iz somtaim fuul*, _The wisest man is sometimes a fool_
+* *Praia in di mout ongli iz nuo praia*, _A prayer that is in the mouth only is no prayer_
+* *No fi waant a tong mek kau no taak*, _It is not for want of a tongue that a cow does not talk_
+* *Bifuor fies ahn bihain bak no a wan* (Before one's face and behind one's back is not the same thing), _Two-faced, duplicitous_
+* *No kos aligeta langmout til yu kraas riba*, _Don't curse the long mouth of the alligator until you have crossed the river_
+* *Chikin a bush kyaahn bwail suup* ("A chicken in the bush cannot be used to make soup"), _A bird in hand is worth two in the bush_
+* *Pus gaan, rat a tek ous* ("When the cat is gone, the rats take over the house"), _When the cat's away, the mice will play_
+* *Bokit a go a wel aal die, wan die di batam wi drap out* (A bucket that goes down the well all day long, one day the bottom will drop out), _It is a long lane that has no turning_
+
+== Bibliography
+
+=== Linguistic grammars
+
+* Adams, L. E. (1991). _Understanding Jamaican Patois: An introduction to Afro-Jamaican grammar_. Kingston, Jamaica: Kingston Publishing.
+* Anderson, I., & Cundall, F. (1910). _Jamaica Proverbs and Sayings_. Reprint. Shannon, Ireland: Irish University Press of Shannon.
+* Bailey, B. L. (1966). _Jamaican Creole syntax: A transformational approach_. Cambridge: Cambridge University Press.
+* Bailey, B. L. (1968). _Jamaican Creole Language Course_. Washington, D.C.: Peace Corps. (PD) (http://files.eric.ed.gov/fulltext/ED130535.pdf)
+* Budhai, E. (2005). _Relative clause formation in Jamaican creole_ (Dissertation). Mona, Jamaica: University of the West Indies. (http://uwispace.sta.uwi.edu/dspace/handle/2139/346)
+* Christie, P. (1991). Modality in Jamaican Creole. In W. Edwards & D. Winford (Eds.), _Verb phrase patterns in Black English and creoles_ (pp. 217-233). Detroit: Wayne State University Press.
+* Christie, P. (2003). _Language in Jamaica_. Kingston, Jamaica: Arawak Publications. 
+* Clemmings, F. S. P. (1987). _The copula in Jamaican creole_ (M.A. Dissertation). Mona, Jamaica: University of the West Indies.
+* D'Costa, J. (1978). _Jamaica Patois: Vocabulary and phraseology_. Kingston, Jamaica: Family Liaison Office.
+* D'Costa, J., Figueroa, J. J., & Leitch, J. (1980). _Language and dialect in Jamaica_. London: Caribbean Communications Project/Arawidi Limited.
+* DeCamp, D. (1961). Social and geographic factors in Jamaican dialects. In R. B. Le Page (Ed.), _Creole Language Studies_ (pp. 61–84). London: Macmillan.
+* Durrleman-Tame, S. (2008). _The syntax of Jamaican Creole: A cartographic perspective_. Amsterdam: John Benjamins.
+* Farquharson, J. T. (2012). _The African lexis in Jamaican: Its linguistic and sociohistorical significance_ (PhD dissertation). Mona, Jamaica: University of the West Indies.
+* Farquharson, J. T. (2013). Jamaican. In S. M. Michaelis, P. Maurer, M. Haspelmath & M. Huber (Eds.), _The survey of pidgin and creole languages_. Vol. I: English-based and Dutch-based languages (pp. 81-91). Oxford: Oxford University Press.
+* Farquharson, J. T. (2013). _Jamaican structure dataset_. In S. M. Michaelis, P. Maurer, M. Haspelmath & M. Huber (Eds.), _Atlas of Pidgin and Creole Language Structures Online_. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://apics-online.info/contributions/8.) (CC-BY)
+* Hinrichs, L. (2006). _Codeswitching on the Web: English and Jamaican Creole in e-mail communication_. Amsterdam: Benjamins.
+* Hinrichs, L. (2014). Diasporic mixing of World Englishes: the case of Jamaican Creole in Toronto. In E. Green & C. F. Meyer (Eds.), _The Variability of Current World Englishes_ (pp. 169-198). Berlin, Boston: De Gruyter. (http://www.academia.edu/4560919/Diasporic_mixing_of_World_Englishes_The_case_of_Jamaican_Creole_in_Toronto)
+* Kennedy, M. (2012). _Quantification in Jamaican creole: The syntax and semantics of evri ("every") in interaction with indefinites_. Muenchen: Lincom Europa.
+* LaCharité, D., & Wellington, J. (1996). Passive in Jamaican Creole: A duppy in the syntax. _UWILing, 2_, 19-40.
+* Lawton, D. (1984). Grammar of the English-Based Jamaican Proverb. _American Speech, 59_(2), pp. 123-130. (http://www.jstor.org.ezproxy.library.ubc.ca/stable/455246)
+* Le Page, R. B., & DeCamp, D. (1960). _Jamaican creole: A historical introduction to Jamaican Creole_. London: Macmillan.
+* Patrick, Peter L. (2012). Jamaican Creole. In B. Kortmann & K. Lunkenheimer (Eds.), _The Mouton World Atlas of Variation in English_ (pp. 222-236). Berlin, Boston: De Gruyter.
+* Patrick, P. L. (1999). _Urban Jamaican Creole: Variation in the Mesolect_. Amsterdam/Philadelphia: Benjamins.
+* Patrick, P. L. (2007). Jamaican Patwa (Creole English). In J. Holm & P. L. Patrick (Eds.), _Comparative creole syntax: Parallel outlines of 18 creole grammars_ (pp. 127-152). London: Battlebridge.
+* Patrick, P. L. (2008). Jamaican Creole: Morphology and syntax. In B. Kortmann & E. W. Schneider (Eds.), _The Americas and the Caribbean_ (pp. 609-644). Berlin, New York: Mouton de Gruyter.
+* Patrick, P. L. (2014). Jamaican Creole. In M. Di Paolo & A. K. Spears (Eds.), _Languages and dialects in the U.S.: Focus on diverse speech communities_ (pp. 126-136). Routledge.
+* Pollard, V. (2000). _Dread talk: The language of Rastafari_. Barbados: Canoe Press McGill-Queen's University Press.
+* Hollington, A. (2015). _Traveling conceptualizations: A cognitive and anthropological linguistic study of Jamaican_. Amsterdam; Philadelphia: John Benjamins Publishing Company.
+* Sebba, M. (1993). _London Jamaican_. London: Longman.
+* Todd, L. (1990). _Pidgins and creoles_. London New York: Routlede.
+* Whyte-Williams, W. P. (2008). _"Wah yu sey Miss": A study of the Jamaican Creole speaking students at Mount Winston_ (Dissertation). Hempstead, NY: Hofstra University.
+
+=== Phonology
+
+* Akers, G. A. (1981). _Phonological variation in the Jamaican continuum_. Ann Arbor: Karoma.
+* D'Costa, J., & Berry, J. (n.d.) _Some considerations of tone in Jamaican Creole_. (Unknown publisher).
+* Devonish, H., & Seiler, W. (1991). A reanalysis of the Phonological System of Jamaican Creole. _Society for Caribbean Linguistics, Occasional Papers, 24_.
+* Devonish, H., & Harry, O. G. (2004), Jamaican phonology. In B. Kortman & E. W. Shneider (Eds.), _A handbook of varieties of English_, phonology 1 (pp. 441–471). Berlin: Mouton De Gruyter.
+* Devonish, H., & Harry, O. G. (2008). Jamaican Creole and Jamaican English: Phonology. In B. Kortmann & E. W. Schneider (Eds.), _The Americas and the Caribbean_ (pp. 256-289). Berlin, New York: Mouton de Gruyter.
+* Gooden, S. A. (2003). _The phonology and phonetics of Jamaican Creole reduplication_. Columbus, OH: Ohio State University.
+* Harry, O. G. (2006). Illustrations of the IPA: Jamaican Creole. _Journal of the International Phonetic Association, 36_, 125-131. (http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=439334&fileId=S002510030600243X)
+* Meade, R. R. (2001). _Acquisition of Jamaican Phonology_. Dordrecht: Holland Institute of Linguistics.
+
+=== Sociolinguistics and education
+
+* Brathwaite, E. K. (1984). _History of the voice: The development of nation language in Anglophone Caribbean poetry_. London: New Beacon Books.
+* Cassidy, F. G. (1971). _Jamaica talk: Three hundred years of the English language in Jamaica_. London: MacMillan Caribbean.
+* Cassidy, F. (2007). _Jamaica talk: Three hundred years of the English language in Jamaica_ (2nd ed.). Kingston, Jamaica: University of the West Indies Press.
+* Christie, P. (2003). _Language in Jamaica_. Kingston, Jamaica: Arawak.
+* Devonish, H. (1986). _Language and liberation: Creole language politics in the Caribbean_. London: Karia Press.
+* Devonish, H., & Carpenter, K. (2007). Towards full bilingualism in education: The Jamaican Bilingual Primary Education Project. _Social and Economic Studies, 56_(1/2), pp. 277-303. (http://www.jstor.org/stable/27866504)
+* Foster, C. Y. W. (1999). _Motives to speak Jamaican patwah: A rhetorical analysis of national identity through the use of nation language_ (Ph.D. Dissertation). Miami: Miami University.
+* Henry, A. (2012). Patwa: Its power, politics and possibilities. In C. James & A. Davis (Eds.), _Jamaica in the Canadian experience: A multiculturalizing presence_. Halifax: Fernwood Publishing.
+* Kouwenberg, S., Anderson-Brown, W., Barrett, T., Dean, S., Lisser, T., Douglas, H., & Scott, J. (2011). Linguistics in the Caribbean: Empowerment through Creole language awareness. _Journal of Pidgin & Creole Languages, 26_(2).
+* Lalla, B., & D'Costa, J. (1990). _Language in exile: Three hundred years of Jamaican Creole_. Tuscaloosa: University of Alabama Press.
+* Moll, A. (2015). _Jamaican Creole goes Web: Sociolinguistic styling and authenticity in a digital 'Yaad_. Amsterdam; Philadelphia: John Benjamins Publishing Company.
+* Pollard, V. (1978). Code switching in Jamaica Creole: Some educational implications. _Caribbean Journal of Education, 5_(1 & 2).
+* Tomlinson, L. (2004). _Elevating the status of written Creole in Jamaican English classrooms_ (Unpublished M.Ed. Thesis). Toronto: York University.
+
+=== Literature
+
+* Bennett, L. (1948). _Miss-Lulu Sez_. Kingston: Gleaner.
+* Bennett, L. (1950). _Anancy stories and dialect verse_. Kingston, Jamaica: Pioneer Press
+* Bennett, L. (1966). _Jamaica Labrish: Jamaica Dialect Poems_. Kingston: Sangster.
+* Breeze, J. (1988). _Riddym ravings and other poems_. London : Race Today Publications.
+* D'Costa, J. (1975). _Escape to Last Man Peak_. Kingston, Jamaica: Longman Caribbean.
+* D'Costa, J., & Pollard, V. (1981). _Over Our Way: A Collection of Caribbean Short Stories for Young Readers_. Trinidad : Longman Caribbean.
+* MacDermot, T. (1904-09). _All Jamaica Library_. Kingston: Jamaica Times.
+* Johnson, L. K. (2002). _Mi revalueshanary fren: Selected poems_. London: Penguin Modern Classics.
+* McKay, C. (1909). _Songs of Jamaica_. Kingston: A. W. Gardner & Company.
+* Murray, T. (1953). _Folk songs of Jamaica_. Oxford: Oxford University Press.
+* Reid, V. S. (1949). _New day_. New York: Alfred A. Knopf.
+* Bible Society of the West Indies (2012). _Di Jamiekan Nyuu Testiment (JNT)_. Kingston: Bible Society of the West Indies.
+
+=== Dictionaries
+
+* Cassidy, F. G., & Le Page, R. B. (1967). _Dictionary of Jamaican English_. Cambridge: Cambridge University Press.
+* Cassidy, F. G., & Le Page, R. B. (2009). _Dictionary of Jamaican English_ (2nd ed.). Cambridge: Cambridge University Press.
+* Chen, R. (1994). _The Jamaica dictionary: A is fi aringe_. Markham, Canada: Periwinkle.
+* Parker, P. (2008). _Websters Jamaican-English thesaurus dictionary_. San Diego: ICON Group International, Inc.
+* Reynolds, R. (2006). _Jabari: Authentic Jamaican dictionary of the Jamic language_. Waterbury, CT: Around the Way Books.
+* Watson, G. L. (1991). _Jamaican sayings: With notes on folklore, aesthetics and social control_. Tallahassee, FL: Florida A&M University Press.
+* Welcome, C. (2003). _Jay-may-khan Pa-twah: A detailed dictionary of the languages(s), speech pattern(s) and cultures of the Jamaican and Caribbean peoples history and heritage_. Brooklyn, NY: C.N. Welcome.
+
+=== Phrasebooks and popular language guides
+
+* Bonn, C. (2013). _Slanguage dictionary: Caribbean and Latin American slang words and phrases_. New York: Christopher Bonn.
+* Burnett, V. (2001). _Mi granny seh fi tell yuh seh: The A to Z of Jamaicanisms_. Kingston, Jamaica: Jamrite Publications.
+* D'Costa, J. (1970). _Core phrase list and vocabulary items in Jamaican usage: For use by Peace Corps volunteers_. Kingston, Jamaica: Peace Corps Jamaica.
+* Duffus, L. R. (1983). _Jamaicanisms: The Jamaican language from A to Z, a visitors' guide to native talk_. Kingston, Jamaica: LRD Enterprises.
+* Foster, G. (2011). _Mout mek fi chat! A collection of Jamaican proverbs, idiomatic expressions, words and their meanings_. Kingston, Jamaica: Seaside Press.
+* Huie, B. (1993). _Tell mi fi true: A collection of Jamaican proverbs with translations_. Scarborough, Ont: Bargergol Corporation.
+* Jesse, J. (2008). _Rasta talk [the itionary]: A fun guide to Rastafarian dialect_. Kingston: LMH Pub. Ltd.
+* Marley, M., & Sapaty, G. (2000). _An international Jamaican patois book and the teachings of Rastafarians: Guide to better learning of Jamaican patois_. Ghana: Samuel Afeku Amenyo Maka Marley Fan Club.
+* Maxwell, K., & McLaren, L. (1981). _How to speak Jamaican_. Kingston, Jamaica: Jamrite Publications.
+* Reece-Daly, C. (1997). _Membea de culcha: Remember the culture, an E-Z reading guide to understnding Jamaican phases, proverbs, riddles and folkways_. Detriot National Books, International.
+* Samuels, J. (2009). _Jamaican Patwa no problem: A tourist's guide to Jamaican language and culture_. Jonesboro, AR: Justuwait & See Productions and Grant House.
+* Thomas, J. J. (1987). _Chat Jamaican: The authentic Jamaican phrase book_. Clarks Town, Jamaica: J.J. Thomas.
+* The Jamaican Language Unit. (2009). _Writing Jamaican the Jamaican way: Ou fi rait Jamiekan_. Kingston, Jamaica: Arawak Publications.
+* White, F. (2006). _Jamaican talk: A modern way to talk Jamaican patois_. Kingston, Jamaica: In the Streetz Records.
+
+=== Online resources
+
+* http://apics-online.info/contributions/8[Jamaican structure dataset]
+* http://patwa.org[Jamaican Language Audio Dictionary] at Patwa.org (CC-BY-NC)
+* http://glottolog.org/resource/languoid/id/jama1262[Glottolog Resources for Jamaican]
+* http://phoible.org/inventories/view/1053[Phonological Inventory of Jamaican] - PHOIBLE Online (Max Planck Institute for Evolutionary Anthropology)
+* http://www.jumieka.com/[Jumieka Langwij] - Introduction to Jamaican Language by Larry Chang
+* https://jam.wikipedia.org/[Jamaican Patois Wikipedia]
+* http://jamaicans.com/speak-jamaican/[Speak Jamaican] - Jamaicans.com
+* http://www.mona.uwi.edu/dllp/jlu/index.htm[The Jamaican Language Unit] (JLU) University of the West Indies, Mona
+* http://jamaicanpatwah.com/[Online Patois Dictionary]
+* https://langwij.wordpress.com/[Patwa Blog]
+* _Jamaican National Dictionary_ (in progress)
+* http://privatewww.essex.ac.uk/~patrickp/JCtexts.html[Jamaican Creole Texts] by Peter L. Patrick
+
+
+<<<
+
+[.colophon.discrete]
+
+(C) 2015 by Open Grammar Project
+
+
+image::cc-by.png[]
+
+This work is licensed under a http://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License]

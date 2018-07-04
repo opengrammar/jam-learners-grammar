@@ -1,0 +1,1783 @@
+= A Learner's Glossary of Jamaican
+// settings
+:doctype: book
+:toc: left
+
+== A
+
+* *a* /a/, _is_
+* *a da mek* /adamek/, _that's why_
+* *a farin* /afaɹin/, _overseas_
+* *a hen ina iself* /aheninaɪself/, _an end in itself_
+* *a konchri* /akontʃɹi/, _in the country; in rural areas_
+* *a wa mek* /awamek/, _why; why is it that_
+* *a yaad* /ajaːd/, _at home_
+* *aaba* /aːba/, _harbour_
+* *aad* /aːd/, _hard; difficult_
+* *aad fi* /aːdfi/, _hard to; difficult to_
+* *aad iez* /aːd iez/, _disobedient; stubborn_
+* *aadiens* /aːdiens/, _audience_
+* *aaf* /aːf/, _half; off_
+* *aagan* /aːgan/, _organ_
+* *aaganizieshan* /aːganizɪɛʃan/, _organization_
+* *aaganizm* /aːganizm̩/, _organism_
+* *Aagas* /aːgas/, _August_
+* *aagiment* /aːgiment/, _argument_
+* *aakid* /aːkid/, _orchid_
+* *aal* /aːl/, _all; even_
+* *aal a dem* /aːladem/, _all of them_
+* *aal di taim* /aːlditaɪm/, _all the time_
+* *aalmuos* /aːlmuɔs/, _almost_
+* *aalwiez* /aːlwɪɛz/, _always_
+* *aarait* /aːɹaɪt/, _alright_
+* *aaredi* /aːɹedi/, _already_
+* *aas* /aːs/, _horse_
+* *aas-riesin* /aːsɹɪɛsin/, _horse racing_
+* *aat* /aːt/, _art; heart_
+* *aata* /aːta/, _author_
+* *aatagrafi* /aːtagɹafi/, _orthography_
+* *aatiek* /aːtɪɛk/, _heartache_
+* *aatis* /aːtis/, _artist_
+* *aawez* /aːwez/, _always_
+* *aazwiez* /aːzwɪɛz/, _always_
+* *ab* /ab/, _have_
+* *abee* /abeː/, _taunt_
+* *abraad* /abɹaːd/, _abroad_
+* *achrakshan* /atʃɹakʃan/, _attraction_
+* *achribyut* /atʃɹibjut/, _attribute_
+* *ada* /ada/, _other_
+* *adaels* /adaels/, _other_
+* *adaels ieria* /adaels ɪɛɹia/, _other areas_
+* *adawaiz* /adawaɪz/, _instead_
+* *adminischrietiv* /administʃɹɪɛtiv/, _administrative_
+* *advokiet* /advokɪɛt/, _advocate_
+* *afta* /afta/, _after_
+* *agen* /agen/, _again_
+* *agrikolcha* /agɹikoltʃa/, _agriculture_
+* *agrikolcharal* /agɹikoltʃaɹal/, _agricultural_
+* *agyu* /aɟu/, _argue_
+* *agyu se* /aɟuse/, _argue that_
+* *ahn* /ã/, _and_
+* *ai* /aɪ/, _high_
+* *ai skuul* /aɪskuːl/, _high school_
+* *aida* /aɪda/, _either_
+* *aidentifai* /aɪdentifaɪ/, _identify_
+* *aidentifai az* /aɪdentifaɪaz/, _identify as_
+* *aidentifai wid* /aɪdentifaɪwid/, _identify with_
+* *aidentiti* /aɪdentiti/, _identity_
+* *aidie* /aɪdie/, _idea_
+* *aigl* /aɪgl̩/, _idle_
+* *aijrosfier* /aɪdʒɹosfɪɛɹ/, _hydrosphere_
+* *ail* /aɪl/, _oil_
+* *ailan* /aɪlan/, _island_
+* *ailant* /aɪlant/, _island_
+* *airish* /aɪɹiʃ/, _Irish potato; potato_
+* *airish pitieta* /aɪɹiʃ pitɪɛta/, _Irish potato; potato_
+* *ais* /aɪs/, _ice_
+* *aiskriim* /aɪskɹiːm/, _ice cream_
+* *aisoliet* /aɪsolɪɛt/, _isolate_
+* *ait* /aɪt/, _height_
+* *aiyan* /aɪjan/, _iron_
+* *ajres* /adʒɹes/, _address_
+* *aki* /aki/, _ackee_
+* *aki ahn saalfish* /aki ã saːlfiʃ/, _ackee and saltfish_
+* *akliem* /aklɪɛm/, _acclaim_
+* *aknalij* /aknalidʒ/, _acknowledge_
+* *akraas* /akɹaːs/, _across_
+* *aktivis* /aktivis/, _activist_
+* *Aktuoba* /aktuɔba/, _October_
+* *ala* /ala/, _holler; shout_
+* *alaiv* /alaɪv/, _alive_
+* *alayans* /alajans/, _alliance_
+* *alduo* /alduɔ/, _although_
+* *aligeta* /aligeta/, _crocodile; alligator_
+* *aligeta pier* /aligeta pɪɛɹ/, _avocado; alligator pear_
+* *aliv* /aliv/, _olive_
+* *amfisbiinyan* /amfisbiːɲan/, _amphibian_
+* *an* /an/, _and_
+* *ana* /ana/, _honour_
+* *anarebl* /anaɹebl̩/, _honourable_
+* *anda* /anda/, _under_
+* *andastan* /andastan/, _understand_
+* *aneda* /aneda/, _another_
+* *anlain* /anlaɪn/, _online_
+* *anles* /anles/, _unless_
+* *anmigl* /anmigl̩/, _palm_
+* *ansa* /ansa/, _answer_
+* *ansofistikietid* /ansofistikɪɛtid/, _unsophisticated_
+* *apaat* /apaːt/, _apart_
+* *apaint* /apaɪnt/, _appoint_
+* *api* /api/, _happy_
+* *apier* /apɪɛɹ/, _appear_
+* *apl* /apl̩/, _apple_
+* *aplai* /aplaɪ/, _apply; applied_
+* *apm* /apm̩/, _happen_
+* *aprishiet* /apɹiʃɪɛt/, _appreciate_
+* *apruoch* /apɹuɔtʃ/, _approach_
+* *apruuv* /apɹuːv/, _approve; approved_
+* *ar* /aɹ/, _or; she_
+* *ar els* /aɹels/, _or else_
+* *aredi* /aɹedi/, _already_
+* *arinj* /aɹindʒ/, _orange_
+* *asaalt* /asaːlt/, _assault_
+* *aschranami* /astʃɹanami/, _astronomy_
+* *aschranomi* /astʃɹanomi/, _astronomy_
+* *askaadn* /askaːdn̩/, _according_
+* *askaadn tu* /askaːdn̩ tu/, _according to_
+* *aspital* /aspital/, _hospital_
+* *at* /at/, _hat; hot_
+* *atletix* /atletiks/, _athletics_
+* *atmosfier* /atmosfɪɛɹ/, _atmosphere_
+* *aul* /aul/, _old_
+* *avielobl* /avɪɛlobl̩/, _available_
+* *ax* /aks/, _ox; ask_
+* *axep* /aksep/, _accept_
+* *axtiel* /akstɪɛl/, _ox tail_
+* *aya* /aja/, _higher_
+* *azwel* /azwel/, _also_
+
+== B
+
+* *baaba* /baːba/, _barber_
+* *baagin* /baːgin/, _bargain_
+* *baal* /baːl/, _ball; cry_
+* *baan* /baːn/, _born_
+* *baara* /baːɹa/, _borrow_
+* *baas* /baːs/, _boss_
+* *baaskitbaal* /baːskitbaːl/, _basketball_
+* *baat* /baːt/, _bath_
+* *baazli* /baːzli/, _basil_
+* *bad* /bad/, _bad_
+* *bada* /bada/, _bother; worse_
+* *badarieshan* /badaɹɪɛʃan/, _hassle; inconvenience_
+* *badi* /badi/, _body_
+* *badman* /badman/, _gangster_
+* *bai* /baɪ/, _by; buy_
+* *baik* /baɪk/, _bike_
+* *bailoji* /baɪlodʒi/, _biology_
+* *bait* /baɪt/, _bite_
+* *baka bush* /baka buʃ/, _in the bush; in the countryside_
+* *bakbuon* /bakbuɔn/, _backbone; spine_
+* *bakl* /bakl̩/, _battle_
+* *bami* /bamɪ/, _bammy (a traditional cassava flatbread)_
+* *ban* /ban/, _band_
+* *banaana* /banaːna/, _banana_
+* *Baptis* /baptis/, _Baptist_
+* *batam* /batam/, _bottom_
+* *batn* /batn̩/, _bottom_
+* *baul* /baul/, _bowl_
+* *bax* /baks/, _punch; bask_
+* *baxin* /baksin/, _boxing_
+* *baya* /baya/, _buyer_
+* *bayagrafi* /bajagɹafi/, _biography_
+* *bayosfier* /bajosfɪɛɹ/, _biosphere_
+* *beg yu* /beg ju/, _please_
+* *bekaa* /bekaː/, _because_
+* *bel* /bel/, _bell_
+* *beli* /beli/, _stomach; belly_
+* *ben* /ben/, _bend_
+* *bex* /beks/, _angry_
+* *bie* /bɪɛ/, _bay_
+* *biebi* /bɪɛbi/, _baby_
+* *bied* /bɪɛd/, _bathe; beard_
+* *biefies* /bɪɛfɪɛs/, _bare-faced; blatant_
+* *biej* /bɪɛdʒ/, _beige_
+* *biek* /bɪɛk/, _bake_
+* *bier* /bɪɛɹ/, _bear; stand_
+* *bies* /bɪɛs/, _base_
+* *bies pahn* /bɪɛs pã/, _based on_
+* *biesik* /bɪɛsik/, _basic_
+* *biesin* /bɪɛsin/, _basin_
+* *biev* /bɪɛv/, _to behave_
+* *bifuo* /bifuɔ/, _before_
+* *bifuor* /bifuɔɹ/, _before_
+* *bifuotaim* /bifuɔtaɪm/, _formerly; an era in the past; a period in the past_
+* *bifuotaim piipl* /bifuɔtaɪm piːpl̩/, _people of earlier times; people in the olden days_
+* *bigop* /bɪgop/, _praise; commend_
+* *biif* /biːl/, _beef_
+* *biini* /biːni/, _tiny; teeny_
+* *bikaazn* /bikaːzn̩/, _because; since_
+* *bil* /bil/, _build_
+* *bil pahn* /bilpã/, _build on_
+* *bilang* /bilaŋ/, _belong_
+* *biyain* /bijaɪn/, _behind_
+* *bizniz* /bizniz/, _business_
+* *blai* /blaɪ/, _favour; chance; opportunity_
+* *blak* /blak/, _block; black_
+* *blak pepa* /blak pepa/, _black pepper_
+* *blingki* /bliŋki/, _firefly_
+* *bluu* /bluː/, _blue_
+* *bod* /bod/, _bird_
+* *bokl* /bokl̩/, _bottle_
+* *bon* /bon/, _burn; bun_
+* *bongjri* /boŋdʒɹi/, _boundary_
+* *bongx* /boŋks/, _bounce_
+* *bot* /bot/, _but_
+* *bota* /bota/, _butter_
+* *botn* /botn̩/, _button_
+* *bou* /bɔu/, _bough; bow_
+* *bout* /bɔut/, _about; approximately_
+* *braad* /bɹaːd/, _broad_
+* *braatopsi* /bɹaːtopsi/, _upbringing_
+* *bred* /bɹed/, _bread_
+* *breda* /bɹeda/, _brother_
+* *bredfruut* /bɹedfɹuːt/, _breadfruit_
+* *brejrin* /bɹedʒɹin/, _friend_
+* *briekop* /bɹɪɛkop/, _brak up; fall apart_
+* *briev* /bɹɪɛv/, _brave_
+* *bring tigeda* /bɹiŋ tigeda/, _bring together_
+* *bringgl* /bɹiŋgl̩/, _agitated_
+* *brok* /bɹok/, _break_
+* *broun* /bɹɔun/, _brown_
+* *buk* /buk/, _book_
+* *bulfraag* /bulfɹaːg/, _bullfrog_
+* *buod* /buɔd/, _board_
+* *buod a chostii* /buɔdatʃostiː/, _board of trustees_
+* *buodn skuul* /buɔdn̩ skuːl/, _boarding school_
+* *buot* /buɔt/, _both; boat_
+* *buut* /buːt/, _booth; boot_
+* *bwai* /bwaɪ/, _boy_
+* *bwai pikni* /bwaɪ pikni/, _son_
+* *bwail* /bwaɪl/, _boil_
+* *byuuti* /bjuːti/, _beauty_
+
+== C
+
+* *chaaj* /tʃaːdʒ/, _charge_
+* *chaaklit* /tʃaːklit/, _chocolate; cocoa_
+* *chaaklit chrii* /tʃaːklit tʃɹiː/, _cacao tree; cocoa tree_
+* *chais* /tʃaɪs/, _choose_
+* *chaka-chaka* /tʃakatʃaka/, _untidy; disorderly; in disarray_
+* *chat* /tʃat/, _speak_
+* *cheri* /tʃeɹi/, _cherry_
+* *ches* /tʃes/, _chest_
+* *chichi* /tʃitʃi/, _wood termite; wood ant_
+* *chienj* /tʃɪɛndʒ/, _change_
+* *chiiz* /tʃiːz/, _cheese_
+* *chikin* /tʃikin/, _chicken_
+* *cho* /tʃo/, _expression of exasperation_
+* *chobl* /tʃobl̩/, _trouble_
+* *choch* /tʃotʃ/, _church_
+* *chokcha* /tʃoktʃa/, _structure_
+* *chos* /tʃos/, _trust_
+* *chostii* /tʃostiː/, _trustee_
+* *chrabl* /tʃɹabl̩/, _travel_
+* *chradishan* /tʃɹadiʃan/, _tradition_
+* *chrai* /tʃɹaɪ/, _try_
+* *chrai fi* /tʃɹaɪfi/, _try to_
+* *chrajidi* /tʃɹadʒidi/, _tragedy_
+* *chrang* /tʃɹaŋ/, _strong_
+* *chranzfaam* /tʃɹanzfaːm/, _transform_
+* *chranzishan* /tʃɹanziʃan/, _transition_
+* *chranzishan piiriad* /tʃɹanziʃan piːɹiad/, _transition period_
+* *chranznashinal* /tʃɹanznaʃinal/, _transnational_
+* *chrap* /tʃɹap/, _strap_
+* *chrapik* /tʃɹapik/, _tropic_
+* *chrapikal* /tʃɹapikal/, _tropical_
+* *chrech* /tʃɹetʃ/, _stretch_
+* *chrecha* /tʃɹetʃa/, _stretcher_
+* *chrent* /tʃɹent/, _strength_
+* *chretn* /tʃɹetn̩/, _threaten_
+* *chried* /tʃɹɪɛd/, _trade_
+* *chrien* /tʃɹɪɛn/, _train_
+* *chrienin* /tʃɹɪɛnin/, _training_
+* *chrienja* /tʃɹɪɛndʒa/, _stranger_
+* *chriet* /tʃɹɪɛt/, _straight_
+* *chrii* /tʃɹiː/, _tree; three (3)_
+* *chriit* /tʃɹiːt/, _treat_
+* *chriiti* /tʃɹiːti/, _treaty_
+* *chrik* /tʃɹik/, _trick_
+* *chrikifai* /tʃɹikifaɪ/, _cunning_
+* *chrompit* /tʃɹompit/, _trumpet_
+* *chruu* /tʃɹuː/, _through_
+* *chuocho* /tʃuɔtʃo/, _chayote squash; christophene; cho-cho_
+* *chuochuo* /tʃuɔtʃuɔ/, _chayote; cho-cho_
+* *chupid* /tʃupid/, _stupid_
+* *chuu* /tʃuː/, _true_
+* *chuu-chuu* /tʃuːtʃuː/, _really_
+* *chuuhout* /tʃuːhɔut/, _throughout_
+* *chuun* /tʃuːn/, _tune_
+* *chuut* /tʃuːt/, _truth_
+* *chuuz* /tʃuːz/, _choose_
+
+== D
+
+* *daa* /daː/, _that_
+* *daag* /daːg/, _dog_
+* *daans* /daːns/, _dance_
+* *daata* /daːta/, _daughter_
+* *dailuut* /daɪluːt/, _dilute_
+* *dainasuor* /daɪnasuɔɹ/, _dinosaur_
+* *dairek* /daɪɹek/, _direct_
+* *dala* /dala/, _dollar_
+* *dangki* /daŋki/, _donkey_
+* *dash* /daʃ/, _throw; toss; fling; hurl_
+* *dash awie* /daʃ awɪɛ/, _throw away_
+* *dashiin* /daʃiːn/, _taro; taro root; dasheen_
+* *dat* /dat/, _that_
+* *dat-de* /datde/, _that there_
+* *dat a chuu* /datatʃuː/, _indeed; yes; truly_
+* *dayalek* /dajalek/, _dialect_
+* *dayaspora* /dajaspoɹa/, _diaspora_
+* *dayatishan* /dajatiʃan/, _dietician_
+* *de* /de/, _there_
+* *debl* /debl̩/, _devil_
+* *ded* /ded/, _die; dead_
+* *definishan* /definiʃan/, _definition_
+* *dehn* /dẽ/, _they_
+* *dehn kaali* /dẽ kaːli/, _is called; known as_
+* *dekied* /dekɪɛd/, _decade_
+* *dem* /dem/, _they; them_
+* *dem-de* /demde/, _those; those there_
+* *dem-ya* /demja/, _these; these here_
+* *demakrasi* /demakɹasi/, _democracy_
+* *dep* /dep/, _depth_
+* *deso* /deso/, _right there_
+* *dezat* /dezat/, _desert_
+* *di* /di/, _the_
+* *di grietis* /digɹɪɛtis/, _the greatest_
+* *di muos* /dimuɔs/, _the most_
+* *di uol a dem* /diwuɔla dem/, _all of them; they all; everyone_
+* *dibiet* /dibɪɛt/, _debate_
+* *die* /dɪɛ/, _day_
+* *dieli* /dɪɛli/, _daily_
+* *difiit* /difiːt/, _defeat_
+* *difikolti* /difikolti/, _difficulty_
+* *difrahn* /difɹã/, _different_
+* *difrans* /difɹans/, _difference_
+* *digrii* /digɹiː/, _degree_
+* *diil* /diːl/, _deal_
+* *diil wid* /diːl wid/, _deal with_
+* *diklier* /diklɪɛɹ/, _declare_
+* *diktieta* /diktɪɛta/, _dictator_
+* *diktietaship* /diktɪɛtaʃip/, _dictatorship_
+* *dimokratizieshan* /dimokɹatizɪɛʃan/, _democratization_
+* *dipaacha* /dipaːtʃa/, _departure_
+* *dipen* /dipen/, _depend_
+* *dipen pan* /dipen pan/, _depend on_
+* *dis* /dis/, _this_
+* *dis-ya* /disja/, _this here_
+* *disaid* /disaɪd/, _decide_
+* *disaya* /disaja/, _this here; this_
+* *dischribyuushan* /distʃɹibjuːʃan/, _distribution_
+* *Disemba* /disemba/, _December_
+* *disendant* /disendant/, _descendant_
+* *disepshos* /dɪsepʃos/, _deceitful_
+* *disgostid* /disgostid/, _disgusted_
+* *distingshan* /distiŋʃan/, _distinction_
+* *ditiel* /ditɪɛl/, _detail_
+* *divaid* /divaɪd/, _divide; divided_
+* *dizain* /dizaɪn/, _design; designed_
+* *dizain fi* /dizaɪnfi/, _designed to_
+* *dizort* /dizoɹt/, _dessert_
+* *domestikieshan* /domestikɪɛʃan/, _domestication_
+* *domplin* /domplin/, _dumpling_
+* *dong* /doŋ/, _down_
+* *dopi* /dopɪ/, _ghost_
+* *dos* /dos/, _dust_
+* *doti* /doti/, _dirty_
+* *doti op* /dotiop/, _soil; get dirty_
+* *dout* /dɔut/, _doubt_
+* *drop a grong* /dɹopagɹoŋ/, _drop on the ground; drop to the floor_
+* *dukunu* /dukunu/, (a kind of pudding)
+* *duo* /duɔ/, _door; though_
+* *duohn* /duõ/, _don't_
+* *duor* /duɔɹ/, _door_
+* *dwiit* /dwiːt/, _do it_
+* *dyuu* /djuː/, _due_
+
+== E
+
+* *ebi* /ebi/, _every_
+* *ebi die* /ebi dɪɛ/, _every day_
+* *ebn* /ebn̩/, _heaven_
+* *ebri* /ebɹi/, _every_
+* *ebribadi* /ebɹibadi/, _everybody; everyone_
+* *ebriting* /ebɹitiŋ/, _everything_
+* *ed a stiet* /edastɪɛt/, _head of state_
+* *edikieshan* /edikɪɛʃan/, _education_
+* *edita* /edita/, _editor_
+* *ef* /ef/, _if_
+* *egvaantij* /egvaːntidʒ/, _advantage_
+* *egzakli* /egzakli/, _exactly_
+* *egzamin* /egzamin/, _examine_
+* *egzampl* /egzampl̩/, _example_
+* *egzis* /egzis/, _exist_
+* *eliment* /eliment/, _element_
+* *elivieta* /elivɪɛta/, _elevator_
+* *elp* /elp/, _help_
+* *elswe* /elswe/, _elsewhere_
+* *en* /en/, _hen_
+* *enaji* /enadʒi/, _energy_
+* *eni* /eni/, _any_
+* *enibadi* /enibadi/, _anybody; anyone_
+* *eniebl* /enɪɛbl̩/, _enable_
+* *enitaim* /enɪtaɪm/, _anytime; whenever_
+* *eniwiez* /eniwɪɛz/, _anyway; in any case; regardless_
+* *entapraiz* /entapɹaɪz/, _enterprise_
+* *eritij* /eɹitidʒ/, _heritage_
+* *esn* /esn̩/, _essence_
+* *evidens* /evidens/, _evidence_
+* *evri* /evɹi/, _every_
+* *exchienj* /ekstʃɪɛndʒ/, _exchange_
+* *exchriim* /ekstʃɹiːm/, _extreme_
+* *exepshan* /eksepʃan/, _exception_
+* *exkiep* /ekskɪɛp/, _to escape_
+* *exkluudn* /ekskluːdn̩/, _excluding_
+* *expanshan* /ekspanʃan/, _expansion_
+* *expiriens* /ekspiɹɪɛns/, _experience_
+* *expuot* /ekspuɔt/, _export_
+* *extablish* /ekstabli/, _establish_
+* *extingk* /ekstiŋk/, _extinct_
+
+== F
+
+* *faada* /faːda/, _father_
+* *faal* /faːl/, _fall_
+* *faal dong* /faːl doŋ/, _fall down_
+* *faal ina lob* /faːl ina lob/, _fall in love_
+* *faam* /faːm/, _form; farm_
+* *faama* /faːma/, _former; farmer_
+* *faamat* /faːmat/, _format_
+* *faar* /faːɹ/, _far_
+* *faas* /faːs/, _impudent; interfering; meddlesome; intrusive_
+* *faatifikieshan* /faːtifikɪɛʃan/, _fortification_
+* *fagivnis* /fagivnis/, _forgiveness_
+* *faib* /faɪb/, _five (5)_
+* *fain* /faɪn/, _fine; find_
+* *fainal* /faɪnal/, _final_
+* *faiya* /faɪja/, _fire_
+* *faiya bon* /faɪja bon/, _a fire_
+* *faiyaman* /faɪjaman/, _fireman_
+* *fak* /fak/, _fact_
+* *fala* /fala/, _follow_
+* *falara* /falaɹa/, _follower_
+* *falarin* /falaɹin/, _following_
+* *fambli* /fambli/, _family_
+* *farin* /faɹin/, _foreign country; overseas_
+* *farina* /faɹina/, _foreigner_
+* *fasilitiet* /fasilitɪɛt/, _facilitate_
+* *faya* /faja/, _fire_
+* *Febiweri* /febiweɹi/, _February_
+* *feda* /feda/, _feather_
+* *feminis* /feminis/, _feminist_
+* *feminizim* /feminizim/, _feminism_
+* *fene* /fene/, _in trouble_
+* *fens* /fens/, _fence_
+* *fi* /fi/, _for; to_
+* *fi chuu* /fitʃuː/, _in truth; indeed; truly_
+* *fi mi* /fimi/, _mine_
+* *fi paapos* /fipaːpos/, _on purpose; deliberately_
+* *fi touzn a ier* /fitɔuzn̩ a ɪɛɹ/, _for thousands of years_
+* *fiemos* /fɪɛmos/, _famous_
+* *fies* /fɪɛs/, _face_
+* *fiesti* /fɪɛsti/, _rude; cheeky; impudent_
+* *fiet* /fɪɛt/, _fate; faith_
+* *fieva* /fieva/, _forever_
+* *fif* /fif/, _fifth (5th)_
+* *fiftiin* /fiftiːn/, _fifteen (15)_
+* *figa* /figa/, _figure_
+* *figat* /figat/, _forget_
+* *fiicha* /fiːtʃa/, _feature_
+* *fiil* /fiːl/, _feel; field_
+* *fiimiel* /fiːmɪɛl/, _female_
+* *fiiva* /fiːva/, _fever_
+* *fikshan* /fikʃan/, _fiction_
+* *filasafi* /filasafi/, _philosophy_
+* *finaminan* /finaminan/, _phenomenon_
+* *finanshal* /finanʃal/, _financial_
+* *fingga* /fiŋga/, _finger_
+* *fingga-hed* /fiŋgahed/, _fingertip_
+* *fiziolaji* /fizioladʒi/, _physiology_
+* *fizishan* /fiziʃan/, _physician_
+* *fizix* /fiziks/, _physics_
+* *flai* /flaɪ/, _fly_
+* *flieva* /flɪɛva/, _flavour_
+* *flim* /flim/, _film_
+* *flod* /flod/, _flood_
+* *flowa* /flowa/, _flour; flower_
+* *fluor* /fluɔɹ/, _floor_
+* *fongkshan* /foŋkʃan/, _function_
+* *foris* /foɹis/, _furthest_
+* *form* /foɹm/, _firm_
+* *fos* /fos/, _first (1st); fuss_
+* *foul* /foul/, _hen; chicken_
+* *fraag* /fɹaːg/, _frog_
+* *frahn* /fɹã/, _from_
+* *frai* /fɹaɪ/, _fry; fried_
+* *frai domplin* /fɹaɪ domplin/, _fried dumpling_
+* *frai plaan* /fɹaɪ plaːn/, _fried plantain_
+* *fraitn* /fɹaɪtn̩/, _frighten_
+* *frenship* /fɹenʃip/, _friendship_
+* *fruut* /fɹuːt/, _fruit_
+* *fruut juus* /fɹuːt dʒuːs/, _fruit juice_
+* *fufu* /fufu/, _foolish; mashed yam_
+* *ful* /ful/, _full_
+* *fuo* /fuɔ/, _four (4)_
+* *fuokos* /fuɔkos/, _focus_
+* *fuos* /fuɔs/, _force_
+* *fuot* /fuɔt/, _fourth (4th)_
+* *fuotiin* /fuɔtiːn/, _fourteen (14)_
+* *fut* /fut/, _foot_
+* *futbaal* /futbaːl/, _football_
+* *fuud* /fuːd/, _food_
+* *fyuil* /fjuil/, _fuel; fueled_
+* *fyuu* /fjuː/, _few_
+
+== G
+
+* *galang* /galaŋ/, _go on; go away; get along; move ahead_
+* *gens* /gens/, _against_
+* *get apaint* /get apaɪnt/, _be appointed_
+* *get bex* /get beks/, _get angry_
+* *get hextingk* /get hekstiŋk/, _go extinct_
+* *gien* /gɪɛn/, _gain_
+* *giet* /gɪɛt/, _gate_
+* *ginep* /ginep/, _guinep; limoncillo; Spanish lime_
+* *gluobal* /gluɔbal/, _global_
+* *go a farin* /goafaɹin/, _go abroad_
+* *gobna* /gobna/, _governor_
+* *Gobna-Jinaral* /gobnadʒinaɹal/, _Governor-General_
+* *goli* /golɪ/, _gully_
+* *golibl* /golibl̩/, _gullible_
+* *gon* /gon/, _gun_
+* *govament* /govament/, _government_
+* *graasapa* /gɹaːsapa/, _smoke_
+* *grampierans* /gɹampɪɛɹans/, _grandparents_
+* *griep* /gɹɪɛp/, _grape_
+* *griet* /gɹɪɛt/, _great_
+* *grietis* /gɹɪɛtis/, _greatest_
+* *grii* /gɹiː/, _agree; agreed_
+* *grii pahn* /gɹiːpã/, _agree on; agreed upon_
+* *grii se* /gɹiːse/, _agree that_
+* *griin* /gɹiːn/, _green_
+* *grong* /gɹoŋ/, _ground_
+* *gruo* /gɹuɔ/, _grow_
+* *gruot* /gɹuɔt/, _growth_
+* *gud* /gud/, _good; well_
+* *gudz* /gudz/, _goods_
+* *gunggu* /guŋgu/, _pigeon pea; gungo pea_
+* *gunggu piiz* /guŋgu piːz/, _pigeon pea; gungo pea_
+* *guol* /guɔl/, _goal; gold_
+* *guot* /guɔt/, _goat_
+* *guzu* /guzu/, _magic_
+* *gwaava* /gwaːva/, _guava_
+* *gwan* /gwan/, _go on; happen_
+* *gyaad* /ɟaːd/, _guard_
+* *gyaadn* /ɟaːdn̩/, _garden_
+* *gyaalik* /ɟaːlik/, _garlic_
+* *gyada* /ɟada/, _gather_
+* *gyadarin* /ɟadaɹin/, _gathering_
+* *gyal* /ɟal/, _girl_
+* *gyal pikni* /ɟal pikni/, _daughter_
+* *gyas* /ɟas/, _gas_
+
+== H
+
+* *haakiek* /haːkɪɛk/, _archaic_
+* *haalzwie* /haːlzwɪɛ/, _always_
+* *haatagrafi* /haːtagɹafi/, _orthography_
+* *haatikl* /haːtikl̩/, _article_
+* *haatis* /haːtis/, _artist_
+* *habrij* /habɹidʒ/, _average_
+* *habvios* /habvios/, _obvious_
+* *hada* /hada/, _other_
+* *hadap* /hadap/, _adopt_
+* *hadvenchara* /hadventʃaɹa/, _adventurer_
+* *hafi* /hafi/, _have to; must_
+* *haid* /haɪd/, _hide_
+* *hairish* /haɪɹiʃ/, _Irish potato; potato_
+* *hairish pitieta* /haɪɹiʃ pitɪɛta/, _Irish potato; potato_
+* *hambrela* /hambɹela/, _umbrella_
+* *hanalisis* /hanalisis/, _analysis_
+* *hanimal* /hanimal/, _animal_
+* *harijin* /haɹidʒin/, _origin_
+* *hat* /hat/, _hurt; hot_
+* *hatityuud* /hatitjuːd/, _attitude_
+* *haxent* /haksent/, _accent_
+* *haxesobl* /haksesobl̩/, _accessible_
+* *haxpek* /hakspek/, _aspect_
+* *hayan* /hajan/, _iron_
+* *hayan-mekin* /hajanmekin/, _iron-making_
+* *haz* /haz/, _as_
+* *hebini* /hebini/, _ebony_
+* *hebm* /hebm̩/, _heaven_
+* *hedituoryal* /hedituɔɹjal/, _editorial_
+* *heg* /heg/, _egg_
+* *hels* /hels/, _else_
+* *hen* /hen/, _end_
+* *hen a* /hena/, _end of_
+* *heni* /heni/, _any_
+* *heni a* /henia/, _any of_
+* *heni a di abov* /henia diabov/, _any of the above_
+* *heniting* /henitiŋ/, _anything_
+* *heniting hels* /henitiŋ hels/, _anything else_
+* *hexpand* /hekspand/, _expand_
+* *hexplien* /heksplɪɛn/, _explain_
+* *hexpreshan* /hekspɹeʃan/, _expression_
+* *hexten* /heksten/, _extend_
+* *hextingk* /hekstiŋk/, _extinct_
+* *hidyam* /hidjam/, _idiom_
+* *hiem* /hɪɛm/, _aim_
+* *hiet* /hɪɛt/, _eight (8)_
+* *hietiin* /hɪɛtiːn/, _eighteen (18)_
+* *hifek* /hifek/, _effect_
+* *higla* /higla/, _hawker; peddler; street vendor_
+* *hiit* /hiːt/, _eat_
+* *hiiz* /hiːz/, _ease_
+* *hilekchranik* /hilektʃɹanik/, _electronic_
+* *hilekchranik komiunikieshan* /hilektʃɹanik komjunikɪɛʃan/, _electronic communication_
+* *himpres* /himpɹes/, _impress_
+* *hinchradokshan* /hintʃɹadokʃan/, _introduce_
+* *hinchrajuus* /hintʃɹadʒuːs/, _introduce_
+* *hinchres* /hintʃɹes/, _interest_
+* *hinfluens* /hinfluens/, _influence_
+* *hingglish* /hiŋgliʃ/, _English_
+* *hinishal* /hiniʃal/, _initial_
+* *hinkluudn* /hinkluːdn̩/, _including_
+* *hintanashinal* /hintanaʃinal/, _international_
+* *hintanashinal chrabl* /hintanaʃinal tʃɹabl̩/, _international travel_
+* *hofishal* /hofiʃal/, _official_
+* *hofishal langwij* /hofiʃal laŋwidʒ/, _official language_
+* *honggl* /hoŋgl̩/, _only_
+* *honggri* /hoŋgɹi/, _hunger_
+* *honyan* /hoɲan/, _onion_
+* *hopin-en* /hopinen/, _open-ended_
+* *horbanizieshan* /hoɹbanizɪɛʃan/, _urbanization_
+* *hori* /hoɹi/, _hurry; rush_
+* *hori op* /hoɹi op/, _hurry up_
+* *horli* /hoɹli/, _early_
+* *howa* /howa/, _hour_
+* *hox* /hoks/, _husk_
+* *huobaluk* /huɔbaluk/, _overlook_
+* *huol* /huɔl/, _whole; hole; hold_
+* *huol-taima* /huɔltaɪma/, _old-timer_
+* *huoliip* /huɔliːp/, _many; a lot; large group_
+* *huoral* /huɔɹal/, _oral_
+* *huoral langwij* /huɔɹal laŋwidʒ/, _oral language_
+* *huovn* /huɔvn̩/, _oven_
+
+== I
+
+* *ie* /ɪɛ/, _hear_
+* *iebl* /ɪɛbl̩/, _able_
+* *iej* /ɪɛdʒ̩/, _age_
+* *iejobl* /ɪɛdʒobl̩/, _mature; as in person_
+* *iel* /ɪɛl/, _to greet_
+* *ienshent* /ɪɛnʃent/, _ancient_
+* *Iepril* /ɪɛpɹil/, _April_
+* *ier* /ɪɛɹ/, _year; hair; hear; air_
+* *ieria* /ɪɛɹia/, _area_
+* *ies* /ɪɛs/, _haste; hurry_
+* *iet* /ɪɛt/, _eight (8)_
+* *ieti* /ɪɛti/, _eighty (80)_
+* *ietiin* /ɪɛtiːn/, _eighteen (18)_
+* *iez* /iez/, _ear_
+* *ifainali* /ifaɪnali/, _finally_
+* *ifek* /ifek/, _effect_
+* *igwaana* /igwaːna/, _iguana_
+* *ihn* /ĩ/, _he; she_
+* *iibm* /iːbm̩/, _even_
+* *iibn* /iːbn̩/, _even_
+* *iihn* /ĩː/, _isn't it? (interrogative particle)_
+* *iikwal* /iːkwal/, _equal_
+* *iip* /iːp/, _many_
+* *iir* /iːɹ/, _here_
+* *iis* /iːs/, _east_
+* *iistan* /iːstan/, _eastern_
+* *iit* /iːt/, _eat_
+* *iit aaf* /iːtaːf/, _eat up_
+* *iivn* /iːvn̩/, _even_
+* *iivnin* /iːvnin/, _evening_
+* *ikanami* /ikanami/, _economy_
+* *ikanamik* /ikanamik/, _economic_
+* *ikanamix* /ikanamiks/, _economics_
+* *ilek* /ilek/, _elect; elected_
+* *iloschrieshan* /ilostʃɹɪɛʃan/, _illustration_
+* *im* /im/, _he; she_
+* *impak* /impak/, _impact_
+* *impruuv* /impɹuːv/, _improve; improved_
+* *impuotant* /impuɔtant/, _important_
+* *imuoshan* /imuɔʃan/, _emotion_
+* *in fak* /infak/, _in fact_
+* *ina* /ina/, _in_
+* *ina di faam a* /inadi faːma/, _in the form of_
+* *ina di wol* /inadi wol/, _in the world_
+* *inaamos* /inaːmos/, _enormous_
+* *inabit* /inhabit/, _inhabit_
+* *indipendans* /indipendans/, _independence_
+* *indischroktebl* /indistʃɹoktebl̩/, _indestructible_
+* *indoschri* /indostʃɹi/, _industry_
+* *indoschrial* /indostʃɹial/, _industrial_
+* *indoschrializieshan* /indostʃɹializɪɛʃan/, _industrialization_
+* *infamieshan* /infamɪɛʃan/, _information_
+* *influens* /influens/, _influence_
+* *inggiej* /iŋgɪɛdʒ/, _engage_
+* *ingkluudn* /iŋkluːdn̩/, _including_
+* *ingkorij* /iŋkoɹidʒ/, _encourage_
+* *iniebl* /inɪɛbl̩/, _enable_
+* *injai* /indʒaɪ/, _enjoy_
+* *injinierin* /indʒinɪɛɹin/, _engineering_
+* *inkluud* /inkluːd/, _include_
+* *inkriis* /inkɹiːs/, _increase; increased_
+* *inruol* /inɹuɔl/, _enroll_
+* *insaiklopiidya* /insaɪklopiːdja/, _encyclopedia_
+* *inspaya* /inspaya/, _inspire_
+* *intaikl* /intaɪkl̩/, _entitled_
+* *intanashinal* /intanaʃinal/, _international_
+* *intanet* /intanet/, _internet_
+* *intatiena* /intatɪɛna/, _entertainer_
+* *invalv* /invalv/, _involve_
+* *inviejan* /invɪɛdʒan/, _invasion_
+* *ischri* /istʃɹi/, _history_
+* *ishu* /iʃhu/, _issue_
+* *istuorian* /istuɔɹian/, _historian_
+* *it* /it/, _to hit_
+* *ivalv* /ivalv/, _evolve_
+* *ivenchuali* /iventʃuali/, _eventually_
+* *ivent* /ivent/, _event_
+
+== J
+
+* *jaagrafi* /dʒaːgɹafi/, _geography_
+* *jaagrofi* /dʒaːgɹofi/, _geography_
+* *jaaloji* /dʒaːlodʒi/, _geology_
+* *jain* /dʒaɪn/, _join_
+* *jainop* /dʒaɪnop/, _join up_
+* *jakfruut* /dʒakfɹuːt/, _jackfruit_
+* *jaloji* /dʒalodʒi/, _geology_
+* *jangkro* /dʒaŋkɹo/, _turkey vulture_
+* *Janiweri* /dʒaniweɹi/, _January_
+* *jeli* /dʒeli/, _jelly coconut; unripe coconut sold in the street for water_
+* *jeliduo* /dʒeliduɔ/, _jelly coconut; unripe coconut sold in the street for water_
+* *jiel* /dʒɪɛl/, _jail_
+* *jinaral* /dʒinaɹal/, _general_
+* *jinarasiti* /dʒinaɹasiti/, _generosity_
+* *jinarieshan* /dʒinaɹɪɛʃan/, _relatives; generation_
+* *jinja* /dʒindʒa/, _ginger_
+* *joj* /dʒodʒ/, _judge_
+* *jomp* /dʒomp/, _dance_
+* *jomp-up* /dʒompop/, _party_
+* *jonjo* /dʒondʒo/, _mushroom; mould; mildew_
+* *jork* /dʒoɹk/, _jerk (seasoning); jerk cuisine_
+* *jork chikin* /dʒoɹk tʃikin/, _jerk chicken; chicken with jerk seasoning_
+* *jork puok* /dʒoɹk puɔk/, _jerk pork; pork with jerk seasoning_
+* *jork siiznin* /dʒoɹk siːznin/, _jerk seasoning; a spicy seasoning for meat_
+* *jork spais* /dʒoɹk spaɪs/, _jerk spice; jerk seasoning_
+* *jornal* /dʒoɹnal/, _journal_
+* *jostis* /dʒostis/, _justice_
+* *jraa* /dʒɹaː/, _draw_
+* *jraadong* /dʒɹaːdoŋ/, _reduced_
+* *jraaf* /dʒɹaːf/, _draft_
+* *jraafut* /dʒɹaːfut/, _lame_
+* *jraaz* /dʒɹaːz/, _drawers_
+* *jragan* /dʒɹagan/, _dragon_
+* *jrai* /dʒɹaɪ/, _dry_
+* *jramatik* /dʒɹamatik/, _dramatic_
+* *jrap* /dʒɹap/, _drop_
+* *jred* /dʒɹed/, _Rastafarian_
+* *jres* /dʒɹes/, _dress_
+* *jresbak* /dʒɹesbak/, _reverse_
+* *jresdong* /dʒɹesdoŋ/, _shift position_
+* *jriepop* /dʒɹɪɛpop/, _accost_
+* *jringk* /dʒɹiŋk/, _drink_
+* *jrog* /dʒɹog/, _drug_
+* *jrom* /dʒɹom/, _drum_
+* *juk* /dʒuk/, _poke; pierce_
+* *juki-juki* /dʒukidʒuki/, _prickly; sharp; needle-like_
+* *Julai* /dʒulaɪ/, _July_
+* *Jumieka Lieba Paati* /jumɪɛka lɪɛba paːti/, _Jamaica Labour Party_
+* *Jumieka Taak* /dʒumɪɛka taːk/, _Jamaican patois; Jamaican creole_
+* *junjo* /dʒundʒo/, _mushroom; mould; mildew_
+* *juok* /dʒuɔk/, _joke_
+* *juu tu* /dʒuːtu/, _due to; as a result of_
+* *Juun* /dʒuːn/, _June_
+* *juun plom* /dʒuːnplom/, _ambarella; june plum (Spondias dulcis)_
+* *juurin* /dʒuːɹin/, _during_
+* *juus* /dʒuːs/, _juice_
+
+== K
+
+* *kaa* /kaː/, _because_
+* *kaal* /kaːl/, _call; called_
+* *kaan* /kaːn/, _corn_
+* *kaanful* /kaːnful/, _disdainful_
+* *kaaz* /kaːz/, _because_
+* *kaazn* /kaːzn̩/, _because_
+* *kach banit pepa* /katʃ banit pepa/, _scotch bonnet pepper_
+* *kain* /kaɪn/, _kind; type; sort; coin_
+* *kait* /kaɪt/, _kite_
+* *kak* /kak/, _cock_
+* *kala* /kala/, _collar_
+* *kalalu* /kalalu/, _callaloo; amaranth_
+* *kalani* /kalani/, _colony_
+* *kalanis* /kalanis/, _colonist_
+* *kalek* /kalek/, _collect_
+* *kalekshan* /kalekʃan/, _collection_
+* *kalij* /kalɪdʒ/, _college_
+* *kaman* /kaman/, _common_
+* *kaman yuusij* /kaman juːsidʒ/, _common usage_
+* *kamedi* /kamedi/, _comedy_
+* *kanchosnis* /kantʃosnis/, _consciousness_
+* *kanchrak* /kantʃɹak/, _contract_
+* *kanchuol* /kantʃuɔl/, _control_
+* *kanekshan* /kanekʃan/, _connection_
+* *kanschrokshan* /kanstʃɹokʃan/, _construction_
+* *kansda* /kansda/, _consider; considering_
+* *kantent* /kantent/, _content_
+* *kantinyu* /kantiɲu/, _continue_
+* *kanvasieshan* /kanvasɪɛʃan/, _conversation_
+* *karambuola* /kaɹambuɔla/, _starfruit; carambola_
+* *kasaada* /kasaːda/, _cassava_
+* *kasaava* /kasaːva/, _cassava_
+* *katn* /katn̩/, _cotton_
+* *katn chrii* /katn̩ tʃɹiː/, _cotton tree_
+* *kazmopalitan* /kazmopalitan/, _cosmopolitan_
+* *kech* /ketʃ/, _catch_
+* *kech di riek* /ketʃ di ɹɪɛk/, _get the drift; get the point_
+* *kechop* /ketʃop/, _ketchup_
+* *kelyan* /keljan/, _scallion; green onion_
+* *kidni biin* /kidni biːn/, _kidney bean_
+* *kiedens* /kɪɛdens/, _cadence_
+* *kieful* /kɪɛful/, _careful_
+* *kiek* /kɪɛk/, _cake_
+* *kien* /kien/, _sugar cane_
+* *kies* /kɪɛs/, _case_
+* *kilomita* /kilomita/, _kilometre_
+* *kimischri* /kimistʃɹi/, _chemistry_
+* *kin* /kin/, _skin_
+* *kindom* /kindom/, _kingdom_
+* *kisaada* /kisaːda/, _cassava_
+* *klaat* /klaːt/, _cloth_
+* *klasikal* /klasikal/, _classical_
+* *klie* /klɪɛ/, _clay_
+* *klie pat* /klɪɛ pat/, _clay pot_
+* *kliem* /klɪɛm/, _claim_
+* *kliin* /kliːn/, _clean_
+* *kola* /kola/, _colour_
+* *kolcha* /koltʃa/, _culture_
+* *kom* /kom/, _come_
+* *kom iin laka* /komiːn laka/, _be like; be similar to_
+* *kom ya* /kom ja/, _come here_
+* *komiunikieshan* /komjunikɪɛʃan/, _communication_
+* *kompail* /kompaɪl/, _compile_
+* *kompyuuta* /kompjuːta/, _computer_
+* *kompyuuta manita* /kompjuːta manita/, _computer monitor_
+* *konchri* /kontʃɹi/, _country_
+* *kongk* /koŋk/, _conch_
+* *koni* /koni/, _cunning; clever; shrewd; tricky__
+* *korant* /koɹant/, _current_
+* *kori guot* /koɹi guɔt/, _curry goat_
+* *koril* /koɹil/, _coral_
+* *korl* /koɹl/, _curl_
+* *kos* /kos/, _curse; swear_
+* *koskos* /koskos/, _dispute; argument; quarrel_
+* *kostad apl* /kostad apl̩/, _custard apple; sweetsop; sugar apple_
+* *kot* /kot/, _cut_
+* *kot patwa* /kot patwa/, _speak Jamaican patois_
+* *kot yai* /kot jaɪ/, _give someone an evil look; give someone cut eye_
+* *kotlis* /kotlis/, _machete_
+* *kou* /kɔu/, _cow_
+* *kounti* /kɔunti/, _county_
+* *kowich* /kowitʃ/, _cow-itch_
+* *kozn* /koːzn̩/, _cousin_
+* *kraani* /kɹaːni/, _skinny_
+* *kraitiirya* /kɹaɪtiːɹja/, _criteria_
+* *krap* /kɹap/, _crop_
+* *krichoul* /kɹitʃɔul/, _owl_
+* *kriebn* /kɹɪɛbn̩/, _gluttonous_
+* *kriep* /kɹɪɛp/, _scrape_
+* *kriet* /kɹiet/, _create_
+* *krietiv* /kɹɪɛtiv/, _creative_
+* *krietiv raitn* /kɹɪɛtiv ɹaɪtn̩/, _creative writing_
+* *kriim* /kɹiːm/, _cream_
+* *krikit* /kɹikit/, _cricket_
+* *kris* /kɹis/, _stiff; proud_
+* *kritikal akliem* /kɹitikal aklɪɛm/, _critical acclaim_
+* *ku* /ku/, _look; see_
+* *kudn* /kudn̩/, _could not_
+* *kuk* /kuk/, _cook_
+* *kukumba* /kukumba/, _cucumber_
+* *kunu* /kunu/, _boat; fishing boat_
+* *kuoknat* /kuɔknat/, _coconut_
+* *kuoknat chrii* /kuɔknat tʃɹiː/, _coconut tree_
+* *kuoknat milk* /kuɔknat mɪlk/, _coconut milk_
+* *kuoknat waata* /kuɔknat waːta/, _coconut water_
+* *kuoko* /kuɔko/, _taro; taro root; dasheen_
+* *kuol* /kuɔl/, _cold; coal_
+* *kuos* /kuɔs/, _coast_
+* *kuot* /kuɔt/, _coat_
+* *kuul* /kuːl/, _cool; school_
+* *kwaadinet* /kwaːdinet/, _coordinate_
+* *kwaat* /kwaːt/, _quart_
+* *kwait* /kwaɪt/, _quite_
+* *kwaiyat* /kwaɪjat/, _quiet_
+* *kwestiyan* /kwestijan/, _question_
+* *kwiin* /kwiːn/, _queen_
+* *kwik* /kwik/, _quick_
+* *kwik-taim* /kwiktaɪm/, _immediately; in a hurry_
+* *kwint* /kwint/, _squint; blink_
+* *kyaa* /kjaː/, _carry_
+* *kyaahn* /kjãː/, _can't; cannot_
+* *kyaar* /kjaːɹ/, _car_
+* *kyaarat* /kjaːɹat/, _carrot_
+* *kyabij* /kjabidʒ/, _cabbage_
+* *kyahn* /kjã/, _can; be able to_
+* *Kyaklik* /kjaklik/, _Catholic_
+* *kyamil* /kjamil/, _camel_
+* *kyanal* /kjanal/, _canal_
+* *kyanggl* /kjaŋgl̩/, _̩candle_
+* *kyangkro* /kjaŋkɹo/, _turkey vulture_
+* *kyapasiti* /kjapasiti/, _capacity_
+* *kyapcha* /kjaptʃa/, _capture_
+* *kyapital* /kjapital/, _capital_
+* *kyapitalis* /kjapitalis/, _capitalist_
+* *kyaptin* /kjaptin/, _captain_
+* *kyar* /kjaɹ/, _carry_
+* *kyarakta* /kjaɹakta/, _character_
+* *kyash* /kjaʃ/, _cash_
+* *kyash krap* /kjaʃ kɹap/, _cash crop_
+* *kyashu* /kjaʃu/, _cashew_
+* *kyata* /kjata/, _scatter_
+* *kyatalis* /kjatalis/, _catalyst_
+* *kyatigari* /kjatigaɹi/, _category_
+
+== L
+
+* *laa* /laː/, _law_
+* *laaf* /laːf/, _laugh_
+* *laaj* /laːdʒ/, _large_
+* *laan* /laːn/, _learn_
+* *labsta* /labsta/, _lobster_
+* *lai* /laɪ/, _lie_
+* *laibri* /laɪbɹi/, _library_
+* *laif* /laɪf/, _life_
+* *laifstail* /laɪfstaɪl/, _lifestyle_
+* *laik* /laɪk/, _like_
+* *lait* /laɪt/, _light_
+* *laitous* /laɪtɔus/, _lighthouse_
+* *laiyad* /laɪjad/, _liar_
+* *laiyan* /laɪjan/, _lion_
+* *laka* /laka/, _such as; like; for example_
+* *laka se* /lakase/, _as if; like_
+* *lam* /lam/, _lamb_
+* *lan* /lan/, _land_
+* *lang* /laŋ/, _long_
+* *langwij* /laŋwidʒ/, _language_
+* *layad* /lajad/, _liar_
+* *lebl* /lebl̩/, _level_
+* *lebm* /lebm̩/, _eleven (11)_
+* *leda* /leda/, _leather_
+* *lef* /lef/, _leave; depart_
+* *lego* /lego/, _loose; disorderly; out of control_
+* *lego biis* /lego biːs/, _a wild person; a badly-behaved person; an unruly person_
+* *lejislieta* /ledʒislɪɛta/, _legislator_
+* *lent* /lent/, _length_
+* *leta* /leta/, _letter_
+* *lib a farin* /libafaɹin/, _live abroad; live overseas_
+* *libn* /libn̩/, _living_
+* *libn langwij* /libn̩ laŋwidʒ/, _living language_
+* *lichicha* /litʃitʃa/, _literature_
+* *lieba* /lɪɛba/, _labour_
+* *liedi* /lɪɛdi/, _lady_
+* *liet* /lɪɛt/, _late_
+* *lieta* /lɪɛta/, _later_
+* *lieya* /lɪɛja/, _layer_
+* *lifop* /lifop/, _lift up_
+* *liida* /liːda/, _leader_
+* *liig* /liːg/, _league_
+* *liin* /liːn/, _lean_
+* *lik* /lik/, _hit; strike_
+* *likl* /likl̩/, _little; small_
+* *likl muos* /likl̩ muɔs/, _almost_
+* *lili* /lili/, _little_
+* *lingguistik* /liŋguistik/, _linguistic_
+* *linggwis* /liŋgwis/, _linguist_
+* *lis* /lis/, _list_
+* *lis a* /lisa/, _list of_
+* *lisn* /lisn̩/, _listen_
+* *litosfier* /litosfɪɛɹ/, _lithosphere_
+* *lizad* /lizad/, _lizard_
+* *lob* /lob/, _love_
+* *long* /loŋ/, _lung_
+* *lorn* /loɹn/, _learn_
+* *lou* /lɔu/, _allow_
+* *luk* /luk/, _look_
+* *luo* /lʊo/, _low_
+* *luokal* /luɔkal/, _local_
+* *luokalaiz* /luɔkalaɪz/, _localize; localized_
+* *luokiet* /luɔkɪɛt/, _locate; located_
+* *luokiet ina* /luɔkɪɛt ina/, _located in_
+* *luokiet nier* /luɔkɪɛt nɪɛɹ/, _located near_
+
+== M
+
+* *Maach* /maːtʃ/, _March_
+* *maaga* /maːga/, _skinny_
+* *maakit* /maːkit/, _market_
+* *maanin* /maːnin/, _morning_
+* *mada* /mada/, _mother_
+* *mada-tong* /madatoŋ/, _mother tongue_
+* *madan* /madan/, _modern_
+* *madifai* /madifaɪ/, _modify_
+* *madifikieshan* /madifikɪɛʃan/, _modification_
+* *magaziin* /magaziːn/, _magazine_
+* *magij* /magɪdʒ/, _maggot_
+* *magl* /magl̩/, _model_
+* *maigrieshan* /maɪgɹɪɛʃan/, _migration_
+* *main* /maɪn/, _be careful; mind_
+* *mait* /maɪt/, _might_
+* *maitbi* /maɪtbi/, _maybe_
+* *majariti* /madʒaɹiti/, _majority_
+* *man* /man/, _man_
+* *manatii* /manatiː/, _manatee_
+* *manazebl* /manazebl̩/, _polite_
+* *manggo* /maŋgo/, _mango_
+* *mangguus* /maŋguːs/, _mongoose_
+* *manita* /manita/, _monitor_
+* *manyufakcha* /maɲufaktʃa/, _manufacture_
+* *manyufakcharin* /maɲufaktʃaɹin/, _manufacturing_
+* *mas* /mas/, _mass_
+* *mas komiunikieshan* /mas komjunikɪɛʃan/, _mass communication_
+* *mashet* /maʃet/, _machete_
+* *mashiin* /maʃiːn/, _machine_
+* *mashiin tuul* /maʃiːn tuːl/, _machine tool_
+* *mashiinri* /maʃiːnɹi/, _machinery_
+* *matiirialis* /matiːɹialis/, _materialist_
+* *matimatix* /matimatiks/, _mathematics_
+* *medisn* /medisn̩/, _medicine_
+* *meditieshan* /meditɪɛʃan/, _meditation_
+* *meja* /medʒa/, _measure_
+* *mejament* /medʒament/, _measurement_
+* *mek* /mek/, _make_
+* *mekop* /mekop/, _make up_
+* *memba* /memba/, _remember_
+* *mi* /mi/, _I; me_
+* *midiom* /midiom/, _medium_
+* *midya* /midja/, _media_
+* *Mie* /mɪɛ/, _May_
+* *miebi* /mɪɛbi/, _maybe_
+* *mieja* /mɪɛdʒa/, _major_
+* *miel* /mɪɛl/, _male_
+* *mien* /mɪɛn/, _main_
+* *mienli* /mɪɛnli/, _mainly_
+* *migl* /migl̩/, _middle_
+* *migl-klaas* /migl̩ klaːs/, _middle class_
+* *miin* /miːn/, _mean_
+* *miinin* /miːnin/, _meaning_
+* *miit* /miːt/, _meet_
+* *miita* /miːta/, _metre_
+* *miizolek* /miːzolek/, _mesolect_
+* *milichri* /militʃɹi/, _military_
+* *miliyan* /milijan/, _million (1,000,000)_
+* *mimuorial* /mimuɔɹial/, _memorial_
+* *minista* /minista/, _minister_
+* *mishaneri* /miʃaneɹi/, _missionary_
+* *misnuoma* /misnuɔma/, _misnomer_
+* *mixcha* /mikstʃa/, _mixture_
+* *mixcho* /mikstʃo/, _mixture_
+* *mongx* /moŋks/, _among; amongst_
+* *moni* /moni/, _money_
+* *mountn* /mɔuntn̩/, _mountain_
+* *mout* /mɔut/, _mouth_
+* *muo* /muɔ/, _more_
+* *muo dahn* /muɔdã/, _more than_
+* *muobail* /muɔbaɪl/, _mobile_
+* *muor* /muɔɹ/, _more_
+* *muos* /muɔs/, _most_
+* *muosli* /muɔsli/, _mostly_
+* *muotaim* /muɔtaɪm/, _often; frequently_
+* *muuv* /muːv/, _move_
+* *muuv frahn* /muːvfɹã/, _move from_
+* *muuv gaa* /muːvgaː/, _move to_
+* *myuuzik* /mjuːzik/, _music_
+* *myuziom* /mjuziom/, _museum_
+
+== N
+
+* *na* /na/, _not_
+* *na fi* /nafi/, _should not be_
+* *na kech di riek* /na ketʃ di ɹɪɛk/, _miss the point; be off the mark; not get the drift_
+* *na onggl* /na oŋgl̩/, _not only_
+* *naamali* /naːmali/, _normally_
+* *naasi* /naːsi/, _nasty; filthy_
+* *naasti* /naːsti/, _nasty; filthy_
+* *naat* /naːt/, _north_
+* *naatiis* /naːtiːs/, _north east_
+* *naatwes* /naːtwes/, _north west_
+* *nadan* /nadan/, _northern_
+* *nain* /naɪn/, _nine (9)_
+* *naint* /naɪnt/, _ninth (9th)_
+* *naintiin* /naɪntiːn/, _nineteen (19)_
+* *nais* /naɪs/, _nice_
+* *nait* /naɪt/, _night_
+* *naiz* /naɪz/, _noise_
+* *nalij* /nalidʒ/, _knowledge_
+* *nanfikshan* /nanfikʃan/, _non-fiction_
+* *naritiv* /naɹitiv/, _narritive_
+* *navl* /navl̩/, _novel_
+* *neba* /neba/, _never_
+* *nex* /neks/, _other; another_
+* *nex ier* /neks ɪɛɹ/, _next year_
+* *niecha* /nɪɛtʃa/, _nature_
+* *niel* /nɪɛl/, _nail_
+* *niem* /nɪɛm/, _name_
+* *niernis* /nɪɛɹnis/, _nearness_
+* *nieshan* /nɪɛʃan/, _nation_
+* *nieshan stiet* /nɪɛʃan stɪɛt/, _nation state_
+* *nietib* /nɪɛtib/, _native_
+* *nietib langwij* /nɪɛtib laŋwidʒ/, _native language_
+* *niigl* /niːgl̩/, _needle_
+* *niyilis* /nijilis/, _nihilist_
+* *no kja* /nokja/, _no matter; regardless of_
+* *no kja umoch* /nokja umotʃ/, _no matter how much_
+* *no kwait* /no kwaɪt/, _not quite_
+* *no kya* /no kja/, _no matter; regardless of_
+* *no kya ou* /no kyja ɔu/, _no matter how_
+* *no riili* /no ɹiːli/, _not really_
+* *nof* /nof/, _many, a lot; enough_
+* *nof-nof* /nofnof/, _more than enough; plenty_
+* *nof piipl* /nof piːpl̩/, _many people_
+* *nof tangx* /nof taŋks/, _many thanks; thank you very much_
+* *noftaim* /noftaɪm/, _often; frequently_
+* *nomba* /nomba/, _number_
+* *non* /non/, _none_
+* *nondiles* /nondiles/, _nonetheless; regardless; in any case_
+* *notn* /notn̩/, _nothing_
+* *notn na go so* /notn̩ nagoso/, _nothing like that_
+* *Novemba* /novemba/, _November_
+* *nuo* /nuɔ/, _know_
+* *nuot* /nuɔt/, _note_
+* *nuotobl* /nuɔtobl̩/, _notable_
+* *nuoz* /nuɔz/, _nose_
+* *nyaamps* /ɲaːmps/, _useless person_
+* *nyam* /ɲam/, _eat_
+* *nyam aaf* /ɲamaːf/, _eat up_
+* *nyami-nyami* /ɲamiɲami/, _greedy; gluttonous_
+* *nyuu* /ɲuː/, _new_
+* *nyuuz* /ɲuːz/, _news_
+* *nyuuzpiepa* /ɲuːzpɪɛpa/, _newspaper_
+
+== O
+
+* *ogli* /oglɪ/, _ugly_
+* *okor* /okoɹ/, _occur_
+* *okro* /okɹo/, _okra_
+* *olo* /olo/, _scam_
+* *ombl* /ombl̩/, _humble_
+* *onggl* /oŋgl̩/, _only_
+* *onggl wan* /oŋgl̩ wan/, _only one_
+* *onjrid* /ondʒɹid/, _hundred (100)_
+* *ont* /ont/, _hunt_
+* *ontalaji* /ontaladʒi/, _ontology_
+* *ontin* /ontin/, _hunting_
+* *ontruut* /ontɹuːt/, _untruth_
+* *op* /op/, _up_
+* *op tu* /optu/, _up to_
+* *opdiet* /opdɪɛt/, _upate_
+* *opinyan* /opiɲan/, _opinion_
+* *opsaid dong* /opsaɪd doŋ/, _upside down_
+* *ort* /oɹt/, _earth_
+* *ortkwiek* /oɹtkwɪɛk/, _earthquake_
+* *ou* /ɔu/, _how_
+* *oun* /ɔun/, _own_
+* *ous* /ɔus/, _house_
+* *ousomeba* /ɔusomeba/, _however_
+* *ozban* /ozban/, _husband_
+
+== P
+
+* *paadn* /paːdn̩/, _pardon_
+* *paaliment* /paːliment/, _parliament_
+* *paarat* /paːɹat/, _parrot_
+* *paas* /paːs/, _pass; past_
+* *paas dong* /paːsdoŋ/, _pass down_
+* *paas ischri* /paːs istʃɹi/, _past history_
+* *paasl* /paːsl̩/, _parsley_
+* *paasn* /paːsn̩/, _parson; preacher_
+* *paasteriti* /paːsteɹiti/, _posterity_
+* *paat* /paːat/, _part_
+* *paat a* /paːta/, _part of_
+* *paati* /paːti/, _party_
+* *pahn* /pã/, _on; upon_
+* *pain* /paɪn/, _pineapple_
+* *paint* /paɪnt/, _point; pint_
+* *paip* /paɪp/, _pipe_
+* *pakit* /pakit/, _package; packet_
+* *paliis* /paliːs/, _police_
+* *palisi* /palisi/, _policy_
+* *palitikal* /palitikal/, _political_
+* *palitishan* /palitiʃan/, _politician_
+* *palitix* /palitiks/, _politics_
+* *Panish* /panish/, _Spanish_
+* *papila* /papila/, _popular_
+* *papilieshan* /papilɪɛʃan/, _population_
+* *papishuo* /papiʃuɔ/, _foolishness (exclamation of surprise)_
+* *papyulieshan* /papjulɪɛʃan/, _population_
+* *pashan fruut* /paʃan fɹuːt/, __
+* *pat* /pat/, _pot_
+* *pati* /pati/, _patty_
+* *patwa* /patwa/, _patois; Jamaican patois; Jamaican creole_
+* *pel* /pel/, _spell_
+* *pelin* /pelin/, _spelling_
+* *pepa* /pepa/, _pepper_
+* *picha* /pitʃa/, _picture_
+* *picha buk* /pitʃa buk/, _picture book_
+* *pie* /pɪɛ/, _pay_
+* *pie fa* /pɪɛfa/, _pay for_
+* *piej* /pɪɛdʒ/, _page_
+* *piepa* /pɪɛpa/, _paper_
+* *pier* /pɪɛɹ/, _avocado; alligator pear_
+* *pierans* /pɪɛɹans/, _parents_
+* *pieschri* /pɪɛstʃɹi/, _pastry_
+* *pieshans* /pɪɛʃans/, _patience_
+* *piich patan* /piːtʃ patan/, _speech pattern_
+* *piik* /piːk/, _speak_
+* *piika* /piːka/, _speaker_
+* *piiki-puoki* /piːkipuɔki/, _"speaky-spoky"; fancy language_
+* *piil* /piːl/, _peel_
+* *piini* /pːini/, _click beetle; peeny_
+* *piini-waali* /piːniwaːli/, _click beetle; peeny_
+* *piipl* /piːpl̩/, _people_
+* *Piipl Nashinal Paati* /piːpl̩ naʃinal paːti/, _People's National Party_
+* *piiriad* /piːɹiad/, _period_
+* *piis* /piːs/, _peace; piece_
+* *piiz* /piːz/, _pea; peas_
+* *pikni* /pikni/, _child_
+* *pilikin* /pilikin/, _pelican_
+* *pimenta* /pimenta/, _allspice; pimento_
+* *pio* /pio/, _pure; solely_
+* *pit* /pit/, _spit_
+* *pitieta* /pitɪɛta/, _potato_
+* *pitni* /pitni/, _child_
+* *plaan* /plaːn/, _plant; plantain_
+* *plaant* /plaːnt/, _plant_
+* *plaantin* /plaːntin/, _plantain_
+* *pleja* /pledʒa/, _pleasure_
+* *plie* /plɪɛ/, _play_
+* *plies* /plɪɛs/, _place_
+* *pliet* /plɪɛt/, _plate_
+* *plit* /plit/, _split_
+* *plom* /plom/, _plum_
+* *poblik* /poblik/, _public_
+* *poblikieshan* /poblikɪɛʃan/, _publication_
+* *poblish* /pobliʃ/, _publish_
+* *poblisha* /pobliʃa/, _publisher_
+* *pofaam* /pofaːm/, _perform_
+* *poliis* /poliːs/, _police_
+* *poliisman* /poliːsman/, _policeman_
+* *politikal paati* /politikal paːti/, _political party_
+* *pongkin* /poŋkin/, _pumpkin_
+* *ponish* /poniʃ/, _punish_
+* *ponishment* /poniʃment/, _punishment_
+* *por-kiapita* /poɹ kjapita/, _per capita_
+* *porl* /poɹl/, _pearl_
+* *pormanent* /poɹmanent/, _permanent_
+* *posnal* /posnal/, _personal_
+* *posnal infamieshan* /posnal infamɪɛʃan/, _personal information_
+* *pospektiv* /pospektiv/, _perspective_
+* *potenshal* /potenʃal/, _potential; potentially_
+* *potienin* /potɪɛnin/, _pertaining_
+* *potikila* /potikila/, _particular_
+* *potikyula* /potikjula/, _particular; particularly_
+* *powa* /powa/, _power_
+* *prablem* /pɹablem/, _problem_
+* *praim* /pɹaɪm/, _prime_
+* *praim minista* /pɹaɪm minista/, _prime minister_
+* *prais* /pɹaɪs/, _price_
+* *praivisi* /pɹaɪvisi/, _privacy_
+* *prajek* /pɹadʒek/, _project_
+* *pramis* /pɹamis/, _promise_
+* *pravins* /pɹavins/, _province_
+* *pred* /pɹed/, _spread_
+* *preke* /pɹeke/, _difficulty_
+* *priivos* /pɹiːvos/, _previous_
+* *primenta* /pɹimenta/, _allspice; pimento_
+* *prizaab* /pɹizaːb/, _preserve_
+* *prizn* /pɹizn̩/, _prison_
+* *prodok* /pɹodok/, _product_
+* *prodokshan* /pɹodokʃan/, _production_
+* *profeshanal chrienin* /pɹofeʃanal tʃɹɪɛnin/, _professional training_
+* *pronongx* /pɹonoŋks/, _pronounce_
+* *protek* /pɹotek/, _protect_
+* *protekshan* /pɹotekʃan/, _protection_
+* *prumuot* /pɹumuɔt/, _promote_
+* *pruogram* /pɹuɔgɹam/, _program_
+* *pruoses* /pɹuɔses/, _process_
+* *pudn* /pudn̩/, _pudding_
+* *pumuot* /pumuɔt/, _promote; promoted_
+* *puo* /puɔ/, _poor_
+* *puohim* /puɔhim/, _poem_
+* *puok* /puɔk/, _pork_
+* *puos* /puɔs/, _post_
+* *puosi* /puɔsi/, _postman_
+* *puot* /puɔt/, _sports_
+* *pupaa* /pupaː/, _papaya_
+* *pus* /pus/, _cat_
+* *pwail* /pwaɪl/, _spoil_
+* *pyaa-pyaa* /pjaːpjaː/, _weak_
+* *pyuuriti* /pjuːɹɪtɪ/, _purity_
+
+== R
+
+* *raa* /ɹaː/, _raw_
+* *raatid* /ɹaːtid/, _extremely angry; annoyed_
+* *raip* /ɹaɪp/, _ripe_
+* *rais* /ɹaɪs/, _rice_
+* *rais ahn piiz* /ɹaɪs ã piːz/, _rice and peas_
+* *rait* /ɹaɪt/, _right; write_
+* *raita* /ɹaɪta/, _writer_
+* *raitn* /ɹaɪtn̩/, _writing_
+* *raktuon* /ɹaktuɔn/, _stone_
+* *rang* /ɹaŋ/, _wrong_
+* *rang-said* /ɹaŋsaɪd/, _inside-out_
+* *reda* /ɹeda/, _rather_
+* *redi* /ɹedɪ/, _ready_
+* *refa* /ɹefa/, _refer_
+* *refa tu* /ɹefatu/, _referred to_
+* *refa tu az* /ɹefatuaz/, _referred to as_
+* *refarans* /ɹefaɹans/, _reference_
+* *refarans buk* /ɹefaɹans buk/, _reference book_
+* *refrans* /ɹefɹans/, _reference_
+* *rekaad* /ɹekaːd/, _record_
+* *rekanaiz* /ɹekanaɪz/, _recognize_
+* *rekanaiz se* /ɹekanaɪzse/, _recognize that_
+* *rekanishan* /ɹekaniʃan/, _recognition_
+* *respirieshan* /ɹespiɹɪɛʃan/, _respiration_
+* *revaluushan* /ɹevaluːʃan/, _revolution_
+* *revarii* /ɹevaɹiː/, _reverie_
+* *revinyuu* /ɹeviɲuː/, _revenue_
+* *riba* /ɹiba/, _river_
+* *ribelyan* /ɹibeljan/, _rebellion_
+* *ridim* /ɹidim/, _rhythm_
+* *ried* /ɹɪɛd/, _raid_
+* *riedio* /ɹɪɛdio/, _radio_
+* *riek* /ɹɪɛk/, _hunch; notion; impulse; trick_
+* *rielwie* /ɹɪɛlwɪɛ/, _railway_
+* *rielwie stieshan* /ɹɪɛlwɪɛ stɪɛʃan/, _railway station_
+* *rien* /ɹɪɛn/, _rain_
+* *rienj* /ɹɪɛndʒ/, _range_
+* *ries* /ɹɪɛs/, _race_
+* *riesin* /ɹɪɛsin/, _racing_
+* *riesizim* /ɹɪɛsizim/, _racism_
+* *rieza* /ɹɪɛza/, _razor_
+* *riezn* /ɹɪɛzn̩/, _raisin_
+* *rifaam* /ɹifaːm/, _reform_
+* *rifain* /ɹifaɪn/, _refine; refined_
+* *rigl* /ɹigl̩/, _riddle_
+* *riid* /ɹiːd/, _read_
+* *riida* /ɹiːda/, _reader_
+* *riijan* /ɹiːdʒan/, _region_
+* *riijanal* /ɹiːdʒanal/, _regional_
+* *riili* /ɹiːli/, _really_
+* *riisant* /ɹiːsant/, _recent_
+* *riizn* /ɹiːzn̩/, _reason_
+* *rijais* /ɹijaɪs/, _rejoice_
+* *rilaxieshan* /ɹilaksɪɛʃan/, _relaxation_
+* *rilieshanship* /ɹilɪɛʃanʃip/, _relationship_
+* *rilietid* /ɹilɪɛtid/, _related_
+* *riliis* /ɹiliːs/, _release_
+* *rilijan* /ɹilidʒan/, _religion_
+* *rimien* /ɹimɪɛn/, _remain_
+* *ripoblik* /ɹipoblik/, _republic_
+* *riprizent* /ɹipɹizent/, _represent_
+* *ris* /ɹis/, _wrist_
+* *rispek* /ɹispek/, _respect_
+* *ritorn* /ɹitoɹn/, _return_
+* *rivuolt* /ɹivuɔlt/, _revolt_
+* *rizaat* /ɹizaːt/, _resort_
+* *rizolt* /ɹizolt/, _result_
+* *romantik* /ɹomantik/, _romantic_
+* *ron* /ɹon/, _run_
+* *ruod* /ɹuɔd/, _road_
+* *Ruoman Kyaklik* /ɹuɔman kjaklik/, _Roman Catholic_
+* *Ruoman Kyaklik Choch* /ɹuɔman kjaklik tʃotʃ/, _Roman Catholic Church_
+* *ruos* /ɹuɔs/, _roasted_
+* *ruudnis* /ɹuːdnis/, _rudeness_
+* *ruul* /ɹuːl/, _rule_
+* *ruut* /ɹuːt/, _root_
+
+== S
+
+* *saab* /saːb/, _serve_
+* *saabis* /saːbis/, _service_
+* *saach* /saːtʃ/, _search_
+* *saaf* /saːf/, _soft_
+* *saalfish* /saːlfiʃ/, _saltfish_
+* *saaya saas* /saːja saːs/, _soy sauce; soya sauce_
+* *sai* /saɪ/, _soy_
+* *sait* /saɪt/, _sight; site_
+* *saiyans* /saɪjans/, _science_
+* *sakrifais* /sakɹifaɪs/, _sacrifice_
+* *san* /san/, _sand_
+* *sang* /saŋ/, _song_
+* *santapii* /santapiː/, _centipede_
+* *sar* /saɹ/, _sir_
+* *saril* /saɹil/, _red sorrel_
+* *sasayati* /sasajati/, _society_
+* *sataya* /sataja/, _satire_
+* *sayans* /sajans/, _science_
+* *sayantis* /sajantis/, _scientist_
+* *schraip* /stʃɹaɪp/, _stripe_
+* *schuu* /stʃuː/, _stew_
+* *se* /se/, _say_
+* *sebm* /sebm̩/, _seven (7)_
+* *sebmt* /sebm̩t/, _seventh (17)_
+* *sebmtiin* /sebm̩tiːn/, _seventeen (17)_
+* *sebn* /sebn̩/, _seven (7)_
+* *sebnt* /sebn̩t/, _seventh (7th)_
+* *sebntiin* /sebn̩tiːn/, _seventeen (17)_
+* *sebral* /sebɹal/, _several_
+* *sef* /sef/, _self_
+* *sekan* /sekan/, _second (2nd)_
+* *sekl* /sekl̩/, _settle_
+* *seklment* /sekl̩ment/, _settlement_
+* *sekshan* /sekʃan/, _section_
+* *sela* /sela/, _seller_
+* *senchri* /sentʃɹi/, _century_
+* *senit* /senit/, _senate_
+* *senita* /senita/, _senator_
+* *sens* /sens/, _since_
+* *sensobl* /sensobl̩/, _sensible_
+* *sensos* /sensos/, _census_
+* *sentans* /sentans/, _sentence_
+* *sentri* /sentɹi/, _century_
+* *separieshan* /sepaɹɪɛʃan/, _separation_
+* *Septemba* /septemba/, _September_
+* *set a ruul* /setaɹuːl/, _set of rules_
+* *sexizim* /seksizim/, _sexism_
+* *sfier* /sfɪɛɹ/, _star_
+* *shaachij* /ʃaːtʃɪdʒ/, _shortage_
+* *shaat* /ʃaːt/, _short_
+* *shap* /ʃap/, _shop_
+* *shap-maasa* /ʃapmaːsa/, _shopkeeper_
+* *sheda* /ʃeda/, _shadow_
+* *shiem* /ʃɪɛm/, _shame_
+* *shier* /ʃɪɛɹ/, _share_
+* *shob* /ʃob/, _shove_
+* *shot* /ʃot/, _shirt_
+* *shout* /ʃɔut/, _shout_
+* *shudn* /ʃudn̩/, _shouldn't_
+* *shuga* /ʃuga/, _sugar_
+* *shuga kien* /ʃuga kɪɛn/, _sugar cane_
+* *shuo* /ʃuɔ/, _show_
+* *shuor* /ʃuɔɹ/, _sure; shore_
+* *shuut* /ʃuːt/, _shoot_
+* *si* /si/, _see_
+* *sib* /sib/, _sieve_
+* *sidong* /sidoŋ/, _sit down; sit_
+* *sief* /sɪɛf/, _safe_
+* *sieka* /sɪɛka/, _because; due to_
+* *siel* /sɪɛl/, _sail_
+* *siem* /sɪɛm/, _same_
+* *siem wie* /sɪɛm wɪɛ/, _the same way_
+* *siem wie laka ef* /sɪɛm wɪɛ laka ef/, _as if; just as; like_
+* *siev* /sɪɛv/, _save_
+* *sii* /siː/, _sea_
+* *sii kyaptin* /siː kjaptin/, _sea captain_
+* *siikuel* /siːkwel/, _sequel_
+* *siim* /siːm/, _seem; appear_
+* *siim fi* /siːmfi/, _seem to; appear to_
+* *siin* /siːn/, _agreed; OK (affirmative particle)_
+* *siis* /siːs/, _cease_
+* *siitorkl* /siːtoɹkl̩/, _sea turtle_
+* *siizn* /siːzn̩/, _season_
+* *siiznin* /siːznin/, _seasoning_
+* *sik* /sɪk/, _sick_
+* *silekshan* /silekʃan/, _selection_
+* *sing* /sɪŋ/, _sing_
+* *singa* /siŋa/, _singer_
+* *siniek* /sinɪɛk/, _snake_
+* *sinieli* /sɪnɪɛli/, _snail_
+* *sinting* /sintiŋ/, _something_
+* *sipl* /sipl̩/, _slippery_
+* *sista* /sista/, _sister_
+* *sistim* /sistim/, _system_
+* *siti* /siti/, _city_
+* *sitieshan* /sitɪɛʃan/, _situation_
+* *sitiet* /sitɪɛt/, _situate_
+* *sitizn* /sitizn̩/, _citizen_
+* *sitn* /sitn̩/, _something_
+* *six* /siks/, _six (6)_
+* *sixt* /sikst/, _sixth (6th)_
+* *sixtiin* /sikstiːn/, _sixteen (16)_
+* *skai* /skaɪ/, _sky_
+* *skelyan* /skeljan/, _scallion; green onion_
+* *skuul* /skuːl/, _school_
+* *skwier* /skwɪɛɹ/, _square_
+* *skwier kilomita* /skwɪɛɹ kilomita/, _square kilometre_
+* *slait* /slaɪt/, _slight_
+* *slieb* /slɪɛb/, _slave_
+* *sliip* /sliːp/, _sleep_
+* *sluo* /slʊo/, _slow_
+* *smaal* /smaːl/, _small_
+* *smadi* /smadi/, _somebody; someone_
+* *smadi els* /smadi els/, _someone else; somebody else_
+* *smadi uu* /smadi uː/, _someone who; somebody who; a person who_
+* *smuok* /smuɔk/, _smoke_
+* *so langx az* /solaŋksaz/, _as long as; so long as_
+* *sobjek* /sobdʒek/, _subject_
+* *sodan* /sodan/, _southern_
+* *sofa* /sofa/, _suffer_
+* *sofarieshan* /sofaɹɪɛʃan/, _suffering_
+* *sohn* /sõ/, _some_
+* *sojes* /sodʒes/, _suggest_
+* *som* /som/, _some_
+* *soma* /soma/, _summer_
+* *somwe* /somwe/, _somewhere_
+* *sopm* /sopm̩/, _something_
+* *sopraizn* /sopɹaɪzn̩/, _surprising_
+* *sopres* /sopɹes/, _suppress_
+* *sorkl* /soɹkl̩/, _circle_
+* *sorniem* /soɹnɪɛm/, _surname_
+* *sorosi* /soɹosi/, _plant (bitter melon) used for making cerasee tea_
+* *soroun* /soɹɔun/, _surround; surrounded_
+* *soroun bai* /soɹɔun baɪ/, _surrounded by_
+* *sostien* /sostɪɛn/, _sustain; sustained_
+* *soua* /sɔua/, _sore_
+* *soun* /sɔun/, _sound_
+* *sout* /sɔut/, _south_
+* *soutiis* /sɔutiːs/, _south east_
+* *soutwes* /sɔutwes/, _south west_
+* *spais* /spaɪs/, _spice_
+* *spekchrom* /spektʃɹom/, _spectrum_
+* *spies* /spɪɛs/, _space_
+* *spiishiz* /spiːʃiz/, _species_
+* *spring* /spɹiŋ/, _spring_
+* *spring rien* /spɹiŋ ɹɪɛn/, _spring rain_
+* *spring waata* /spɹiŋ waːta/, _spring water_
+* *spuoxman* /spuɔksman/, _spokesman_
+* *staach* /staːtʃ/, _starch_
+* *staam* /staːm/, _storm_
+* *staar* /staːɹ/, _star_
+* *staar apl* /staːɹ apl̩/, _star apple; milk fruit_
+* *staarfruut* /staːɹ fɹuːt/, _starfruit; carambola_
+* *staat* /staːt/, _start_
+* *stail* /staɪl/, _style_
+* *stie* /stɪɛ/, _stay_
+* *stiebl* /stɪɛbl̩/, _stable_
+* *stiej* /stɪɛdʒ/, _stage_
+* *stieshan* /stɪɛʃan/, _station_
+* *stiet* /stɪɛt/, _state_
+* *stietos* /stɪɛtos/, _status_
+* *stiim* /stiːm/, _steam_
+* *stiim powa* /stiːm powa/, _steam power; steam-powered_
+* *stodi* /stodi/, _study_
+* *stuon* /stuɔn/, _stone_
+* *suhn* /sũ/, _soon_
+* *suimz* /suimz/, _shrimp_
+* *sumaal* /sumaːl/, _small_
+* *sumuud* /sumuːd/, _smooth_
+* *suoja* /suɔdʒa/, _soldier_
+* *suop* /suɔp/, _soap_
+* *suos* /suɔs/, _source_
+* *suoshal* /suɔʃal/, _social_
+* *suoshal woka* /suɔʃal woka/, _social worker_
+* *susu* /susu/, _gossip_
+* *suucha* /suːtʃa/, _suture_
+* *suun* /suːn/, _soon_
+* *suup* /suːp/, _soup_
+* *swiit* /swiːt/, _sweet; suite_
+* *swiit-swiit* /swiːtswiːt/, _very sweet_
+* *swiit pepa* /swiːt pepa/, _sweet pepper; bell pepper_
+* *swiit pitieta* /swiːt pitɪɛta/, _sweet potato_
+* *swimin* /swimin/, _swimming_
+
+== T
+
+* *taak* /taːk/, _talk; speak_
+* *taakin* /taːkin/, _speech_
+* *taat* /taːt/, _start_
+* *taat frahn* /taːt fɹã/, _starting from_
+* *taikl* /taɪkl̩/, _title_
+* *taim* /taɪm/, _time; thyme_
+* *talawa* /talawa/, _strong; fearless; stubborn_
+* *tambrik* /tambɹik/, _turmeric_
+* *tambrin* /tambɹin/, _tamarind_
+* *tan* /tan/, _stand_
+* *tan op* /tanop/, _stand up_
+* *tandad* /tandad/, _standard_
+* *tangx* /taŋks/, _thanks; thank you_
+* *tap* /tap/, _stop_
+* *tapik* /tapik/, _topic_
+* *taya* /taja/, _tire_
+* *tayad* /tajad/, _tired_
+* *tek* /tek/, _take_
+* *tek iin* /tek iːn/, _take in; absorb_
+* *tek kier a* /tek kɪɛɹ/, _take care_
+* *tek plies* /tek plɪɛs/, _take place_
+* *tek uoba* /tek uɔba/, _take over_
+* *tekniik* /tekniːk/, _technique_
+* *tel* /tel/, _until; til_
+* *tel nou* /tel nɔu/, _till now; until now; heretofore_
+* *ten* /ten/, _ten (10)_
+* *tenis* /tenis/, _tennis_
+* *tent* /tent/, _tenth (10th)_
+* *tenya* /teɲa/, _tenure_
+* *terichri* /teɹitʃɹi/, _territory_
+* *tertiin* /teɹtiːn/, _thirteen (13)_
+* *textail* /tekstaɪl/, _textile_
+* *tide* /tide/, _today_
+* *tiebl* /tɪɛbl̩/, _table_
+* *tiel* /tɪɛl/, _tail; tale_
+* *ties* /tɪɛs/, _taste_
+* *tieta* /tɪɛta/, _theatre_
+* *tigeda* /tigeda/, _together_
+* *tii* /tiː/, _tea_
+* *tiich* /tiːtʃ/, _teach_
+* *tiif* /tiːf/, _steal_
+* *tiit* /tiːt/, _tooth; teeth_
+* *tik* /tik/, _stick_
+* *tingk* /tiŋk/, _think; stinky; foul_
+* *tingz* /tiŋz/, _things_
+* *tiori* /tioɹi/, _theory_
+* *tisyu* /tisju/, _tissue_
+* *tix* /tɪks/, _a tick_
+* *toch* /totʃ/, _touch_
+* *tod* /tod/, _third (3rd)_
+* *todi* /todi/, _study_
+* *tof* /tof/, _hard; tough_
+* *ton* /ton/, _turn; become_
+* *tong* /tɔŋ/, _town_
+* *torkl* /toɹkl̩/, _turtle_
+* *torm* /toɹm/, _term_
+* *tormal* /toɹmal/, _thermal_
+* *tornin paint* /toɹnin paɪnt/, _turning point_
+* *torpmtaim* /toɹpm̩taɪm̩/, _turpentine_
+* *toti* /totɪ/, _thirty_
+* *toun* /tɔun/, _town_
+* *touzn* /tɔuzn̩/, _thousand (1000); thousands_
+* *towa* /towa/, _tower_
+* *towil* /towil/, _towel_
+* *tros* /tɹos/, _trust_
+* *tu* /tu/, _to_
+* *tumatis* /tumatis/, _tomato_
+* *tuo* /tuɔ/, _toe_
+* *tuofuu* /tuɔfuː/, _tofu_
+* *tuon* /tuɔn/, _tone_
+* *tuonaliti* /tuɔnaliti/, _tonality_
+* *tuori* /tuɔɹi/, _story_
+* *tuu* /tuː/, _two (2)_
+* *tuul* /tuːl/, _tool_
+* *twelb* /twelb/, _twelvew (12)_
+* *twenti* /twenti/, _twenty (20)_
+
+== U
+
+* *ud* /ud/, _wood_
+* *uman* /uman/, _woman_
+* *umoch* /umotʃ/, _how much_
+* *unu* /unu/, _you (plural)_
+* *uoba* /uɔba/, _over_
+* *uoba taim* /uɔba taɪm/, _over time_
+* *uobasior* /uɔbasioɹ/, _overseer_
+* *uol* /uɔl/, _hole; whole; old_
+* *uoli* /uɔli/, _holy_
+* *uoliip* /huɔliːp/, _many; a lot_
+* *uom* /uɔm/, _home_
+* *uon* /uɔn/, _own_
+* *uona* /uɔna/, _owner_
+* *uonaship* /uɔnaʃip/, _ownership_
+* *uonyan* /uoɲan/, _onion_
+* *uopm* /uɔpm̩/, _open_
+* *uopm op* /uɔpm̩ op/, _open up_
+* *uoshan* /uɔʃan/, _ocean_
+* *uovn* /uovn̩/, _oven_
+* *uu* /uː/, _who_
+
+== V
+
+* *vais* /vaɪs/, _voice_
+* *van* /van/, _van_
+* *varayati* /vaɹajati/, _variety_
+* *vejitebl* /vedʒitebl̩/, _vegetable_
+* *vieri* /vɪɛɹi/, _vary_
+* *vijan* /vidʒan/, _vision_
+* *viniga* /viniga/, _vinegar_
+* *volkieno* /volkɪɛno/, _volcano_
+* *vorjan* /voɹdʒan/, _version_
+* *vowil* /vowil/, _vowel_
+* *vuokal* /vuɔkal/, _vocal_
+* *vuokalis* /vuɔkalis/, _vocalist_
+* *vuot* /vuɔt/, _vote_
+
+== W
+
+* *wa* /wa/, _what_
+* *wa dehn kaal* /wa dehn kaːl/, _known as; called_
+* *waak* /waːk/, _walk_
+* *waal* /waːl/, _wall_
+* *waam* /waːm/, _warm_
+* *waapm* /waːpm̩/, _what's happening; what's up (greeting)_
+* *waar* /waːɹ/, _war_
+* *waata* /waːta/, _water_
+* *wahn* /wã/, _want_
+* *waidpred* /waɪdpɹed/, _widespread_
+* *waif* /waɪf/, _wife_
+* *wail* /waɪl/, _while; wild_
+* *wails* /waɪls/, _while; whilst_
+* *wait* /waɪt/, _white_
+* *wala* /wala/, _wallow_
+* *wan* /wan/, _one (1)_
+* *wan nex* /wan neks/, _another_
+* *wan wie* /wan wɪɛ/, _one way_
+* *wapn-bapn* /wapn̩bapn̩/, _poorly constructed; thrown together_
+* *was* /was/, _wasp_
+* *wat-lef* /watlef/, _leftovers; remainders_
+* *wat-liiv* /watliːv/, _leftovers; remainders_
+* *we miin se* /wemiːnse/, _which means_
+* *weda* /weda/, _weather_
+* *wehn* /wẽ/, (anterior marker)
+* *wes* /wes/, _west_
+* *wi* /wi/, _we_
+* *wid* /wid/, _with_
+* *widout* /widɔut/, _without_
+* *widoutn* /widɔutn̩/, _without any; without_
+* *wie* /wɪɛ/, _way_
+* *wiej* /wɪɛdʒ/, _wage_
+* *wiet* /wɪɛt/, _wait_
+* *wiik* /wiːk/, _week_
+* *wiil* /wiːl/, _wheel_
+* *winta* /winta/, _winter_
+* *wod* /wod/, _word_
+* *wod-a-mout* /wodamɔut/, _word-of-mouth_
+* *wok* /wok/, _work_
+* *wok fuos* /wok fuɔs/, _work force_
+* *woka* /woka/, _worker_
+* *woklis* /woklis/, _useless; worthless_
+* *wol* /wol/, _world_
+* *wori* /woɹi/, _worry_
+* *worom* /woɹom/, _worm_
+* *wot* /wot/, _worth_
+* *wotlis* /wotlis/, _useless; worthless_
+* *wud* /wud/, _wood_
+* *wuol* /wuɔl/, _whole_
+
+== Y
+
+* *ya* /ja/, _here_
+* *yaad* /jaːd/, _home_
+* *yaadi* /jaːdi/, _Jamaican; person from Jamaica_
+* *yai* /jaɪ/, _eye_
+* *yam* /jam/, _yam_
+* *yampi* /jampi/, (a small variety of yam)
+* *yaso* /jaso/, _right here_
+* *yaxep* /jaksep/, _accept_
+* *yeside* /jeside/, _yesterday_
+* *yong* /joŋ/, _young_
+* *yu* /ju/, _you_
+* *yumaniti* /jumaniti/, _humanity_
+* *yunivorsiti* /junivoɹsiti/, _university_
+* *yuuman* /juːman/, _human_
+* *yuuniiknis* /juːniːknis/, _uniqueness_
+* *yuunyan* /juːɲan/, _union_
+* *yuus* /juːs/, _usage; use_
+* *yuusful* /juːsful/, _useful_
+* *yuusij* /juːsidʒ/, _usage_
+* *yuut* /juːt/, _youngster; youth; young person_
+* *yuuz* /juːz/, _use_
+
+== Z
+
+* *zela* /zela/, _funeral service (a nine-night wake/celebration for the dead)_
+* *zuu* /zuː/, _zoo_
