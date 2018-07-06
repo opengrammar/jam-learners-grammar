@@ -1,4 +1,4 @@
-= A Learner's Glossary of Jamaican
+= A Learner's Glossary of Jamaican: Part of the Open Grammar Project
 // settings
 :doctype: book
 :toc: left
@@ -1781,3 +1781,14 @@
 
 * *zela* /zela/, _funeral service (a nine-night wake/celebration for the dead)_
 * *zuu* /zuː/, _zoo_
+
+<<<
+
+[.colophon.discrete]
+
+(C) 2015 by the https://opengrammar.github.io/[Open Grammar Project]
+
+
+image::cc-by.png[]
+
+This work is licensed under a http://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License]

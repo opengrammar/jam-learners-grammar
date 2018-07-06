@@ -1,4 +1,4 @@
-= A Gazeteer of Placenames in Jamaican
+= A Gazeteer of Placenames in Jamaican: Part of the Open Grammar Project
 // settings
 :doctype: book
 :toc: left
@@ -178,3 +178,14 @@
 * *Yunaitid Stiet* /junaɪtid stɪɛt/, _United States_
 * *Yuukrien* /juːkɹɪɛn/, _Ukraine_
 * *Yuurop* /juːɹop/, _Europe_
+
+<<<
+
+[.colophon.discrete]
+
+(C) 2015 by the https://opengrammar.github.io/[Open Grammar Project]
+
+
+image::cc-by.png[]
+
+This work is licensed under a http://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License]
