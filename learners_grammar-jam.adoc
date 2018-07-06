@@ -42,7 +42,7 @@ The PDF version is available https://opengrammar.github.io/jam/learners_grammar-
 
 This book also comes with a number of appendices:
 
-* https://opengrammar.github.io/jam/gazetteer/[A Gazeteer of Placenames in Jamaican] (https://opengrammar.github.io/jam/gazetteer/gazetteer-jam.pdf[PDF])
+* https://opengrammar.github.io/jam/gazetteer/[A Gazetteer of Placenames in Jamaican] (https://opengrammar.github.io/jam/gazetteer/gazetteer-jam.pdf[PDF])
 * https://opengrammar.github.io/jam/glossary/[A Learner's Glossary of Jamaican] (https://opengrammar.github.io/jam/glossary/glossary-jam.pdf[PDF])
 
 === Jamaican
@@ -1205,7 +1205,7 @@ The following names have been reported by various people as being examples of ya
 
 ===== Place Names
 
-See the accompanying _Gazeteer of Placenames in Jamaican_ for a list of common placenames and their pronunciation.
+See the accompanying _Gazetteer of Placenames in Jamaican_ for a list of common placenames and their pronunciation.
 
 ==== Diminuitives
 

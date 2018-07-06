@@ -1,4 +1,4 @@
-= A Gazeteer of Placenames in Jamaican: Part of the Open Grammar Project
+= A Gazetteer of Placenames in Jamaican: Part of the Open Grammar Project
 // settings
 :doctype: book
 :toc: left
