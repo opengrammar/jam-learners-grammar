@@ -5,17 +5,24 @@
 :toclevels: 5
 :sectnums:
 :sectnumlevels: 5
+:sectlinks:
 :figure-caption!:
 :icons: font
 :chapter-label: 
 
 toc::[]
 
+== Acknowledgements
+
+Many thanks are due to Dr. Annette Henry at the University of British Columbia for her ongoing support for this project, and for her longstanding commitment to issues in Jamaican language education.
+
+This project also owes a great deal of gratitude to Dr. Joseph T. Farquharson of The University of the West Indies, author of the http://apics-online.info/contributions/8[Jamaican structure dataset], which formed part of the initial inspiration for this project, and from which so many of the examples in this text have been derived; as well as to the _Atlas of Pidgin and Creole Language Structures_ (APICS) Online for having the generosity and foresight to release the dataset and other works of Creole linguistics in the _Atlas_ under a Creative Commons license -- allowing them to be reused and repurposed in the way we have done here.
+
 == Introduction
 
 === The Open Grammar Project
 
-This volume is part of a series of learner's grammars by the Open Grammar Project. Like the other entries in the series, it is first and foremost an ongoing _synthesis_ of available linguistic information, which has been compiled, organized, and annotated so as to be maximally useful to *learners* rather than (just) *linguists*. It is assumed that the reader is interested in making the journey _from_ the source language _to_ the target language, and provides succinct advice on a range of relevant topics to make that journey easier. It also takes for granted that the learner is seeking to speak and write (as well as read and understand) a _living_ language of practical rather than just scholarly interest.
+This volume is part of a series of learner's grammars by the Open Grammar Project. Like the other entries in the series, it is first and foremost an ongoing _synthesis_ of available linguistic information, which has been compiled, organized, and annotated so as to be maximally useful to *learners* rather than (just) *linguists*. It is assumed that the reader is interested in making the journey _from_ the source language _to_ the target language, and provides succinct advice on a range of relevant topics to make that journey easier. It also takes for granted that the learner is seeking to speak and write (as well as read and understand) a _living_ language of practical rather than just scholarly or historical interest.
 
 In this task we are indebted to the source works listed in the bibliography section at the end of each volume. Many of the sources consulted are the work of linguistic experts, and those interested in learning more about the workings of a particular language are encouraged to seek out these source materials to read more deeply on the subject. The concept of a _learner grammar_ as used here, however, differs in both purpose and form from traditional linguistic grammars: it has most significantly a _didactic_ rather than simply _descriptive_ goal, and is further organized broadly under headings and topics according to the _source_ rather than _target_ grammar to make it easier for the learner to find the information they are looking for using familiar terms and categories.
 
@@ -36,7 +43,7 @@ The PDF version is available https://opengrammar.github.io/[here].
 This book also comes with a number of appendices:
 
 * https://opengrammar.github.io/jam/gazetteer/[A Gazeteer of Placenames in Jamaican] (https://opengrammar.github.io/jam/gazetteer/gazetteer-jam.pdf[PDF])
-* https://opengrammar.github.io/jam/glossary/[A Learner's Glossary of Jamaican] (https://opengrammar.github.io/jam/gazetteer/glossary-jam.pdf[PDF])
+* https://opengrammar.github.io/jam/glossary/[A Learner's Glossary of Jamaican] (https://opengrammar.github.io/jam/glossary/glossary-jam.pdf[PDF])
 
 === Jamaican
 
@@ -192,7 +199,7 @@ The long vowel *aa* is pronounced /a:/, as the _@_ in _@_
 * *waata* /wa:ta/, _water_
 
 ====== *ii*
-The long vowel *ii* is pronounced /i:/, as the "@" in_@_
+The long vowel *ii* is pronounced /i:/, as the "@" in _@_
 
 * *iit* /i:t/, _eat_
 * *tii* /ti:/, _tea_
@@ -203,7 +210,7 @@ The long vowel *ii* is pronounced /i:/, as the "@" in_@_
 * *paliis* /pali:s/, _police_
 
 ====== *uu*
-The long vowel *uu* is pronounced /u:/, as the "@" in_@_
+The long vowel *uu* is pronounced /u:/, as the "@" in _@_
 
 * *buut* /bu:t/, _booth / boot_
 * *shuut* /ʃu:t/, _shoot_
@@ -773,7 +780,7 @@ The letters *h* and *r* are often added or omitted at the beginning and end of w
 * *aatikl* -> *haatikl* (_article_)
 * *fuo* -> *fuor* (_four_)
 
-See <<h>> for more details on pronunciation of *h*
+See <<_consonants,Consonants>> for more details on the pronunciation of *h* and *r*
 
 ==== Elided Sounds
 
@@ -788,14 +795,11 @@ Certain consonant combinations tend to be avoided at the beginning of a word, fo
 * *tap* /tap/, _stop_
 * *plit* /plit/, _split_
 
-=== Accent
-
 == Morphology
 
 === Nouns
 
 ==== Basic Form of Nouns
-
 
 ==== Plural of nouns
 
@@ -1314,6 +1318,7 @@ Object pronouns are the same as subject pronouns in Jamaican
 
 * *miself*, _myself_
 * *unuself* or *yuself*, _yourself_
+* *imself*, _himself_
 * *demself*, _themselves_
 
 NOTE: *-self* in the above pronouns may sometimes be pronounced (and written) as *-sef*.
@@ -1697,6 +1702,19 @@ If there is an object after one or both of the verbs, they can likewise be strun
 
 * *Im tek di moni gi puo piipl*, _He took the money to give to poor people_
 
+Some verbs, like *laik* (_like_), *lov* (_love_) are followed by *fi* when used with other verbs
+
+* *laik fi*, _like to_
+* *lov fi*, _love to_
+
+Examples:
+
+* *Shi laik fi sing*, _She likes to sing_
+* *Mi wuda laik fi ier wa yu tingk*, _I would like to hear what you think_
+* *Im lov fi big op imself*, _He likes to boast_
+* *Im lov fi elp ada piipl*, _He loves to help other people_
+* *Dem lov fi susu-susu*, _They love to whisper / They love to gossip_
+
 ==== Verb Reduplication
 
 Verbs can be reduplicated to repetition or continuous action
@@ -1708,7 +1726,7 @@ Verbs can be reduplicated to repetition or continuous action
 In Jamaican adjectives can be used as adverbs to describe verbs without further modification
 
 * *Di daag a baak loud*, _The dog is barking loudly_
-* *Tan op chrang*, _Stand up strong__
+* *Tan op chrang*, _Stand up strong_
 
 In some cases, such as with *suun* (_soon_) adverbs may come before the verbs they describe
 
@@ -2097,7 +2115,7 @@ Relative clauses are formed using the connector-word *we* to link both parts of 
 
 * *Im ron laka se dem set daag afta im*, _He ran as if they had set dogs after im_
 * *It luk laka se im ago kil im wid lik*, _It appears that he is going to beat him to death_
-* *Yuuman aktiviti noftaim kansida laka difrahn kiatigori frahn adaels nachral finamina*, _Human activity is often considered to be in a different category from other natural phenomena
+* *Yuuman aktiviti noftaim kansida laka difrahn kiatigori frahn adaels nachral finamina*, _Human activity is often considered to be in a different category from other natural phenomena_
 * *No mek nobadi luk dong pan im ar chriit im laka se im a notn*, _Don't let anyone look down on him or treat him like nothing_
 
 
@@ -2897,6 +2915,7 @@ The interjection *ku!* (_look!_) can be used in a variety of situations to call 
 === Sociolinguistics and education
 
 * Brathwaite, E. K. (1984). _History of the voice: The development of nation language in Anglophone Caribbean poetry_. London: New Beacon Books.
+* Bryan, B. (2010). Between two grammars: Research and practice for language learning and teaching in a Creole-speaking environment. Kingston, Jamaica: Ian Randle Publishers.
 * Cassidy, F. G. (1971). _Jamaica talk: Three hundred years of the English language in Jamaica_. London: MacMillan Caribbean.
 * Cassidy, F. (2007). _Jamaica talk: Three hundred years of the English language in Jamaica_ (2nd ed.). Kingston, Jamaica: University of the West Indies Press.
 * Christie, P. (2003). _Language in Jamaica_. Kingston, Jamaica: Arawak.
@@ -2954,8 +2973,8 @@ The interjection *ku!* (_look!_) can be used in a variety of situations to call 
 
 === Online resources
 
-* http://apics-online.info/contributions/8[Jamaican structure dataset]
-* http://patwa.org[Jamaican Language Audio Dictionary] at Patwa.org (CC-BY-NC)
+* http://apics-online.info/contributions/8[Jamaican structure dataset] by Joseph T. Farquharson - Atlas of Pidgin and Creole Language Structures (APICS) Online (CC BY)
+* http://patwa.org[Jamaican Language Audio Dictionary] at Patwa.org (CC BY-SA)
 * http://glottolog.org/resource/languoid/id/jama1262[Glottolog Resources for Jamaican]
 * http://phoible.org/inventories/view/1053[Phonological Inventory of Jamaican] - PHOIBLE Online (Max Planck Institute for Evolutionary Anthropology)
 * http://www.jumieka.com/[Jumieka Langwij] - Introduction to Jamaican Language by Larry Chang
@@ -2966,13 +2985,13 @@ The interjection *ku!* (_look!_) can be used in a variety of situations to call 
 * https://langwij.wordpress.com/[Patwa Blog]
 * _Jamaican National Dictionary_ (in progress)
 * http://privatewww.essex.ac.uk/~patrickp/JCtexts.html[Jamaican Creole Texts] by Peter L. Patrick
-
+* https://www.podomatic.com/podcasts/jamaicans[Jamaican and Caribbean Weekly News Summary] by Jamaicans.com - Podomatic
 
 <<<
 
 [.colophon.discrete]
 
-(C) 2015 by Open Grammar Project
+(C) 2015 by the https://opengrammar.github.io/[Open Grammar Project]
 
 
 image::cc-by.png[]
